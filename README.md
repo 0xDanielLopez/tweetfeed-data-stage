@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-05 22:05:17 (UTC)</th>
+        <th colspan=4>2026-04-05 23:05:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 499 | 2222 | 65182 |
-| **:globe_with_meridians: Domains** | 24 | 386 | 1657 | 41741 |
-| **:triangular_flag_on_post: IPs** | 11 | 166 | 662 | 22041 |
+| **:link: URLs** | 38 | 502 | 2225 | 65185 |
+| **:globe_with_meridians: Domains** | 26 | 388 | 1659 | 41743 |
+| **:triangular_flag_on_post: IPs** | 13 | 168 | 664 | 22043 |
 | **:1234: SHA256** | 0 | 14 | 42 | 1483 |
 | **:1234: MD5** | 0 | 31 | 159 | 3627 |
 
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 28 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 22 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 24 |
 | **#3** | [smica83](https://twitter.com/smica83) | 4 |
 | **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
 | **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
 | **#6** | [PhishStats](https://twitter.com/PhishStats) | 3 |
-| **#7** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#8** | [CyberTLDR](https://twitter.com/CyberTLDR) | 2 |
-| **#9** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#7** | [sicehice](https://twitter.com/sicehice) | 3 |
+| **#8** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#9** | [CyberTLDR](https://twitter.com/CyberTLDR) | 2 |
+| **#10** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
 
 </div>
 
