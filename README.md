@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-05 18:47:12 (UTC)</th>
+        <th colspan=4>2026-04-05 19:05:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 32 | 496 | 2219 | 65179 |
-| **:globe_with_meridians: Domains** | 22 | 384 | 1655 | 41739 |
-| **:triangular_flag_on_post: IPs** | 10 | 165 | 661 | 22040 |
+| **:link: URLs** | 34 | 498 | 2221 | 65181 |
+| **:globe_with_meridians: Domains** | 23 | 385 | 1656 | 41740 |
+| **:triangular_flag_on_post: IPs** | 11 | 166 | 662 | 22041 |
 | **:1234: SHA256** | 0 | 14 | 42 | 1483 |
 | **:1234: MD5** | 0 | 31 | 159 | 3627 |
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 24 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 28 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 20 |
 | **#3** | [smica83](https://twitter.com/smica83) | 4 |
 | **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
