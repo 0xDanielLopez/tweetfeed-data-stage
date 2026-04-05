@@ -11,6 +11,48 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>102.89.75.12</title>
+         <link>https://x.com/skocherhan/status/2040829799803785588</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">102.89.75.12</guid>
+         <pubDate>Sun, 05 Apr 2026 16:31:55 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://102.89.75.12</title>
+         <link>https://x.com/skocherhan/status/2040829799803785588</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://102.89.75.12</guid>
+         <pubDate>Sun, 05 Apr 2026 16:31:55 -0000</pubDate>
+      </item>
+      <item>
+         <title>https://www-navy-mil-bd.up.railway.app/?ausbdu</title>
+         <link>https://x.com/skocherhan/status/2040822254661931066</link>
+         <description>@skocherhan | url | #APT</description>
+         <guid>https://www-navy-mil-bd.up.railway.app/?ausbdu</guid>
+         <pubDate>Sun, 05 Apr 2026 16:01:56 -0000</pubDate>
+      </item>
+      <item>
+         <title>www-navy-mil-bd.up.railway.app</title>
+         <link>https://x.com/skocherhan/status/2040822254661931066</link>
+         <description>@skocherhan | domain | #APT</description>
+         <guid isPermaLink="false">www-navy-mil-bd.up.railway.app</guid>
+         <pubDate>Sun, 05 Apr 2026 16:01:56 -0000</pubDate>
+      </item>
+      <item>
+         <title>34.120.154.212</title>
+         <link>https://x.com/PhishStats/status/2040822069235999158</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">34.120.154.212</guid>
+         <pubDate>Sun, 05 Apr 2026 16:01:12 -0000</pubDate>
+      </item>
+      <item>
+         <title>https://www.totaldrive.com</title>
+         <link>https://x.com/PhishStats/status/2040822069235999158</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://www.totaldrive.com</guid>
+         <pubDate>Sun, 05 Apr 2026 16:01:12 -0000</pubDate>
+      </item>
+      <item>
          <title>https://airbnb-seven-lime.vercel.app</title>
          <link>https://x.com/urldna_bot/status/2040821795259834381</link>
          <description>@urldna_bot | url | </description>
