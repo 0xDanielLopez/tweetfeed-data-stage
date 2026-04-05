@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-05 17:26:18 (UTC)</th>
+        <th colspan=4>2026-04-05 18:24:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 9 | 319 | 976 | 51682 |
 | **#scam** | 0 | 13 | 49 | 8221 |
 | **#opendir** | 2 | 16 | 47 | 790 |
-| **#malware** | 2 | 24 | 104 | 5988 |
+| **#malware** | 4 | 26 | 106 | 5990 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
 | **#ransomware** | 0 | 5 | 28 | 1029 |
 | **#banker** | 0 | 0 | 0 | 6 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 2 | 32 | 1914 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 0 | 32 | 8600 |
+| **#CobaltStrike** | 2 | 2 | 34 | 8602 |
 | **#Dcrat** | 0 | 0 | 3 | 339 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
@@ -166,15 +166,15 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 22 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 24 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 20 |
 | **#3** | [smica83](https://twitter.com/smica83) | 4 |
 | **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
 | **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
