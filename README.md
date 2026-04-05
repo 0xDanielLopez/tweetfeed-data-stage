@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-05 18:38:15 (UTC)</th>
+        <th colspan=4>2026-04-05 18:40:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -171,9 +171,9 @@ If you like the project, please consider:
 | **#3** | [smica83](https://twitter.com/smica83) | 4 |
 | **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
 | **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
-| **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
-| **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
-| **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
+| **#6** | [PhishStats](https://twitter.com/PhishStats) | 3 |
+| **#7** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#8** | [CyberTLDR](https://twitter.com/CyberTLDR) | 2 |
 | **#9** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
