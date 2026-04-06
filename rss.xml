@@ -11,6 +11,48 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>http://amazon-clone-khaki-eight.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2041244591983059012</link>
+         <description>@urldna_bot | url | </description>
+         <guid>http://amazon-clone-khaki-eight.vercel.app</guid>
+         <pubDate>Mon, 06 Apr 2026 20:00:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>amazon-clone-khaki-eight.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2041244591983059012</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">amazon-clone-khaki-eight.vercel.app</guid>
+         <pubDate>Mon, 06 Apr 2026 20:00:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>45.74.47.162</title>
+         <link>https://x.com/PhishStats/status/2041232948658159732</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">45.74.47.162</guid>
+         <pubDate>Mon, 06 Apr 2026 19:13:53 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://reprogrammation-service-be.com/captcha.php</title>
+         <link>https://x.com/PhishStats/status/2041232948658159732</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://reprogrammation-service-be.com/captcha.php</guid>
+         <pubDate>Mon, 06 Apr 2026 19:13:53 +0000</pubDate>
+      </item>
+      <item>
+         <title>reprogrammation-service-be.com</title>
+         <link>https://x.com/PhishStats/status/2041232948658159732</link>
+         <description>@PhishStats | domain | #phishing</description>
+         <guid isPermaLink="false">reprogrammation-service-be.com</guid>
+         <pubDate>Mon, 06 Apr 2026 19:13:53 +0000</pubDate>
+      </item>
+      <item>
+         <title>1c715cd40331ba2ca6559d2fdb958e7f44053080f9ffd3d90bd1916978d336cb</title>
+         <link>https://x.com/skocherhan/status/2041232651529437681</link>
+         <description>@skocherhan | sha256 | </description>
+         <guid isPermaLink="false">1c715cd40331ba2ca6559d2fdb958e7f44053080f9ffd3d90bd1916978d336cb</guid>
+         <pubDate>Mon, 06 Apr 2026 19:12:43 +0000</pubDate>
+      </item>
+      <item>
          <title>193.181.214.66</title>
          <link>https://x.com/ViriBack/status/2041226355891634431</link>
          <description>@ViriBack | ip | </description>
