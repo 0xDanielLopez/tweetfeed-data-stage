@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 22:05:28 (UTC)</th>
+        <th colspan=4>2026-04-06 23:05:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 88 | 508 | 2256 | 65075 |
-| **:globe_with_meridians: Domains** | 54 | 373 | 1676 | 41679 |
+| **:link: URLs** | 89 | 509 | 2257 | 65076 |
+| **:globe_with_meridians: Domains** | 55 | 374 | 1677 | 41680 |
 | **:triangular_flag_on_post: IPs** | 53 | 202 | 699 | 22024 |
 | **:1234: SHA256** | 1 | 12 | 43 | 1484 |
 | **:1234: MD5** | 8 | 31 | 153 | 3621 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 113 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 22 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 24 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#4** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#5** | [smica83](https://twitter.com/smica83) | 9 |
