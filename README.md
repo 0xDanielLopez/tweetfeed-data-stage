@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 11:05:22 (UTC)</th>
+        <th colspan=4>2026-04-06 12:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 64 | 484 | 2232 | 65051 |
+| **:link: URLs** | 65 | 485 | 2233 | 65052 |
 | **:globe_with_meridians: Domains** | 42 | 361 | 1664 | 41667 |
 | **:triangular_flag_on_post: IPs** | 43 | 192 | 689 | 22014 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
-| **:1234: MD5** | 6 | 29 | 151 | 3619 |
+| **:1234: MD5** | 7 | 30 | 152 | 3620 |
 
 </div>
 
@@ -170,12 +170,12 @@ If you like the project, please consider:
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
 | **#3** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
-| **#5** | [skocherhan](https://twitter.com/skocherhan) | 4 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 5 |
 | **#6** | [PhishStats](https://twitter.com/PhishStats) | 3 |
 | **#7** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#8** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#9** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 1 |
 
 </div>
 
