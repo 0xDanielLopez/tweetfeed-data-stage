@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 04:05:18 (UTC)</th>
+        <th colspan=4>2026-04-06 05:05:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 449 | 2197 | 65016 |
-| **:globe_with_meridians: Domains** | 17 | 336 | 1639 | 41642 |
-| **:triangular_flag_on_post: IPs** | 22 | 171 | 668 | 21993 |
+| **:link: URLs** | 32 | 452 | 2200 | 65019 |
+| **:globe_with_meridians: Domains** | 19 | 338 | 1641 | 41644 |
+| **:triangular_flag_on_post: IPs** | 25 | 174 | 671 | 21996 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
 | **:1234: MD5** | 0 | 23 | 145 | 3613 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 60 | 341 | 1018 | 51523 |
+| **#phishing** | 67 | 348 | 1025 | 51530 |
 | **#scam** | 0 | 13 | 44 | 8193 |
 | **#opendir** | 0 | 14 | 45 | 785 |
 | **#malware** | 0 | 15 | 104 | 5892 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 60 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 67 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#4** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [-](https://twitter.com/-) | 0 |
 | **#7** | [-](https://twitter.com/-) | 0 |
