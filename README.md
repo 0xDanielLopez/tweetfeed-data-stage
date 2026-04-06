@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 06:05:40 (UTC)</th>
+        <th colspan=4>2026-04-06 07:05:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 43 | 463 | 2211 | 65030 |
-| **:globe_with_meridians: Domains** | 27 | 346 | 1649 | 41652 |
-| **:triangular_flag_on_post: IPs** | 35 | 184 | 681 | 22006 |
+| **:link: URLs** | 56 | 476 | 2224 | 65043 |
+| **:globe_with_meridians: Domains** | 36 | 355 | 1658 | 41661 |
+| **:triangular_flag_on_post: IPs** | 41 | 190 | 687 | 22012 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
-| **:1234: MD5** | 3 | 26 | 148 | 3616 |
+| **:1234: MD5** | 4 | 27 | 149 | 3617 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 94 | 375 | 1052 | 51557 |
+| **#phishing** | 114 | 395 | 1072 | 51577 |
 | **#scam** | 0 | 13 | 44 | 8193 |
 | **#opendir** | 0 | 14 | 45 | 785 |
 | **#malware** | 0 | 15 | 104 | 5892 |
@@ -166,13 +166,13 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#3** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#5** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
-| **#6** | [-](https://twitter.com/-) | 0 |
-| **#7** | [-](https://twitter.com/-) | 0 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 112 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#3** | [suyog41](https://twitter.com/suyog41) | 8 |
+| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 4 |
+| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#6** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#7** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
 | **#10** | [-](https://twitter.com/-) | 0 |
