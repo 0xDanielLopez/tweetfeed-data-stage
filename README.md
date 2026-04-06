@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 16:05:24 (UTC)</th>
+        <th colspan=4>2026-04-06 17:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 74 | 494 | 2242 | 65061 |
-| **:globe_with_meridians: Domains** | 49 | 368 | 1671 | 41674 |
+| **:link: URLs** | 75 | 495 | 2243 | 65062 |
+| **:globe_with_meridians: Domains** | 50 | 369 | 1672 | 41675 |
 | **:triangular_flag_on_post: IPs** | 45 | 194 | 691 | 22016 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
 | **:1234: MD5** | 7 | 30 | 152 | 3620 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 113 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
 | **#3** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 9 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
