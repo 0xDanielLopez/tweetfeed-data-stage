@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 18:05:19 (UTC)</th>
+        <th colspan=4>2026-04-06 19:05:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 75 | 495 | 2243 | 65062 |
-| **:globe_with_meridians: Domains** | 50 | 369 | 1672 | 41675 |
-| **:triangular_flag_on_post: IPs** | 45 | 194 | 691 | 22016 |
+| **:link: URLs** | 78 | 498 | 2246 | 65065 |
+| **:globe_with_meridians: Domains** | 51 | 370 | 1673 | 41676 |
+| **:triangular_flag_on_post: IPs** | 47 | 196 | 693 | 22018 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
 | **:1234: MD5** | 7 | 30 | 152 | 3620 |
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 118 | 399 | 1076 | 51581 |
 | **#scam** | 0 | 13 | 44 | 8193 |
 | **#opendir** | 0 | 14 | 45 | 785 |
-| **#malware** | 0 | 15 | 104 | 5892 |
+| **#malware** | 2 | 17 | 106 | 5894 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
 | **#ransomware** | 4 | 8 | 32 | 1033 |
 | **#banker** | 0 | 0 | 0 | 6 |
@@ -136,7 +136,7 @@ If you like the project, please consider:
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8575 |
-| **#Dcrat** | 0 | 0 | 3 | 339 |
+| **#Dcrat** | 2 | 2 | 5 | 341 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 113 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 20 |
 | **#3** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 9 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [JRoosen](https://twitter.com/JRoosen) | 4 |
 | **#8** | [PhishStats](https://twitter.com/PhishStats) | 3 |
 | **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
+| **#10** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
 
 </div>
 
