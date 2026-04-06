@@ -11,6 +11,69 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>209.74.88.34</title>
+         <link>https://x.com/smica83/status/2041269758151020655</link>
+         <description>@smica83 | ip | #opendir</description>
+         <guid isPermaLink="false">209.74.88.34</guid>
+         <pubDate>Mon, 06 Apr 2026 21:40:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://hongkongplazaworks.top</title>
+         <link>https://x.com/smica83/status/2041269758151020655</link>
+         <description>@smica83 | url | #opendir</description>
+         <guid>http://hongkongplazaworks.top</guid>
+         <pubDate>Mon, 06 Apr 2026 21:40:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>hongkongplazaworks.top</title>
+         <link>https://x.com/smica83/status/2041269758151020655</link>
+         <description>@smica83 | domain | #opendir</description>
+         <guid isPermaLink="false">hongkongplazaworks.top</guid>
+         <pubDate>Mon, 06 Apr 2026 21:40:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://209.74.88.34/dl/installer.msi</title>
+         <link>https://x.com/smica83/status/2041269758151020655</link>
+         <description>@smica83 | url | #opendir</description>
+         <guid>http://209.74.88.34/dl/installer.msi</guid>
+         <pubDate>Mon, 06 Apr 2026 21:40:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>37.48.254.120</title>
+         <link>https://x.com/sicehice/status/2041262725343367383</link>
+         <description>@sicehice | ip | </description>
+         <guid isPermaLink="false">37.48.254.120</guid>
+         <pubDate>Mon, 06 Apr 2026 21:12:13 +0000</pubDate>
+      </item>
+      <item>
+         <title>147.10.45.195</title>
+         <link>https://x.com/sicehice/status/2041262725343367383</link>
+         <description>@sicehice | ip | </description>
+         <guid isPermaLink="false">147.10.45.195</guid>
+         <pubDate>Mon, 06 Apr 2026 21:12:13 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://37.48.254.120/arm7</title>
+         <link>https://x.com/sicehice/status/2041262725343367383</link>
+         <description>@sicehice | url | </description>
+         <guid>http://37.48.254.120/arm7</guid>
+         <pubDate>Mon, 06 Apr 2026 21:12:13 +0000</pubDate>
+      </item>
+      <item>
+         <title>48.222.9.8</title>
+         <link>https://x.com/malwrhunterteam/status/2041260560201703929</link>
+         <description>@malwrhunterteam | ip | </description>
+         <guid isPermaLink="false">48.222.9.8</guid>
+         <pubDate>Mon, 06 Apr 2026 21:03:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://48.222.9.8</title>
+         <link>https://x.com/malwrhunterteam/status/2041260560201703929</link>
+         <description>@malwrhunterteam | url | </description>
+         <guid>http://48.222.9.8</guid>
+         <pubDate>Mon, 06 Apr 2026 21:03:36 +0000</pubDate>
+      </item>
+      <item>
          <title>d417a04491420610b70878388587a74f</title>
          <link>https://x.com/skocherhan/status/2041248624974147978</link>
          <description>@skocherhan | md5 | </description>

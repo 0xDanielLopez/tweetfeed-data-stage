@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 21:05:22 (UTC)</th>
+        <th colspan=4>2026-04-06 22:05:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 84 | 504 | 2252 | 65071 |
-| **:globe_with_meridians: Domains** | 53 | 372 | 1675 | 41678 |
-| **:triangular_flag_on_post: IPs** | 49 | 198 | 695 | 22020 |
+| **:link: URLs** | 88 | 508 | 2256 | 65075 |
+| **:globe_with_meridians: Domains** | 54 | 373 | 1676 | 41679 |
+| **:triangular_flag_on_post: IPs** | 53 | 202 | 699 | 22024 |
 | **:1234: SHA256** | 1 | 12 | 43 | 1484 |
 | **:1234: MD5** | 8 | 31 | 153 | 3621 |
 
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 121 | 402 | 1079 | 51584 |
 | **#scam** | 0 | 13 | 44 | 8193 |
-| **#opendir** | 0 | 14 | 45 | 785 |
+| **#opendir** | 4 | 18 | 49 | 789 |
 | **#malware** | 2 | 17 | 106 | 5894 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
 | **#ransomware** | 4 | 8 | 32 | 1033 |
@@ -170,12 +170,12 @@ If you like the project, please consider:
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 22 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#4** | [suyog41](https://twitter.com/suyog41) | 10 |
-| **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
-| **#6** | [fbgwls245](https://twitter.com/fbgwls245) | 6 |
-| **#7** | [PhishStats](https://twitter.com/PhishStats) | 6 |
-| **#8** | [smica83](https://twitter.com/smica83) | 5 |
+| **#5** | [smica83](https://twitter.com/smica83) | 9 |
+| **#6** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
+| **#7** | [fbgwls245](https://twitter.com/fbgwls245) | 6 |
+| **#8** | [PhishStats](https://twitter.com/PhishStats) | 6 |
 | **#9** | [JRoosen](https://twitter.com/JRoosen) | 4 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [sicehice](https://twitter.com/sicehice) | 3 |
 
 </div>
 
