@@ -11,6 +11,41 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>62.60.226.105</title>
+         <link>https://x.com/PhishStats/status/2041095354947359123</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">62.60.226.105</guid>
+         <pubDate>Mon, 06 Apr 2026 10:07:08 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://steemcommuunity.bet/18927153479/tradeoffers</title>
+         <link>https://x.com/PhishStats/status/2041095354947359123</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://steemcommuunity.bet/18927153479/tradeoffers</guid>
+         <pubDate>Mon, 06 Apr 2026 10:07:08 +0000</pubDate>
+      </item>
+      <item>
+         <title>steemcommuunity.bet</title>
+         <link>https://x.com/PhishStats/status/2041095354947359123</link>
+         <description>@PhishStats | domain | #phishing</description>
+         <guid isPermaLink="false">steemcommuunity.bet</guid>
+         <pubDate>Mon, 06 Apr 2026 10:07:08 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://talktalkbillview.framer.website</title>
+         <link>https://x.com/urldna_bot/status/2041093586633056442</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://talktalkbillview.framer.website</guid>
+         <pubDate>Mon, 06 Apr 2026 10:00:07 +0000</pubDate>
+      </item>
+      <item>
+         <title>talktalkbillview.framer.website</title>
+         <link>https://x.com/urldna_bot/status/2041093586633056442</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">talktalkbillview.framer.website</guid>
+         <pubDate>Mon, 06 Apr 2026 10:00:07 +0000</pubDate>
+      </item>
+      <item>
          <title>d66d40ee7da1728e93c2cd9f72a1376d</title>
          <link>https://x.com/suyog41/status/2041080264571703774</link>
          <description>@suyog41 | md5 | #stealer</description>
