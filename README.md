@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 14:05:26 (UTC)</th>
+        <th colspan=4>2026-04-06 15:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 66 | 486 | 2234 | 65053 |
-| **:globe_with_meridians: Domains** | 43 | 362 | 1665 | 41668 |
-| **:triangular_flag_on_post: IPs** | 43 | 192 | 689 | 22014 |
+| **:link: URLs** | 73 | 493 | 2241 | 65060 |
+| **:globe_with_meridians: Domains** | 48 | 367 | 1670 | 41673 |
+| **:triangular_flag_on_post: IPs** | 44 | 193 | 690 | 22015 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
 | **:1234: MD5** | 7 | 30 | 152 | 3620 |
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 14 | 45 | 785 |
 | **#malware** | 0 | 15 | 104 | 5892 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
-| **#ransomware** | 0 | 4 | 28 | 1029 |
+| **#ransomware** | 4 | 8 | 32 | 1033 |
 | **#banker** | 0 | 0 | 0 | 6 |
 | **#AgentTesla** | 0 | 0 | 0 | 200 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 113 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
 | **#3** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
-| **#5** | [skocherhan](https://twitter.com/skocherhan) | 5 |
-| **#6** | [PhishStats](https://twitter.com/PhishStats) | 3 |
-| **#7** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#8** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#9** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
-| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 1 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 7 |
+| **#6** | [fbgwls245](https://twitter.com/fbgwls245) | 6 |
+| **#7** | [JRoosen](https://twitter.com/JRoosen) | 4 |
+| **#8** | [PhishStats](https://twitter.com/PhishStats) | 3 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 
 </div>
 
