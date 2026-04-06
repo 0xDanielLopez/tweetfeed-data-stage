@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-06 09:05:21 (UTC)</th>
+        <th colspan=4>2026-04-06 10:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 40 | 359 | 1662 | 41665 |
 | **:triangular_flag_on_post: IPs** | 42 | 191 | 688 | 22013 |
 | **:1234: SHA256** | 0 | 11 | 42 | 1483 |
-| **:1234: MD5** | 4 | 27 | 149 | 3617 |
+| **:1234: MD5** | 6 | 29 | 151 | 3619 |
 
 </div>
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 113 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
-| **#3** | [suyog41](https://twitter.com/suyog41) | 8 |
+| **#3** | [suyog41](https://twitter.com/suyog41) | 10 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 4 |
 | **#6** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
