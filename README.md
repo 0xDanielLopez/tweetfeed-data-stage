@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 12:05:20 (UTC)</th>
+        <th colspan=4>2026-04-07 13:05:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 461 | 2228 | 64798 |
-| **:globe_with_meridians: Domains** | 21 | 340 | 1651 | 41487 |
+| **:link: URLs** | 29 | 462 | 2229 | 64799 |
+| **:globe_with_meridians: Domains** | 22 | 341 | 1652 | 41488 |
 | **:triangular_flag_on_post: IPs** | 11 | 189 | 703 | 21941 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
 | **:1234: MD5** | 4 | 23 | 132 | 3621 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 11 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 13 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#5** | [smica83](https://twitter.com/smica83) | 6 |
