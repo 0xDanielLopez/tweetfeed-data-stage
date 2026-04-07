@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 02:05:27 (UTC)</th>
+        <th colspan=4>2026-04-07 03:05:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 434 | 2201 | 64771 |
-| **:globe_with_meridians: Domains** | 1 | 320 | 1631 | 41467 |
+| **:link: URLs** | 2 | 435 | 2202 | 64772 |
+| **:globe_with_meridians: Domains** | 2 | 321 | 1632 | 41468 |
 | **:triangular_flag_on_post: IPs** | 0 | 178 | 692 | 21930 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
 | **:1234: MD5** | 0 | 19 | 128 | 3617 |
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 16 | 47 | 789 |
 | **#malware** | 0 | 14 | 106 | 5757 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
-| **#ransomware** | 0 | 8 | 32 | 1033 |
+| **#ransomware** | 2 | 10 | 34 | 1035 |
 | **#banker** | 0 | 0 | 0 | 6 |
 | **#AgentTesla** | 0 | 0 | 0 | 200 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
