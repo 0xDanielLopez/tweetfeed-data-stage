@@ -8,7 +8,13 @@
 
 ---
 
+![TweetFeed](screenshot.png)
+
+---
+
 </div>
+
+If you find this useful, consider giving it a :star: or [buying a coffee](https://www.buymeacoffee.com/dlopez).
 
 ## Feeds
 
@@ -226,13 +232,15 @@ TweetFeed
 
 </details>
 
-## License
+## Data and license
 
-IOC data (CSV, RSS, JSON feeds) is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - free to use without attribution.
+All IOC data originates from public tweets by the infosec community. TweetFeed aggregates, structures, and redistributes it - but the data belongs to the community that shares it.
+
+The feeds (CSV, RSS) are freely available for any use, commercial or otherwise, without attribution required.
 
 ## Author
 
-[Daniel Lopez](https://twitter.com/0xDanielLopez)
+Created and maintained by [Daniel Lopez](https://twitter.com/0xDanielLopez).
 
 ---
 
