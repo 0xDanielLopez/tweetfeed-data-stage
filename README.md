@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 04:05:30 (UTC)</th>
+        <th colspan=4>2026-04-07 05:05:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 435 | 2202 | 64772 |
-| **:globe_with_meridians: Domains** | 2 | 321 | 1632 | 41468 |
-| **:triangular_flag_on_post: IPs** | 0 | 178 | 692 | 21930 |
+| **:link: URLs** | 13 | 446 | 2213 | 64783 |
+| **:globe_with_meridians: Domains** | 10 | 329 | 1640 | 41476 |
+| **:triangular_flag_on_post: IPs** | 4 | 182 | 696 | 21934 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
-| **:1234: MD5** | 0 | 19 | 128 | 3617 |
+| **:1234: MD5** | 1 | 20 | 129 | 3618 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 378 | 1069 | 51180 |
+| **#phishing** | 9 | 387 | 1078 | 51189 |
 | **#scam** | 0 | 11 | 44 | 8137 |
 | **#opendir** | 0 | 16 | 47 | 789 |
 | **#malware** | 0 | 14 | 106 | 5757 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
+| **#2** | [masaomi346](https://twitter.com/masaomi346) | 8 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
+| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#5** | [PhishStats](https://twitter.com/PhishStats) | 1 |
 | **#6** | [-](https://twitter.com/-) | 0 |
 | **#7** | [-](https://twitter.com/-) | 0 |
 | **#8** | [-](https://twitter.com/-) | 0 |
