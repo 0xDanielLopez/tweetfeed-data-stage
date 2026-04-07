@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 07:05:21 (UTC)</th>
+        <th colspan=4>2026-04-07 08:05:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 451 | 2218 | 64788 |
-| **:globe_with_meridians: Domains** | 14 | 333 | 1644 | 41480 |
-| **:triangular_flag_on_post: IPs** | 6 | 184 | 698 | 21936 |
+| **:link: URLs** | 22 | 455 | 2222 | 64792 |
+| **:globe_with_meridians: Domains** | 18 | 337 | 1648 | 41484 |
+| **:triangular_flag_on_post: IPs** | 9 | 187 | 701 | 21939 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
-| **:1234: MD5** | 1 | 20 | 129 | 3618 |
+| **:1234: MD5** | 2 | 21 | 130 | 3619 |
 
 </div>
 
@@ -124,9 +124,9 @@ If you like the project, please consider:
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 9 | 387 | 1078 | 51189 |
-| **#scam** | 0 | 11 | 44 | 8137 |
+| **#scam** | 4 | 15 | 48 | 8141 |
 | **#opendir** | 0 | 16 | 47 | 789 |
-| **#malware** | 0 | 14 | 106 | 5757 |
+| **#malware** | 1 | 15 | 107 | 5758 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
 | **#ransomware** | 2 | 10 | 34 | 1035 |
 | **#banker** | 0 | 0 | 0 | 6 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 8 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 7 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 6 |
-| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#6** | [PhishStats](https://twitter.com/PhishStats) | 1 |
-| **#7** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
-| **#8** | [-](https://twitter.com/-) | 0 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 10 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
+| **#5** | [illegalFawn](https://twitter.com/illegalFawn) | 4 |
+| **#6** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#7** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 2 |
+| **#8** | [PhishStats](https://twitter.com/PhishStats) | 1 |
+| **#9** | [opcode_drifter](https://twitter.com/opcode_drifter) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>

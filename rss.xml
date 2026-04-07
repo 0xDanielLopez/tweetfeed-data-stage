@@ -11,6 +11,90 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://thecourlierguy.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041425772292739565</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://thecourlierguy.weebly.com</guid>
+         <pubDate>Tue, 07 Apr 2026 08:00:06 +0000</pubDate>
+      </item>
+      <item>
+         <title>thecourlierguy.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041425772292739565</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">thecourlierguy.weebly.com</guid>
+         <pubDate>Tue, 07 Apr 2026 08:00:06 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://openpizzapoppy.co</title>
+         <link>https://x.com/illegalFawn/status/2041425219793883642</link>
+         <description>@illegalFawn | url | #scam</description>
+         <guid>https://openpizzapoppy.co</guid>
+         <pubDate>Tue, 07 Apr 2026 07:57:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>openpizzapoppy.co</title>
+         <link>https://x.com/illegalFawn/status/2041425219793883642</link>
+         <description>@illegalFawn | domain | #scam</description>
+         <guid isPermaLink="false">openpizzapoppy.co</guid>
+         <pubDate>Tue, 07 Apr 2026 07:57:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://diligentsweater.com</title>
+         <link>https://x.com/illegalFawn/status/2041425219793883642</link>
+         <description>@illegalFawn | url | #scam</description>
+         <guid>https://diligentsweater.com</guid>
+         <pubDate>Tue, 07 Apr 2026 07:57:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>diligentsweater.com</title>
+         <link>https://x.com/illegalFawn/status/2041425219793883642</link>
+         <description>@illegalFawn | domain | #scam</description>
+         <guid isPermaLink="false">diligentsweater.com</guid>
+         <pubDate>Tue, 07 Apr 2026 07:57:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>94.159.113.233</title>
+         <link>https://x.com/skocherhan/status/2041419281640866210</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">94.159.113.233</guid>
+         <pubDate>Tue, 07 Apr 2026 07:34:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>94.159.113.232</title>
+         <link>https://x.com/skocherhan/status/2041419281640866210</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">94.159.113.232</guid>
+         <pubDate>Tue, 07 Apr 2026 07:34:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://ascarding.net</title>
+         <link>https://x.com/skocherhan/status/2041419281640866210</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://ascarding.net</guid>
+         <pubDate>Tue, 07 Apr 2026 07:34:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>ascarding.net</title>
+         <link>https://x.com/skocherhan/status/2041419281640866210</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">ascarding.net</guid>
+         <pubDate>Tue, 07 Apr 2026 07:34:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>b940ca453126cac88ceeb6b1c7c22ba1</title>
+         <link>https://x.com/opcode_drifter/status/2041414789038019033</link>
+         <description>@opcode_drifter | md5 | #malware</description>
+         <guid isPermaLink="false">b940ca453126cac88ceeb6b1c7c22ba1</guid>
+         <pubDate>Tue, 07 Apr 2026 07:16:28 +0000</pubDate>
+      </item>
+      <item>
+         <title>45.138.16.202</title>
+         <link>https://x.com/Fact_Finder03/status/2041413960940085524</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer</description>
+         <guid isPermaLink="false">45.138.16.202</guid>
+         <pubDate>Tue, 07 Apr 2026 07:13:10 +0000</pubDate>
+      </item>
+      <item>
          <title>163.5.102.98</title>
          <link>https://x.com/skocherhan/status/2041399802945016283</link>
          <description>@skocherhan | ip | </description>
