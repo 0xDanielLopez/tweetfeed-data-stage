@@ -256,12 +256,12 @@ The feeds (CSV, RSS) are freely available for any use, commercial or otherwise, 
 
 Created and maintained by [Daniel López](https://x.com/0xDanielLopez).
 
+If you find this useful, consider giving it a :star: or [buying a coffee](https://www.buymeacoffee.com/dlopez).
+
 ---
 
 <div align="center">
 
 **By the community, for the community.**
-
-If you find this useful, consider giving it a :star: or [buying a coffee](https://www.buymeacoffee.com/dlopez).
 
 </div>
