@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 20:22:43 (UTC)</th>
+        <th colspan=4>2026-04-07 21:05:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 45 | 478 | 2245 | 64815 |
-| **:globe_with_meridians: Domains** | 35 | 354 | 1665 | 41501 |
-| **:triangular_flag_on_post: IPs** | 23 | 201 | 715 | 21953 |
+| **:link: URLs** | 55 | 488 | 2255 | 64825 |
+| **:globe_with_meridians: Domains** | 45 | 364 | 1675 | 41511 |
+| **:triangular_flag_on_post: IPs** | 24 | 202 | 716 | 21954 |
 | **:1234: SHA256** | 2 | 10 | 45 | 1480 |
 | **:1234: MD5** | 5 | 24 | 133 | 3622 |
 
@@ -84,11 +84,11 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 21 | 399 | 1090 | 51201 |
+| **#phishing** | 25 | 403 | 1094 | 51205 |
 | **#C2** | 1 | 16 | 192 | 30937 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8542 |
 | **#scam** | 4 | 15 | 48 | 8141 |
-| **#malware** | 2 | 16 | 108 | 5759 |
+| **#malware** | 3 | 17 | 109 | 5760 |
 | **#Interactsh** | 0 | 0 | 0 | 2582 |
 | **#Remcos** | 0 | 0 | 19 | 2468 |
 | **#Sliver** | 0 | 0 | 14 | 2094 |
@@ -96,7 +96,7 @@
 | **#NetSupportRAT** | 0 | 0 | 2 | 2023 |
 | **#AsyncRAT** | 0 | 2 | 30 | 1896 |
 | **#Deimos** | 0 | 0 | 0 | 1536 |
-| **#Kimsuky** | 0 | 81 | 820 | 1522 |
+| **#Kimsuky** | 15 | 96 | 835 | 1537 |
 | **#Mythic** | 0 | 0 | 0 | 1293 |
 | **#Havoc** | 0 | 0 | 2 | 1281 |
 | **#Lumma** | 0 | 0 | 23 | 1218 |
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 28 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 19 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 43 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 21 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 14 |
 | **#4** | [mugu_reporter](https://x.com/mugu_reporter) | 12 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#6** | [smica83](https://x.com/smica83) | 6 |
 | **#7** | [suyog41](https://x.com/suyog41) | 5 |
 | **#8** | [1ZRR4H](https://x.com/1ZRR4H) | 5 |
-| **#9** | [illegalFawn](https://x.com/illegalFawn) | 4 |
-| **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#10** | [illegalFawn](https://x.com/illegalFawn) | 4 |
 
 </div>
 
