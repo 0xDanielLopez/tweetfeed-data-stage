@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 22:05:22 (UTC)</th>
+        <th colspan=4>2026-04-07 23:05:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 76 | 509 | 2276 | 64846 |
-| **:globe_with_meridians: Domains** | 63 | 382 | 1693 | 41529 |
-| **:triangular_flag_on_post: IPs** | 27 | 205 | 719 | 21957 |
+| **:link: URLs** | 79 | 512 | 2279 | 64849 |
+| **:globe_with_meridians: Domains** | 66 | 385 | 1696 | 41532 |
+| **:triangular_flag_on_post: IPs** | 28 | 206 | 720 | 21958 |
 | **:1234: SHA256** | 3 | 11 | 46 | 1481 |
 | **:1234: MD5** | 5 | 24 | 133 | 3622 |
 
@@ -121,11 +121,11 @@
 | **#3** | [urldna_bot](https://x.com/urldna_bot) | 23 |
 | **#4** | [mugu_reporter](https://x.com/mugu_reporter) | 18 |
 | **#5** | [Metemcyber](https://x.com/Metemcyber) | 14 |
-| **#6** | [smica83](https://x.com/smica83) | 10 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#8** | [suyog41](https://x.com/suyog41) | 5 |
-| **#9** | [1ZRR4H](https://x.com/1ZRR4H) | 5 |
-| **#10** | [g0njxa](https://x.com/g0njxa) | 5 |
+| **#6** | [g0njxa](https://x.com/g0njxa) | 12 |
+| **#7** | [smica83](https://x.com/smica83) | 10 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#9** | [suyog41](https://x.com/suyog41) | 5 |
+| **#10** | [1ZRR4H](https://x.com/1ZRR4H) | 5 |
 
 </div>
 
