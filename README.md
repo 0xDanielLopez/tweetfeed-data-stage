@@ -14,8 +14,6 @@
 
 </div>
 
-If you find this useful, consider giving it a :star: or [buying a coffee](https://www.buymeacoffee.com/dlopez).
-
 ## Feeds
 
 <div align="center">
@@ -25,7 +23,7 @@ If you find this useful, consider giving it a :star: or [buying a coffee](https:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 20:10:03 (UTC)</th>
+        <th colspan=4>2026-04-07 20:22:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -45,9 +43,25 @@ If you find this useful, consider giving it a :star: or [buying a coffee](https:
 
 ### Output format
 
-```
-Date (UTC),SourceUser,Type,Value,Tags,Tweet
-2021-08-14 02:26:32,phishunt_io,url,https://netflix.us2.cards/,#phishing #scam,https://twitter.com/phishunt_io/status/1426369619422502917
+```json
+[
+  {
+    "date": "2026-04-07 19:21:49",
+    "user": "1ZRR4H",
+    "type": "domain",
+    "value": "googlemeetinterview.help",
+    "tags": "",
+    "tweet": "https://x.com/1ZRR4H/status/2041698363230327128"
+  },
+  {
+    "date": "2026-04-07 01:51:46",
+    "user": "fbgwls245",
+    "type": "url",
+    "value": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion",
+    "tags": "#ransomware",
+    "tweet": "https://x.com/fbgwls245/status/2041333078518587563"
+  }
+]
 ```
 
 ## Statistics
@@ -102,22 +116,22 @@ Date (UTC),SourceUser,Type,Value,Tags,Tweet
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 28 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 19 |
-| **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#4** | [mugu_reporter](https://twitter.com/mugu_reporter) | 12 |
-| **#5** | [masaomi346](https://twitter.com/masaomi346) | 8 |
-| **#6** | [smica83](https://twitter.com/smica83) | 6 |
-| **#7** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#8** | [1ZRR4H](https://twitter.com/1ZRR4H) | 5 |
-| **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 4 |
-| **#10** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 28 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 19 |
+| **#3** | [Metemcyber](https://x.com/Metemcyber) | 14 |
+| **#4** | [mugu_reporter](https://x.com/mugu_reporter) | 12 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#6** | [smica83](https://x.com/smica83) | 6 |
+| **#7** | [suyog41](https://x.com/suyog41) | 5 |
+| **#8** | [1ZRR4H](https://x.com/1ZRR4H) | 5 |
+| **#9** | [illegalFawn](https://x.com/illegalFawn) | 4 |
+| **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 
 </div>
 
 ## How it works
 
-Monitors tweets containing threat-related tags or posted by trusted infosec researchers from a curated [Twitter list](https://twitter.com/i/lists/1423693426437001224). IOCs (URLs, domains, IPs, hashes) are extracted, deduplicated, and published as CSV and RSS feeds updated hourly.
+Monitors tweets containing threat-related tags or posted by trusted infosec researchers from a curated [list](https://x.com/i/lists/1423693426437001224). IOCs (URLs, domains, IPs, hashes) are extracted, deduplicated, and published as CSV and RSS feeds updated hourly.
 
 Currently tracking 100+ tags across malware families, C2 frameworks, APT groups, and attack techniques.
 
@@ -240,10 +254,14 @@ The feeds (CSV, RSS) are freely available for any use, commercial or otherwise, 
 
 ## Author
 
-Created and maintained by [Daniel Lopez](https://twitter.com/0xDanielLopez).
+Created and maintained by [Daniel López](https://x.com/0xDanielLopez).
 
 ---
 
 <div align="center">
-<b>By the community, for the community.</b>
+
+**By the community, for the community.**
+
+If you find this useful, consider giving it a :star: or [buying a coffee](https://www.buymeacoffee.com/dlopez).
+
 </div>
