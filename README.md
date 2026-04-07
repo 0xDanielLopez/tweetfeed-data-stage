@@ -1,51 +1,25 @@
 <div align="center">
-    <h1 align="center">TweetFeed</h1>
-    <h3 align="center">Feeds of IOCs posted by the community at Twitter</h3>
 
-<p align="center">
-    <b>
-    <a href="https://tweetfeed.live">TweetFeed.live</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/0xDanielLopez/TweetFeed_code">Source code</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://tweetfeed.live/feedback.html">Feedback</a>
-    </b>
-</p>
+# TweetFeed
 
-<h6 class="info-span">
-    Want to integrate with OpenCTI? <a class="info-link" href="https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/tweetfeed" target="_blank">Now you can!</a>
-</h6>
+**Crowdsourced IOC feeds from the infosec community on Twitter/X**
+
+[tweetfeed.live](https://tweetfeed.live) &nbsp;|&nbsp; [Feedback](https://tweetfeed.live/feedback.html) &nbsp;|&nbsp; [OpenCTI connector](https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/tweetfeed)
 
 ---
 
-  ![TweetFeed.live](https://user-images.githubusercontent.com/10616960/213568644-bb6b54b6-bd00-402e-b04f-266004b22d20.png)
-
----
 </div>
 
-## ☰ Content
+## Feeds
 
-- [Data collected](#page_facing_up-data-collected)
-- [Some statistics](#bar_chart-some-statistics)
-- [How it works](#question-how-it-works)
-- [Hunting IOCs via Microsoft Defender](#mag-hunting-iocs-via-microsoft-defender)
-- [Author](#bust_in_silhouette-author)
-- [Disclaimer](#pushpin-disclaimer)
-
-## :heart: Support the project
-If you like the project, please consider:
-- Giving it a star :star:
-- Invite to a [coffee](https://www.buymeacoffee.com/dlopez) :coffee:
-
-## :page_facing_up: Data collected
 <div align="center">
-
-<h3>Feeds</h3>
 
 <table>
     <thead>
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 20:05:43 (UTC)</th>
+        <th colspan=4>2026-04-07 20:10:03 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -63,47 +37,18 @@ If you like the project, please consider:
 </table>
 </div>
 
-<div align="center">
+### Output format
 
-<h3>Output example</h3>
+```
+Date (UTC),SourceUser,Type,Value,Tags,Tweet
+2021-08-14 02:26:32,phishunt_io,url,https://netflix.us2.cards/,#phishing #scam,https://twitter.com/phishunt_io/status/1426369619422502917
+```
 
-<table>
-    <thead>
-        <tr>
-            <th><sub>Date (UTC)</sub></th>
-            <th><sub>SourceUser</sub></th>
-            <th><sub>Type</sub></th>
-            <th><sub>Value</sub></th>
-            <th><sub>Tags</sub></th>
-            <th><sub>Tweet</sub></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><sub>2021-08-14 02:26:32</sub></td>
-            <td><sub>phishunt_io</sub></td>
-            <td><sub>url</sub></td>
-            <td><sub>https://netflix.us2.cards/</sub></td>
-            <td><sub>#phishing #scam</sub></td>
-            <td><sub>https://twitter.com/phishunt_io/status/1426369619422502917</sub></td>
-        </tr>
-        <tr>
-            <td><sub>2021-08-17 12:15:00</sub></td>
-            <td><sub>TheDFIRReport</sub></td>
-            <td><sub>ip</sub></td>
-            <td><sub>185.56.76.94</sub></td>
-            <td><sub>#Trickbot</sub></td>
-            <td><sub>https://twitter.com/TheDFIRReport/status/1427604874053578756</sub></td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-## :bar_chart: Some statistics
+## Statistics
 
 <div align="center">
 
-<h3>Types</h3>
+### Types
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
@@ -113,56 +58,41 @@ If you like the project, please consider:
 | **:1234: SHA256** | 2 | 10 | 45 | 1480 |
 | **:1234: MD5** | 5 | 24 | 133 | 3622 |
 
-</div>
-
 ---
 
-<div align="center">
-
-<h3>Tags</h3>
+### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 21 | 399 | 1090 | 51201 |
-| **#scam** | 4 | 15 | 48 | 8141 |
-| **#opendir** | 2 | 18 | 49 | 791 |
-| **#malware** | 2 | 16 | 108 | 5759 |
-| **#maldoc** | 0 | 0 | 0 | 0 |
-| **#ransomware** | 3 | 11 | 35 | 1036 |
-| **#banker** | 0 | 0 | 0 | 6 |
-| **#AgentTesla** | 0 | 0 | 0 | 200 |
-| **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 2 | 30 | 1896 |
-| **#Batloader** | 0 | 0 | 0 | 0 |
-| **#BazarLoader** | 0 | 0 | 0 | 0 |
+| **#C2** | 1 | 16 | 192 | 30937 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8542 |
-| **#Dcrat** | 0 | 2 | 5 | 341 |
-| **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 0 | 0 | 0 | 577 |
-| **#GootLoader** | 0 | 0 | 0 | 0 |
-| **#GuLoader** | 0 | 0 | 0 | 46 |
-| **#IcedID** | 0 | 0 | 0 | 0 |
-| **#Lazarus** | 0 | 1 | 4 | 157 |
-| **#Lokibot** | 0 | 0 | 8 | 157 |
-| **#log4j** | 0 | 0 | 0 | 4 |
-| **#Log4shell** | 0 | 0 | 0 | 0 |
+| **#scam** | 4 | 15 | 48 | 8141 |
+| **#malware** | 2 | 16 | 108 | 5759 |
+| **#Interactsh** | 0 | 0 | 0 | 2582 |
+| **#Remcos** | 0 | 0 | 19 | 2468 |
+| **#Sliver** | 0 | 0 | 14 | 2094 |
+| **#APT** | 0 | 9 | 80 | 2056 |
+| **#NetSupportRAT** | 0 | 0 | 2 | 2023 |
+| **#AsyncRAT** | 0 | 2 | 30 | 1896 |
+| **#Deimos** | 0 | 0 | 0 | 1536 |
+| **#Kimsuky** | 0 | 81 | 820 | 1522 |
+| **#Mythic** | 0 | 0 | 0 | 1293 |
+| **#Havoc** | 0 | 0 | 2 | 1281 |
+| **#Lumma** | 0 | 0 | 23 | 1218 |
+| **#ransomware** | 3 | 11 | 35 | 1036 |
+| **#stealer** | 7 | 30 | 80 | 865 |
 | **#Njrat** | 0 | 0 | 46 | 871 |
 | **#Qakbot** | 0 | 0 | 0 | 869 |
-| **#Raccoon** | 0 | 0 | 0 | 3 |
-| **#RedLine** | 0 | 0 | 6 | 140 |
-| **#Remcos** | 0 | 0 | 19 | 2468 |
-| **#RaspberryRobin** | 0 | 0 | 0 | 0 |
-| **#Spring4Shell** | 0 | 0 | 0 | 0 |
-| **#SocGolish** | 0 | 0 | 0 | 7 |
-| **#Ursnif** | 0 | 0 | 0 | 0 |
-
-</div>
+| **#Supershell** | 0 | 0 | 0 | 806 |
+| **#opendir** | 2 | 18 | 49 | 791 |
+| **#Xworm** | 0 | 20 | 33 | 720 |
+| **#LummaStealer** | 0 | 0 | 7 | 604 |
+| **#Formbook** | 0 | 0 | 0 | 577 |
 
 ---
 
-<div align="center">
-
-<h3>Top Reporters (today)</h3>
+### Top reporters (today)
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
@@ -179,56 +109,17 @@ If you like the project, please consider:
 
 </div>
 
-## :question: How it works?
-Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
+## How it works
 
-### Tags being searched
-##### *(not case sensitive)*
-```
-- #phishing
-- #scam
-- #opendir
-- #malware
-- #maldoc
-- #ransomware
-- #banker
-- #AgentTesla
-- #Alienbot
-- #AsyncRAT
-- #BazarLoader
-- #Batloader
-- #CobaltStrike
-- #Dcrat
-- #Emotet
-- #Formbook
-- #GootLoader
-- #GuLoader
-- #IcedID
-- #Lazarus
-- #Lokibot
-- #log4j
-- #Log4shell
-- #Njrat
-- #Qakbot
-- #Raccoon
-- #RedLine
-- #Remcos
-- #RaspberryRobin
-- #Spring4Shell
-- #SocGholish
-- #Ursnif
-```
+Monitors tweets containing threat-related tags or posted by trusted infosec researchers from a curated [Twitter list](https://twitter.com/i/lists/1423693426437001224). IOCs (URLs, domains, IPs, hashes) are extracted, deduplicated, and published as CSV and RSS feeds updated hourly.
 
+Currently tracking 100+ tags across malware families, C2 frameworks, APT groups, and attack techniques.
 
-### Also search Tweets posted by
-##### *(these are trusted folks that sometimes don't use tags)*
-<big><pre>
-[**TweetFeed list**](https://twitter.com/i/lists/1423693426437001224)
-</pre></big>
+## Hunting with Microsoft Defender
 
-## :mag: Hunting IOCs via Microsoft Defender
+<details>
+<summary><b>SHA256 hashes (yearly feed)</b></summary>
 
-**1. Search `SHA256` hashes with `yearly` tweets feed**
 ```kusto
 let MaxAge = ago(30d);
 let SHA256_whitelist = pack_array(
@@ -268,9 +159,11 @@ union (
 ) | project Timestamp, DeviceName, FileName, FolderPath, SHA256, Tag, Tweet
 ```
 
-<br>
+</details>
 
-**2. Search `IP addresses` with `monthly` tweets feed**
+<details>
+<summary><b>IP addresses (monthly feed)</b></summary>
+
 ```kusto
 let MaxAge = ago(30d);
 let IPaddress_whitelist = pack_array(
@@ -299,9 +192,11 @@ TweetFeed
 ) | project Timestamp, DeviceName, RemoteIP, Tag, Tweet
 ```
 
-<br>
+</details>
 
-**3. Search `urls` and `domains` with `weekly` tweets feed**
+<details>
+<summary><b>URLs and domains (weekly feed)</b></summary>
+
 ```kusto
 let MaxAge = ago(30d);
 let domain_whitelist = pack_array(
@@ -329,19 +224,18 @@ TweetFeed
 ) | project Timestamp, DeviceName, RemoteUrl, Tag, Tweet
 ```
 
-## :bust_in_silhouette: Author
-* [**Daniel López**](https://twitter.com/0xDanielLopez)
+</details>
 
-<!--- ![Twitter](https://img.icons8.com/officexs/16/000000/twitter.png) --->
+## License
 
-## :pushpin: Disclaimer
+IOC data (CSV, RSS, JSON feeds) is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - free to use without attribution.
 
-Please note that all the data is collected from Twitter and sorted/served here as it is on **best effort**.
+## Author
 
-I have tried to tune as much as possible the searches trying to collect only valuable info. However please consider making your own analysis before taking any action related to these IOCs.
+[Daniel Lopez](https://twitter.com/0xDanielLopez)
 
-Anyway feel free to **[reach me out](https://twitter.com/0xDanielLopez)** or to provide any kind of **[feedback](https://tweetfeed.live/feedback.html)** regarding any contribution or suggestion.
+---
 
-<hr>
-
+<div align="center">
 <b>By the community, for the community.</b>
+</div>
