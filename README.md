@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 08:05:20 (UTC)</th>
+        <th colspan=4>2026-04-07 09:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 22 | 455 | 2222 | 64792 |
+| **:link: URLs** | 24 | 457 | 2224 | 64794 |
 | **:globe_with_meridians: Domains** | 18 | 337 | 1648 | 41484 |
 | **:triangular_flag_on_post: IPs** | 9 | 187 | 701 | 21939 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
-| **:1234: MD5** | 2 | 21 | 130 | 3619 |
+| **:1234: MD5** | 3 | 22 | 131 | 3620 |
 
 </div>
 
@@ -171,11 +171,11 @@ If you like the project, please consider:
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#5** | [illegalFawn](https://twitter.com/illegalFawn) | 4 |
-| **#6** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#7** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 2 |
-| **#8** | [PhishStats](https://twitter.com/PhishStats) | 1 |
-| **#9** | [opcode_drifter](https://twitter.com/opcode_drifter) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#6** | [suyog41](https://twitter.com/suyog41) | 3 |
+| **#7** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#8** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 2 |
+| **#9** | [PhishStats](https://twitter.com/PhishStats) | 1 |
+| **#10** | [opcode_drifter](https://twitter.com/opcode_drifter) | 1 |
 
 </div>
 
