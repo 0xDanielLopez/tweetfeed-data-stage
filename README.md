@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 15:05:22 (UTC)</th>
+        <th colspan=4>2026-04-07 16:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 31 | 464 | 2231 | 64801 |
 | **:globe_with_meridians: Domains** | 24 | 343 | 1654 | 41490 |
 | **:triangular_flag_on_post: IPs** | 13 | 191 | 705 | 21943 |
-| **:1234: SHA256** | 1 | 9 | 44 | 1479 |
+| **:1234: SHA256** | 2 | 10 | 45 | 1480 |
 | **:1234: MD5** | 5 | 24 | 133 | 3622 |
 
 </div>
@@ -126,9 +126,9 @@ If you like the project, please consider:
 | **#phishing** | 9 | 387 | 1078 | 51189 |
 | **#scam** | 4 | 15 | 48 | 8141 |
 | **#opendir** | 2 | 18 | 49 | 791 |
-| **#malware** | 1 | 15 | 107 | 5758 |
+| **#malware** | 2 | 16 | 108 | 5759 |
 | **#maldoc** | 0 | 0 | 0 | 0 |
-| **#ransomware** | 2 | 10 | 34 | 1035 |
+| **#ransomware** | 3 | 11 | 35 | 1036 |
 | **#banker** | 0 | 0 | 0 | 6 |
 | **#AgentTesla** | 0 | 0 | 0 | 200 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
