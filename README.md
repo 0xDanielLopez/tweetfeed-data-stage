@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 19:05:21 (UTC)</th>
+        <th colspan=4>2026-04-07 20:05:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 41 | 474 | 2241 | 64811 |
-| **:globe_with_meridians: Domains** | 32 | 351 | 1662 | 41498 |
-| **:triangular_flag_on_post: IPs** | 22 | 200 | 714 | 21952 |
+| **:link: URLs** | 45 | 478 | 2245 | 64815 |
+| **:globe_with_meridians: Domains** | 35 | 354 | 1665 | 41501 |
+| **:triangular_flag_on_post: IPs** | 23 | 201 | 715 | 21953 |
 | **:1234: SHA256** | 2 | 10 | 45 | 1480 |
 | **:1234: MD5** | 5 | 24 | 133 | 3622 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 15 | 393 | 1084 | 51195 |
+| **#phishing** | 21 | 399 | 1090 | 51201 |
 | **#scam** | 4 | 15 | 48 | 8141 |
 | **#opendir** | 2 | 18 | 49 | 791 |
 | **#malware** | 2 | 16 | 108 | 5759 |
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 28 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 19 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
-| **#5** | [smica83](https://twitter.com/smica83) | 6 |
-| **#6** | [mugu_reporter](https://twitter.com/mugu_reporter) | 6 |
+| **#4** | [mugu_reporter](https://twitter.com/mugu_reporter) | 12 |
+| **#5** | [masaomi346](https://twitter.com/masaomi346) | 8 |
+| **#6** | [smica83](https://twitter.com/smica83) | 6 |
 | **#7** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#8** | [illegalFawn](https://twitter.com/illegalFawn) | 4 |
-| **#9** | [1ZRR4H](https://twitter.com/1ZRR4H) | 3 |
+| **#8** | [1ZRR4H](https://twitter.com/1ZRR4H) | 5 |
+| **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 4 |
 | **#10** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 
 </div>

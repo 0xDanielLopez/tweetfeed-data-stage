@@ -11,6 +11,62 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://googlemeetinterview.help</title>
+         <link>https://x.com/1ZRR4H/status/2041597333264044348</link>
+         <description>@1ZRR4H | url | </description>
+         <guid>https://googlemeetinterview.help</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:49 +0000</pubDate>
+      </item>
+      <item>
+         <title>googlemeetinterview.help</title>
+         <link>https://x.com/1ZRR4H/status/2041597333264044348</link>
+         <description>@1ZRR4H | domain | </description>
+         <guid isPermaLink="false">googlemeetinterview.help</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:49 +0000</pubDate>
+      </item>
+      <item>
+         <title>192.142.45.218</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | ip | #phishing</description>
+         <guid isPermaLink="false">192.142.45.218</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://192.142.45.218</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | url | #phishing</description>
+         <guid>http://192.142.45.218</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://hostcreed.com</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | url | #phishing</description>
+         <guid>http://hostcreed.com</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>hostcreed.com</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | domain | #phishing</description>
+         <guid isPermaLink="false">hostcreed.com</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://fimgohost.com</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | url | #phishing</description>
+         <guid>http://fimgohost.com</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>fimgohost.com</title>
+         <link>https://x.com/mugu_reporter/status/2041597145589920221</link>
+         <description>@mugu_reporter | domain | #phishing</description>
+         <guid isPermaLink="false">fimgohost.com</guid>
+         <pubDate>Tue, 07 Apr 2026 19:21:05 +0000</pubDate>
+      </item>
+      <item>
          <title>86.107.77.57</title>
          <link>https://x.com/mugu_reporter/status/2041589240299966964</link>
          <description>@mugu_reporter | ip | #phishing</description>
