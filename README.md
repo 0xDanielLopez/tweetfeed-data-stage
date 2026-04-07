@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-07 05:05:28 (UTC)</th>
+        <th colspan=4>2026-04-07 06:05:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 446 | 2213 | 64783 |
-| **:globe_with_meridians: Domains** | 10 | 329 | 1640 | 41476 |
-| **:triangular_flag_on_post: IPs** | 4 | 182 | 696 | 21934 |
+| **:link: URLs** | 16 | 449 | 2216 | 64786 |
+| **:globe_with_meridians: Domains** | 13 | 332 | 1643 | 41479 |
+| **:triangular_flag_on_post: IPs** | 5 | 183 | 697 | 21935 |
 | **:1234: SHA256** | 0 | 8 | 43 | 1478 |
 | **:1234: MD5** | 1 | 20 | 129 | 3618 |
 
@@ -166,13 +166,13 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
 | **#2** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
-| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#5** | [PhishStats](https://twitter.com/PhishStats) | 1 |
-| **#6** | [-](https://twitter.com/-) | 0 |
-| **#7** | [-](https://twitter.com/-) | 0 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 4 |
+| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#6** | [PhishStats](https://twitter.com/PhishStats) | 1 |
+| **#7** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
 | **#10** | [-](https://twitter.com/-) | 0 |
