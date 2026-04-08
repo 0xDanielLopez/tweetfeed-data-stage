@@ -10,11 +10,6 @@
 2026-03-04 03:17:52,malwaremustdie,ip,150.5.128.0,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
 2026-03-04 03:17:52,malwaremustdie,ip,101.47.72.0,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
 2026-03-04 03:17:52,malwaremustdie,ip,101.47.152.0,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
-2026-03-04 03:17:52,malwaremustdie,url,http://150.5.128.0/21,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
-2026-03-04 03:17:52,malwaremustdie,url,http://158.51.96.0/23,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
-2026-03-04 03:17:52,malwaremustdie,url,http://101.47.72.0/21,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
-2026-03-04 03:17:52,malwaremustdie,url,http://101.47.152.0/21,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
-2026-03-04 03:17:52,malwaremustdie,url,http://23.160.193.0/24,#phishing,https://x.com/malwaremustdie/status/2029033558300668224
 2026-03-04 04:05:54,Fact_Finder03,ip,178.16.54.80,#C2 #stealer,https://x.com/Fact_Finder03/status/2029045645022310653
 2026-03-04 05:00:09,urldna_bot,url,https://zsmbra.weebly.com,,https://x.com/urldna_bot/status/2029059300241408287
 2026-03-04 05:00:09,urldna_bot,domain,zsmbra.weebly.com,,https://x.com/urldna_bot/status/2029059300241408287
@@ -113,15 +108,6 @@
 2026-03-04 18:38:50,SarlackLab,ip,23.226.58.0,,https://x.com/SarlackLab/status/2029265325309469014
 2026-03-04 18:38:50,SarlackLab,ip,43.249.172.0,,https://x.com/SarlackLab/status/2029265325309469014
 2026-03-04 18:38:50,SarlackLab,ip,103.39.16.0,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://23.226.48.0/23,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://43.249.172.0/22,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://178.16.52.0/22,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://23.226.58.0/23,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://23.248.208.0/21,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://158.94.208.0/22,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://43.240.239.0/24,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://103.39.16.0/22,,https://x.com/SarlackLab/status/2029265325309469014
-2026-03-04 18:38:50,SarlackLab,url,http://156.234.56.0/23,,https://x.com/SarlackLab/status/2029265325309469014
 2026-03-04 19:00:09,urldna_bot,domain,petermason100.wixsite.com,,https://x.com/urldna_bot/status/2029270692202455526
 2026-03-04 19:00:09,urldna_bot,url,https://petermason100.wixsite.com/my-site,,https://x.com/urldna_bot/status/2029270692202455526
 2026-03-04 19:53:07,skocherhan,url,http://generalitatdecatalunyasuport.weebly.com,,https://x.com/skocherhan/status/2029284020593299462
