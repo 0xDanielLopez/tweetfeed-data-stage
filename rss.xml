@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>http://hostwatt.com</title>
+         <link>https://x.com/mugu_reporter/status/2041767744052342862</link>
+         <description>@mugu_reporter | url | #phishing</description>
+         <guid>http://hostwatt.com</guid>
+         <pubDate>Wed, 08 Apr 2026 06:38:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>hostwatt.com</title>
+         <link>https://x.com/mugu_reporter/status/2041767744052342862</link>
+         <description>@mugu_reporter | domain | #phishing</description>
+         <guid isPermaLink="false">hostwatt.com</guid>
+         <pubDate>Wed, 08 Apr 2026 06:38:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://pojksjojd.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041757976524980317</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://pojksjojd.weebly.com</guid>
+         <pubDate>Wed, 08 Apr 2026 06:00:10 +0000</pubDate>
+      </item>
+      <item>
+         <title>pojksjojd.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041757976524980317</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">pojksjojd.weebly.com</guid>
+         <pubDate>Wed, 08 Apr 2026 06:00:10 +0000</pubDate>
+      </item>
+      <item>
          <title>213.165.50.110</title>
          <link>https://x.com/Fact_Finder03/status/2041749386724831684</link>
          <description>@Fact_Finder03 | ip | #C2</description>
