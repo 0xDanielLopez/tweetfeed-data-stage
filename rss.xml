@@ -11,6 +11,69 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>103.67.235.120</title>
+         <link>https://x.com/PhishStats/status/2041958677892964838</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">103.67.235.120</guid>
+         <pubDate>Wed, 08 Apr 2026 19:17:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://sp731414.sitebeat.crazydomains.com</title>
+         <link>https://x.com/PhishStats/status/2041958677892964838</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://sp731414.sitebeat.crazydomains.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:17:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>sp731414.sitebeat.crazydomains.com</title>
+         <link>https://x.com/PhishStats/status/2041958677892964838</link>
+         <description>@PhishStats | domain | #phishing</description>
+         <guid isPermaLink="false">sp731414.sitebeat.crazydomains.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:17:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://vmwall.com</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://vmwall.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>vmwall.com</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">vmwall.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://flare-host.ru</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://flare-host.ru</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>flare-host.ru</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">flare-host.ru</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://flare.su</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://flare.su</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
+         <title>flare.su</title>
+         <link>https://x.com/skocherhan/status/2041957243550110047</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">flare.su</guid>
+         <pubDate>Wed, 08 Apr 2026 19:11:59 +0000</pubDate>
+      </item>
+      <item>
          <title>https://t.co/9vdpPD2ABY</title>
          <link>https://x.com/FalconFeedsio/status/2041942737893945377</link>
          <description>@FalconFeedsio | url | </description>

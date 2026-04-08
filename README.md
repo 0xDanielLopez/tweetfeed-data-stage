@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 19:05:24 (UTC)</th>
+        <th colspan=4>2026-04-08 20:05:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 43 | 496 | 2253 | 64566 |
-| **:globe_with_meridians: Domains** | 31 | 375 | 1676 | 41353 |
-| **:triangular_flag_on_post: IPs** | 15 | 204 | 720 | 21870 |
+| **:link: URLs** | 47 | 500 | 2257 | 64570 |
+| **:globe_with_meridians: Domains** | 35 | 379 | 1680 | 41357 |
+| **:triangular_flag_on_post: IPs** | 16 | 205 | 721 | 21871 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 15 | 411 | 1122 | 50840 |
+| **#phishing** | 18 | 414 | 1125 | 50843 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 2 | 16 | 48 | 8077 |
@@ -116,13 +116,13 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 20 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 26 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 19 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
-| **#5** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#6** | [smica83](https://x.com/smica83) | 3 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 6 |
+| **#6** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
+| **#7** | [smica83](https://x.com/smica83) | 3 |
 | **#8** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
 | **#9** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
 | **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
