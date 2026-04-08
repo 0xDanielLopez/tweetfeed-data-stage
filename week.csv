@@ -1038,3 +1038,10 @@
 2026-04-08 06:38:59,mugu_reporter,domain,hostwatt.com,#phishing,https://x.com/mugu_reporter/status/2041767744052342862
 2026-04-08 06:38:59,mugu_reporter,url,http://hostwatt.com,#phishing,https://x.com/mugu_reporter/status/2041767744052342862
 2026-04-08 08:00:07,urldna_bot,url,https://docs.google.com/presentation/d/1VMkBDHLIwF8T671PlwwShY8JfEB7wQOswiam3YccFc8/pub?start=false&loop=false&delayms=3000&slide=id.p%3E,,https://x.com/urldna_bot/status/2041788164491129153
+2026-04-08 08:16:41,skocherhan,url,https://142.111.77.212,,https://x.com/skocherhan/status/2041792331028775076
+2026-04-08 08:16:41,skocherhan,domain,xss.ac,,https://x.com/skocherhan/status/2041792331028775076
+2026-04-08 08:16:41,skocherhan,url,http://xss.ac,,https://x.com/skocherhan/status/2041792331028775076
+2026-04-08 08:16:41,skocherhan,ip,142.111.77.212,,https://x.com/skocherhan/status/2041792331028775076
+2026-04-08 08:41:11,smica83,url,http://163.5.102.97/gs321RR/horrorreamer.hta,,https://x.com/smica83/status/2041798500216603002
+2026-04-08 08:41:11,smica83,ip,163.5.102.97,,https://x.com/smica83/status/2041798500216603002
+2026-04-08 08:48:37,JAMESWT_WT,md5,8067d537cff0e044f648f92fadf14aad,#ClickFix #NetSupport #RAT,https://x.com/JAMESWT_WT/status/2041800369307545780

@@ -11,6 +11,55 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>8067d537cff0e044f648f92fadf14aad</title>
+         <link>https://x.com/JAMESWT_WT/status/2041800369307545780</link>
+         <description>@JAMESWT_WT | md5 | #ClickFix #NetSupport #RAT</description>
+         <guid isPermaLink="false">8067d537cff0e044f648f92fadf14aad</guid>
+         <pubDate>Wed, 08 Apr 2026 08:48:37 +0000</pubDate>
+      </item>
+      <item>
+         <title>163.5.102.97</title>
+         <link>https://x.com/smica83/status/2041798500216603002</link>
+         <description>@smica83 | ip | </description>
+         <guid isPermaLink="false">163.5.102.97</guid>
+         <pubDate>Wed, 08 Apr 2026 08:41:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://163.5.102.97/gs321RR/horrorreamer.hta</title>
+         <link>https://x.com/smica83/status/2041798500216603002</link>
+         <description>@smica83 | url | </description>
+         <guid>http://163.5.102.97/gs321RR/horrorreamer.hta</guid>
+         <pubDate>Wed, 08 Apr 2026 08:41:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>142.111.77.212</title>
+         <link>https://x.com/skocherhan/status/2041792331028775076</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">142.111.77.212</guid>
+         <pubDate>Wed, 08 Apr 2026 08:16:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://xss.ac</title>
+         <link>https://x.com/skocherhan/status/2041792331028775076</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://xss.ac</guid>
+         <pubDate>Wed, 08 Apr 2026 08:16:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>xss.ac</title>
+         <link>https://x.com/skocherhan/status/2041792331028775076</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">xss.ac</guid>
+         <pubDate>Wed, 08 Apr 2026 08:16:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://142.111.77.212</title>
+         <link>https://x.com/skocherhan/status/2041792331028775076</link>
+         <description>@skocherhan | url | </description>
+         <guid>https://142.111.77.212</guid>
+         <pubDate>Wed, 08 Apr 2026 08:16:41 +0000</pubDate>
+      </item>
+      <item>
          <title>https://docs.google.com/presentation/d/1VMkBDHLIwF8T671PlwwShY8JfEB7wQOswiam3YccFc8/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&amp;amp;slide=id.p%3E</title>
          <link>https://x.com/urldna_bot/status/2041788164491129153</link>
          <description>@urldna_bot | url | </description>

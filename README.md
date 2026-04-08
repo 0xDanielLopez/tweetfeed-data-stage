@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 08:05:24 (UTC)</th>
+        <th colspan=4>2026-04-08 09:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,11 +72,11 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 466 | 2223 | 64536 |
-| **:globe_with_meridians: Domains** | 9 | 353 | 1654 | 41331 |
-| **:triangular_flag_on_post: IPs** | 4 | 193 | 709 | 21859 |
+| **:link: URLs** | 16 | 469 | 2226 | 64539 |
+| **:globe_with_meridians: Domains** | 10 | 354 | 1655 | 41332 |
+| **:triangular_flag_on_post: IPs** | 6 | 195 | 711 | 21861 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
-| **:1234: MD5** | 1 | 21 | 125 | 3607 |
+| **:1234: MD5** | 2 | 22 | 126 | 3608 |
 
 ---
 
@@ -118,12 +118,12 @@
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 9 |
-| **#3** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#4** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
-| **#5** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#4** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#5** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
+| **#6** | [smica83](https://x.com/smica83) | 2 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#8** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 
