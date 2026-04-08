@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 10:05:28 (UTC)</th>
+        <th colspan=4>2026-04-08 11:05:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 474 | 2231 | 64544 |
-| **:globe_with_meridians: Domains** | 14 | 358 | 1659 | 41336 |
-| **:triangular_flag_on_post: IPs** | 10 | 199 | 715 | 21865 |
+| **:link: URLs** | 26 | 479 | 2236 | 64549 |
+| **:globe_with_meridians: Domains** | 17 | 361 | 1662 | 41339 |
+| **:triangular_flag_on_post: IPs** | 13 | 202 | 718 | 21868 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 2 | 22 | 126 | 3608 |
 
@@ -84,10 +84,10 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 4 | 400 | 1111 | 50829 |
+| **#phishing** | 7 | 403 | 1114 | 50832 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
-| **#scam** | 0 | 14 | 46 | 8075 |
+| **#scam** | 2 | 16 | 48 | 8077 |
 | **#malware** | 2 | 17 | 111 | 5653 |
 | **#Interactsh** | 0 | 0 | 0 | 2578 |
 | **#Remcos** | 0 | 0 | 19 | 2462 |
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://x.com/Metemcyber) | 12 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 10 |
-| **#3** | [urldna_bot](https://x.com/urldna_bot) | 9 |
-| **#4** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#5** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
-| **#6** | [smica83](https://x.com/smica83) | 2 |
-| **#7** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#8** | [ir0n_fe](https://x.com/ir0n_fe) | 2 |
-| **#9** | [ErGauravDesai](https://x.com/ErGauravDesai) | 2 |
-| **#10** | [miltinh0c](https://x.com/miltinh0c) | 2 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 14 |
+| **#2** | [Metemcyber](https://x.com/Metemcyber) | 12 |
+| **#3** | [urldna_bot](https://x.com/urldna_bot) | 11 |
+| **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 3 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#7** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
+| **#8** | [smica83](https://x.com/smica83) | 2 |
+| **#9** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#10** | [ir0n_fe](https://x.com/ir0n_fe) | 2 |
 
 </div>
 

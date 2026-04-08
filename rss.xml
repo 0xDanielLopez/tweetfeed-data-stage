@@ -11,6 +11,83 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://diligentsweater.com</title>
+         <link>https://x.com/JAMESWT_WT/status/2041829678348923336</link>
+         <description>@JAMESWT_WT | url | #scam</description>
+         <guid>https://diligentsweater.com</guid>
+         <pubDate>Wed, 08 Apr 2026 10:45:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>diligentsweater.com</title>
+         <link>https://x.com/JAMESWT_WT/status/2041829678348923336</link>
+         <description>@JAMESWT_WT | domain | #scam</description>
+         <guid isPermaLink="false">diligentsweater.com</guid>
+         <pubDate>Wed, 08 Apr 2026 10:45:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>23.227.203.123</title>
+         <link>https://x.com/skocherhan/status/2041827209514492255</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">23.227.203.123</guid>
+         <pubDate>Wed, 08 Apr 2026 10:35:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>172.86.68.64</title>
+         <link>https://x.com/skocherhan/status/2041827209514492255</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">172.86.68.64</guid>
+         <pubDate>Wed, 08 Apr 2026 10:35:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://23.227.203.123</title>
+         <link>https://x.com/skocherhan/status/2041827209514492255</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://23.227.203.123</guid>
+         <pubDate>Wed, 08 Apr 2026 10:35:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://172.86.68.64</title>
+         <link>https://x.com/skocherhan/status/2041827209514492255</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://172.86.68.64</guid>
+         <pubDate>Wed, 08 Apr 2026 10:35:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>23.254.240.205</title>
+         <link>https://x.com/PhishStats/status/2041821706356916362</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">23.254.240.205</guid>
+         <pubDate>Wed, 08 Apr 2026 10:13:24 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://telegrammz.cc</title>
+         <link>https://x.com/PhishStats/status/2041821706356916362</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://telegrammz.cc</guid>
+         <pubDate>Wed, 08 Apr 2026 10:13:24 +0000</pubDate>
+      </item>
+      <item>
+         <title>telegrammz.cc</title>
+         <link>https://x.com/PhishStats/status/2041821706356916362</link>
+         <description>@PhishStats | domain | #phishing</description>
+         <guid isPermaLink="false">telegrammz.cc</guid>
+         <pubDate>Wed, 08 Apr 2026 10:13:24 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://amazon-clone-wine-iota.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2041818368794075260</link>
+         <description>@urldna_bot | url | </description>
+         <guid>http://amazon-clone-wine-iota.vercel.app</guid>
+         <pubDate>Wed, 08 Apr 2026 10:00:08 +0000</pubDate>
+      </item>
+      <item>
+         <title>amazon-clone-wine-iota.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2041818368794075260</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">amazon-clone-wine-iota.vercel.app</guid>
+         <pubDate>Wed, 08 Apr 2026 10:00:08 +0000</pubDate>
+      </item>
+      <item>
          <title>196.251.107.211</title>
          <link>https://x.com/skocherhan/status/2041814003857477783</link>
          <description>@skocherhan | ip | </description>
