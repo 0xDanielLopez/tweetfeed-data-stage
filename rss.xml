@@ -11,6 +11,62 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://sushiswanp.com</title>
+         <link>https://x.com/William_Code1/status/2041905454385697017</link>
+         <description>@William_Code1 | url | #phishing</description>
+         <guid>https://sushiswanp.com</guid>
+         <pubDate>Wed, 08 Apr 2026 15:46:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>sushiswanp.com</title>
+         <link>https://x.com/William_Code1/status/2041905454385697017</link>
+         <description>@William_Code1 | domain | #phishing</description>
+         <guid isPermaLink="false">sushiswanp.com</guid>
+         <pubDate>Wed, 08 Apr 2026 15:46:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://jpbassin.com</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | url | #malware</description>
+         <guid>http://jpbassin.com</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>jpbassin.com</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | domain | #malware</description>
+         <guid isPermaLink="false">jpbassin.com</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://mac-usb-fix.bitbucket.io</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | url | #malware</description>
+         <guid>http://mac-usb-fix.bitbucket.io</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>mac-usb-fix.bitbucket.io</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | domain | #malware</description>
+         <guid isPermaLink="false">mac-usb-fix.bitbucket.io</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://mac-clean-storage.gitlab.io</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | url | #malware</description>
+         <guid>http://mac-clean-storage.gitlab.io</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>mac-clean-storage.gitlab.io</title>
+         <link>https://x.com/masaomi346/status/2041905289600102591</link>
+         <description>@masaomi346 | domain | #malware</description>
+         <guid isPermaLink="false">mac-clean-storage.gitlab.io</guid>
+         <pubDate>Wed, 08 Apr 2026 15:45:32 +0000</pubDate>
+      </item>
+      <item>
          <title>https://net-id-it-node-it-con-it.com/jupyIT/unoIT/ckab-IT/app/log.php</title>
          <link>https://x.com/ShadowOpCode/status/2041881999858713074</link>
          <description>@ShadowOpCode | url | #phishing</description>

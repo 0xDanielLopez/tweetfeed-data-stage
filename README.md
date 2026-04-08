@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 15:05:25 (UTC)</th>
+        <th colspan=4>2026-04-08 16:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 33 | 486 | 2243 | 64556 |
-| **:globe_with_meridians: Domains** | 23 | 367 | 1668 | 41345 |
+| **:link: URLs** | 37 | 490 | 2247 | 64560 |
+| **:globe_with_meridians: Domains** | 27 | 371 | 1672 | 41349 |
 | **:triangular_flag_on_post: IPs** | 14 | 203 | 719 | 21869 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
@@ -84,11 +84,11 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 409 | 1120 | 50838 |
+| **#phishing** | 15 | 411 | 1122 | 50840 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 2 | 16 | 48 | 8077 |
-| **#malware** | 2 | 17 | 111 | 5653 |
+| **#malware** | 8 | 23 | 117 | 5659 |
 | **#Interactsh** | 0 | 0 | 0 | 2578 |
 | **#Remcos** | 0 | 0 | 19 | 2462 |
 | **#Sliver** | 0 | 0 | 14 | 2085 |
@@ -119,8 +119,8 @@
 | **#1** | [urldna_bot](https://x.com/urldna_bot) | 15 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 14 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
-| **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
+| **#5** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
 | **#6** | [smica83](https://x.com/smica83) | 3 |
 | **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#8** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
