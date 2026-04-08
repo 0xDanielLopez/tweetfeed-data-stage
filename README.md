@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 07:05:21 (UTC)</th>
+        <th colspan=4>2026-04-08 08:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,7 +72,7 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 465 | 2222 | 64535 |
+| **:link: URLs** | 13 | 466 | 2223 | 64536 |
 | **:globe_with_meridians: Domains** | 9 | 353 | 1654 | 41331 |
 | **:triangular_flag_on_post: IPs** | 4 | 193 | 709 | 21859 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
@@ -117,7 +117,7 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://x.com/Metemcyber) | 12 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 8 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 9 |
 | **#3** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
 | **#4** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
 | **#5** | [skocherhan](https://x.com/skocherhan) | 1 |
