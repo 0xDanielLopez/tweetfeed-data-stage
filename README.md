@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 20:05:32 (UTC)</th>
+        <th colspan=4>2026-04-08 20:50:49 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 500 | 2257 | 64570 |
-| **:globe_with_meridians: Domains** | 35 | 379 | 1680 | 41357 |
-| **:triangular_flag_on_post: IPs** | 16 | 205 | 721 | 21871 |
+| **:link: URLs** | 51 | 504 | 2261 | 64574 |
+| **:globe_with_meridians: Domains** | 37 | 380 | 1668 | 41224 |
+| **:triangular_flag_on_post: IPs** | 17 | 206 | 722 | 21872 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -84,29 +84,29 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 18 | 414 | 1125 | 50843 |
+| **#phishing** | 18 | 414 | 1124 | 50816 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
-| **#scam** | 2 | 16 | 48 | 8077 |
-| **#malware** | 8 | 23 | 117 | 5659 |
+| **#scam** | 2 | 16 | 48 | 8058 |
+| **#malware** | 8 | 23 | 116 | 5657 |
 | **#Interactsh** | 0 | 0 | 0 | 2578 |
-| **#Remcos** | 0 | 0 | 19 | 2462 |
+| **#Remcos** | 0 | 0 | 19 | 2459 |
 | **#Sliver** | 0 | 0 | 14 | 2085 |
-| **#APT** | 1 | 8 | 81 | 2045 |
+| **#APT** | 1 | 8 | 81 | 2044 |
 | **#NetSupportRAT** | 0 | 0 | 2 | 2012 |
-| **#AsyncRAT** | 0 | 2 | 30 | 1881 |
+| **#AsyncRAT** | 0 | 2 | 30 | 1880 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
-| **#Kimsuky** | 4 | 96 | 805 | 1541 |
+| **#Kimsuky** | 4 | 96 | 804 | 1540 |
 | **#Mythic** | 0 | 0 | 0 | 1281 |
 | **#Havoc** | 0 | 0 | 2 | 1273 |
-| **#Lumma** | 0 | 0 | 23 | 1218 |
+| **#Lumma** | 0 | 0 | 23 | 1217 |
 | **#ransomware** | 4 | 11 | 39 | 1039 |
-| **#stealer** | 1 | 23 | 81 | 865 |
+| **#stealer** | 1 | 23 | 80 | 862 |
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 5 | 25 | 58 | 796 |
-| **#Xworm** | 0 | 20 | 33 | 720 |
+| **#opendir** | 5 | 25 | 58 | 795 |
+| **#Xworm** | 0 | 20 | 33 | 717 |
 | **#LummaStealer** | 0 | 0 | 7 | 602 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
 
@@ -116,8 +116,8 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 26 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 19 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 30 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 21 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 6 |

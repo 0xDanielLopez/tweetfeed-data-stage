@@ -11,6 +11,55 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://github.com/creativebobo?tab=repositories</title>
+         <link>https://x.com/James_inthe_box/status/2041975970039787572</link>
+         <description>@James_inthe_box | url | </description>
+         <guid>https://github.com/creativebobo?tab=repositories</guid>
+         <pubDate>Wed, 08 Apr 2026 20:26:23 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://iiyout.cn</title>
+         <link>https://x.com/urldna_bot/status/2041969354036687209</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://iiyout.cn</guid>
+         <pubDate>Wed, 08 Apr 2026 20:00:06 +0000</pubDate>
+      </item>
+      <item>
+         <title>iiyout.cn</title>
+         <link>https://x.com/urldna_bot/status/2041969354036687209</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">iiyout.cn</guid>
+         <pubDate>Wed, 08 Apr 2026 20:00:06 +0000</pubDate>
+      </item>
+      <item>
+         <title>158.247.250.37</title>
+         <link>https://x.com/skocherhan/status/2041967866170286358</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">158.247.250.37</guid>
+         <pubDate>Wed, 08 Apr 2026 19:54:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://158.247.250.37</title>
+         <link>https://x.com/skocherhan/status/2041967866170286358</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://158.247.250.37</guid>
+         <pubDate>Wed, 08 Apr 2026 19:54:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://verify.udalyonka.com</title>
+         <link>https://x.com/skocherhan/status/2041967866170286358</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://verify.udalyonka.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:54:11 +0000</pubDate>
+      </item>
+      <item>
+         <title>verify.udalyonka.com</title>
+         <link>https://x.com/skocherhan/status/2041967866170286358</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">verify.udalyonka.com</guid>
+         <pubDate>Wed, 08 Apr 2026 19:54:11 +0000</pubDate>
+      </item>
+      <item>
          <title>103.67.235.120</title>
          <link>https://x.com/PhishStats/status/2041958677892964838</link>
          <description>@PhishStats | ip | #phishing</description>
