@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 20:55:04 (UTC)</th>
+        <th colspan=4>2026-04-08 20:57:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 51 | 504 | 2168 | 63459 |
+| **:link: URLs** | 52 | 505 | 2169 | 63460 |
 | **:globe_with_meridians: Domains** | 37 | 380 | 1668 | 41224 |
-| **:triangular_flag_on_post: IPs** | 17 | 206 | 722 | 21872 |
+| **:triangular_flag_on_post: IPs** | 18 | 207 | 723 | 21873 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -105,7 +105,7 @@
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 5 | 25 | 58 | 795 |
+| **#opendir** | 7 | 27 | 60 | 797 |
 | **#Xworm** | 0 | 20 | 33 | 717 |
 | **#LummaStealer** | 0 | 0 | 7 | 602 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
@@ -121,10 +121,10 @@
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 6 |
-| **#6** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#7** | [smica83](https://x.com/smica83) | 3 |
-| **#8** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
-| **#9** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#6** | [1ZRR4H](https://x.com/1ZRR4H) | 4 |
+| **#7** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
+| **#8** | [smica83](https://x.com/smica83) | 3 |
+| **#9** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
 | **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
 
 </div>
