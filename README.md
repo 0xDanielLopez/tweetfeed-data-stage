@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 03:05:18 (UTC)</th>
+        <th colspan=4>2026-04-08 04:05:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -76,7 +76,7 @@
 | **:globe_with_meridians: Domains** | 6 | 350 | 1651 | 41328 |
 | **:triangular_flag_on_post: IPs** | 3 | 192 | 708 | 21858 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
-| **:1234: MD5** | 0 | 20 | 124 | 3606 |
+| **:1234: MD5** | 1 | 21 | 125 | 3607 |
 
 ---
 
@@ -92,7 +92,7 @@
 | **#Interactsh** | 0 | 0 | 0 | 2578 |
 | **#Remcos** | 0 | 0 | 19 | 2462 |
 | **#Sliver** | 0 | 0 | 14 | 2085 |
-| **#APT** | 0 | 7 | 80 | 2044 |
+| **#APT** | 1 | 8 | 81 | 2045 |
 | **#NetSupportRAT** | 0 | 0 | 2 | 2012 |
 | **#AsyncRAT** | 0 | 2 | 30 | 1881 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
@@ -119,7 +119,7 @@
 | **#1** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 4 |
 | **#3** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#4** | [-](https://x.com/-) | 0 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
