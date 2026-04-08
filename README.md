@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 12:05:23 (UTC)</th>
+        <th colspan=4>2026-04-08 13:05:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 26 | 479 | 2236 | 64549 |
-| **:globe_with_meridians: Domains** | 17 | 361 | 1662 | 41339 |
-| **:triangular_flag_on_post: IPs** | 13 | 202 | 718 | 21868 |
+| **:link: URLs** | 28 | 481 | 2238 | 64551 |
+| **:globe_with_meridians: Domains** | 18 | 362 | 1663 | 41340 |
+| **:triangular_flag_on_post: IPs** | 14 | 203 | 719 | 21869 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 2 | 22 | 126 | 3608 |
 
@@ -117,13 +117,13 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://x.com/skocherhan) | 14 |
-| **#2** | [Metemcyber](https://x.com/Metemcyber) | 12 |
-| **#3** | [urldna_bot](https://x.com/urldna_bot) | 11 |
-| **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 3 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#7** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
-| **#8** | [smica83](https://x.com/smica83) | 2 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 13 |
+| **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
+| **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
+| **#5** | [smica83](https://x.com/smica83) | 3 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#8** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
 | **#9** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 | **#10** | [ir0n_fe](https://x.com/ir0n_fe) | 2 |
 
