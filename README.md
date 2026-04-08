@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 05:05:30 (UTC)</th>
+        <th colspan=4>2026-04-08 06:05:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -74,7 +74,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 10 | 463 | 2220 | 64533 |
 | **:globe_with_meridians: Domains** | 7 | 351 | 1652 | 41329 |
-| **:triangular_flag_on_post: IPs** | 3 | 192 | 708 | 21858 |
+| **:triangular_flag_on_post: IPs** | 4 | 193 | 709 | 21859 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 1 | 21 | 125 | 3607 |
 
@@ -85,7 +85,7 @@
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 0 | 396 | 1107 | 50825 |
-| **#C2** | 0 | 14 | 192 | 30783 |
+| **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 0 | 14 | 46 | 8075 |
 | **#malware** | 0 | 15 | 109 | 5651 |
@@ -120,7 +120,7 @@
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 6 |
 | **#3** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
 | **#4** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#5** | [-](https://x.com/-) | 0 |
+| **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
