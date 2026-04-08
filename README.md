@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 16:05:23 (UTC)</th>
+        <th colspan=4>2026-04-08 17:05:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 490 | 2247 | 64560 |
-| **:globe_with_meridians: Domains** | 27 | 371 | 1672 | 41349 |
-| **:triangular_flag_on_post: IPs** | 14 | 203 | 719 | 21869 |
+| **:link: URLs** | 39 | 492 | 2249 | 64562 |
+| **:globe_with_meridians: Domains** | 28 | 372 | 1673 | 41350 |
+| **:triangular_flag_on_post: IPs** | 15 | 204 | 720 | 21870 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -116,8 +116,8 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://x.com/urldna_bot) | 15 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 14 |
+| **#1** | [urldna_bot](https://x.com/urldna_bot) | 17 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
