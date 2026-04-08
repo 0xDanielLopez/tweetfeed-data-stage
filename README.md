@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 18:05:23 (UTC)</th>
+        <th colspan=4>2026-04-08 19:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,10 +72,10 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 492 | 2249 | 64562 |
-| **:globe_with_meridians: Domains** | 28 | 372 | 1673 | 41350 |
+| **:link: URLs** | 43 | 496 | 2253 | 64566 |
+| **:globe_with_meridians: Domains** | 31 | 375 | 1676 | 41353 |
 | **:triangular_flag_on_post: IPs** | 15 | 204 | 720 | 21870 |
-| **:1234: SHA256** | 0 | 7 | 44 | 1468 |
+| **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
 ---
@@ -96,7 +96,7 @@
 | **#NetSupportRAT** | 0 | 0 | 2 | 2012 |
 | **#AsyncRAT** | 0 | 2 | 30 | 1881 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
-| **#Kimsuky** | 0 | 92 | 801 | 1537 |
+| **#Kimsuky** | 4 | 96 | 805 | 1541 |
 | **#Mythic** | 0 | 0 | 0 | 1281 |
 | **#Havoc** | 0 | 0 | 2 | 1273 |
 | **#Lumma** | 0 | 0 | 23 | 1218 |
@@ -105,7 +105,7 @@
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 2 | 22 | 55 | 793 |
+| **#opendir** | 5 | 25 | 58 | 796 |
 | **#Xworm** | 0 | 20 | 33 | 720 |
 | **#LummaStealer** | 0 | 0 | 7 | 602 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://x.com/urldna_bot) | 17 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 20 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 19 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
 | **#6** | [smica83](https://x.com/smica83) | 3 |
 | **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#8** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#9** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
-| **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#8** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
+| **#9** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
 
 </div>
 
