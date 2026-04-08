@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 20:57:13 (UTC)</th>
+        <th colspan=4>2026-04-08 21:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 505 | 2169 | 63460 |
+| **:link: URLs** | 53 | 506 | 2170 | 63461 |
 | **:globe_with_meridians: Domains** | 37 | 380 | 1668 | 41224 |
-| **:triangular_flag_on_post: IPs** | 18 | 207 | 723 | 21873 |
+| **:triangular_flag_on_post: IPs** | 20 | 209 | 725 | 21875 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -125,7 +125,7 @@
 | **#7** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
 | **#8** | [smica83](https://x.com/smica83) | 3 |
 | **#9** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
-| **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
+| **#10** | [sicehice](https://x.com/sicehice) | 3 |
 
 </div>
 
