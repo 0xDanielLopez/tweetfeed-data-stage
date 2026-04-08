@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 14:05:24 (UTC)</th>
+        <th colspan=4>2026-04-08 15:05:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 482 | 2239 | 64552 |
-| **:globe_with_meridians: Domains** | 19 | 363 | 1664 | 41341 |
+| **:link: URLs** | 33 | 486 | 2243 | 64556 |
+| **:globe_with_meridians: Domains** | 23 | 367 | 1668 | 41345 |
 | **:triangular_flag_on_post: IPs** | 14 | 203 | 719 | 21869 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 9 | 405 | 1116 | 50834 |
+| **#phishing** | 13 | 409 | 1120 | 50838 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 2 | 16 | 48 | 8077 |
@@ -100,7 +100,7 @@
 | **#Mythic** | 0 | 0 | 0 | 1281 |
 | **#Havoc** | 0 | 0 | 2 | 1273 |
 | **#Lumma** | 0 | 0 | 23 | 1218 |
-| **#ransomware** | 2 | 9 | 37 | 1037 |
+| **#ransomware** | 4 | 11 | 39 | 1039 |
 | **#stealer** | 1 | 23 | 81 | 865 |
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 14 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 13 |
+| **#1** | [urldna_bot](https://x.com/urldna_bot) | 15 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 14 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#5** | [smica83](https://x.com/smica83) | 3 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
-| **#8** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
-| **#9** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#10** | [ir0n_fe](https://x.com/ir0n_fe) | 2 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#6** | [smica83](https://x.com/smica83) | 3 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
+| **#9** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
+| **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 
 </div>
 
