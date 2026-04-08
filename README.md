@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 22:05:12 (UTC)</th>
+        <th colspan=4>2026-04-08 23:05:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 77 | 530 | 2194 | 63485 |
-| **:globe_with_meridians: Domains** | 60 | 403 | 1691 | 41247 |
+| **:link: URLs** | 79 | 532 | 2196 | 63487 |
+| **:globe_with_meridians: Domains** | 62 | 405 | 1693 | 41249 |
 | **:triangular_flag_on_post: IPs** | 21 | 210 | 726 | 21876 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 18 | 414 | 1123 | 50808 |
+| **#phishing** | 22 | 418 | 1127 | 50812 |
 | **#C2** | 1 | 15 | 193 | 30744 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 2 | 16 | 48 | 8058 |
@@ -124,8 +124,8 @@
 | **#6** | [smica83](https://x.com/smica83) | 5 |
 | **#7** | [1ZRR4H](https://x.com/1ZRR4H) | 4 |
 | **#8** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#9** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
-| **#10** | [sicehice](https://x.com/sicehice) | 3 |
+| **#9** | [oroshi0064](https://x.com/oroshi0064) | 4 |
+| **#10** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
 
 </div>
 
