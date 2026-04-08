@@ -11,6 +11,20 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://bjbmn.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041727763778842948</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://bjbmn.weebly.com</guid>
+         <pubDate>Wed, 08 Apr 2026 04:00:07 +0000</pubDate>
+      </item>
+      <item>
+         <title>bjbmn.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2041727763778842948</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">bjbmn.weebly.com</guid>
+         <pubDate>Wed, 08 Apr 2026 04:00:07 +0000</pubDate>
+      </item>
+      <item>
          <title>2d31067df7ccbcd6eaef1025098ed928</title>
          <link>https://x.com/skocherhan/status/2041723515716456795</link>
          <description>@skocherhan | md5 | #APT</description>
