@@ -11,6 +11,97 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>196.251.107.211</title>
+         <link>https://x.com/skocherhan/status/2041814003857477783</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">196.251.107.211</guid>
+         <pubDate>Wed, 08 Apr 2026 09:42:48 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://ilspy.org</title>
+         <link>https://x.com/miltinh0c/status/2041813693244043579</link>
+         <description>@miltinh0c | url | #malware</description>
+         <guid>http://ilspy.org</guid>
+         <pubDate>Wed, 08 Apr 2026 09:41:34 +0000</pubDate>
+      </item>
+      <item>
+         <title>ilspy.org</title>
+         <link>https://x.com/miltinh0c/status/2041813693244043579</link>
+         <description>@miltinh0c | domain | #malware</description>
+         <guid isPermaLink="false">ilspy.org</guid>
+         <pubDate>Wed, 08 Apr 2026 09:41:34 +0000</pubDate>
+      </item>
+      <item>
+         <title>38.55.144.16</title>
+         <link>https://x.com/skocherhan/status/2041812997694279953</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">38.55.144.16</guid>
+         <pubDate>Wed, 08 Apr 2026 09:38:48 +0000</pubDate>
+      </item>
+      <item>
+         <title>198.251.89.171</title>
+         <link>https://x.com/skocherhan/status/2041812997694279953</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">198.251.89.171</guid>
+         <pubDate>Wed, 08 Apr 2026 09:38:48 +0000</pubDate>
+      </item>
+      <item>
+         <title>23.111.159.182</title>
+         <link>https://x.com/skocherhan/status/2041812269994999924</link>
+         <description>@skocherhan | ip | #opendir</description>
+         <guid isPermaLink="false">23.111.159.182</guid>
+         <pubDate>Wed, 08 Apr 2026 09:35:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://23.111.159.182:9999</title>
+         <link>https://x.com/skocherhan/status/2041812269994999924</link>
+         <description>@skocherhan | url | #opendir</description>
+         <guid>http://23.111.159.182:9999</guid>
+         <pubDate>Wed, 08 Apr 2026 09:35:54 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://axicbzsk.icu/i</title>
+         <link>https://x.com/ErGauravDesai/status/2041810713325478281</link>
+         <description>@ErGauravDesai | url | </description>
+         <guid>http://axicbzsk.icu/i</guid>
+         <pubDate>Wed, 08 Apr 2026 09:29:43 +0000</pubDate>
+      </item>
+      <item>
+         <title>axicbzsk.icu</title>
+         <link>https://x.com/ErGauravDesai/status/2041810713325478281</link>
+         <description>@ErGauravDesai | domain | </description>
+         <guid isPermaLink="false">axicbzsk.icu</guid>
+         <pubDate>Wed, 08 Apr 2026 09:29:43 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://mnc.iloxmn.com/iKSO1U</title>
+         <link>https://x.com/ir0n_fe/status/2041810568508846094</link>
+         <description>@ir0n_fe | url | #phishing</description>
+         <guid>https://mnc.iloxmn.com/iKSO1U</guid>
+         <pubDate>Wed, 08 Apr 2026 09:29:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>mnc.iloxmn.com</title>
+         <link>https://x.com/ir0n_fe/status/2041810568508846094</link>
+         <description>@ir0n_fe | domain | #phishing</description>
+         <guid isPermaLink="false">mnc.iloxmn.com</guid>
+         <pubDate>Wed, 08 Apr 2026 09:29:09 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion</title>
+         <link>https://x.com/fbgwls245/status/2041802326554595822</link>
+         <description>@fbgwls245 | url | #ransomware</description>
+         <guid>http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion</guid>
+         <pubDate>Wed, 08 Apr 2026 08:56:24 +0000</pubDate>
+      </item>
+      <item>
+         <title>6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion</title>
+         <link>https://x.com/fbgwls245/status/2041802326554595822</link>
+         <description>@fbgwls245 | domain | #ransomware</description>
+         <guid isPermaLink="false">6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion</guid>
+         <pubDate>Wed, 08 Apr 2026 08:56:24 +0000</pubDate>
+      </item>
+      <item>
          <title>8067d537cff0e044f648f92fadf14aad</title>
          <link>https://x.com/JAMESWT_WT/status/2041800369307545780</link>
          <description>@JAMESWT_WT | md5 | #ClickFix #NetSupport #RAT</description>

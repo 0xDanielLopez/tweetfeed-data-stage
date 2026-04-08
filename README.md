@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 09:05:24 (UTC)</th>
+        <th colspan=4>2026-04-08 10:05:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 469 | 2226 | 64539 |
-| **:globe_with_meridians: Domains** | 10 | 354 | 1655 | 41332 |
-| **:triangular_flag_on_post: IPs** | 6 | 195 | 711 | 21861 |
+| **:link: URLs** | 21 | 474 | 2231 | 64544 |
+| **:globe_with_meridians: Domains** | 14 | 358 | 1659 | 41336 |
+| **:triangular_flag_on_post: IPs** | 10 | 199 | 715 | 21865 |
 | **:1234: SHA256** | 0 | 7 | 44 | 1468 |
 | **:1234: MD5** | 2 | 22 | 126 | 3608 |
 
@@ -84,11 +84,11 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 398 | 1109 | 50827 |
+| **#phishing** | 4 | 400 | 1111 | 50829 |
 | **#C2** | 1 | 15 | 193 | 30784 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8506 |
 | **#scam** | 0 | 14 | 46 | 8075 |
-| **#malware** | 0 | 15 | 109 | 5651 |
+| **#malware** | 2 | 17 | 111 | 5653 |
 | **#Interactsh** | 0 | 0 | 0 | 2578 |
 | **#Remcos** | 0 | 0 | 19 | 2462 |
 | **#Sliver** | 0 | 0 | 14 | 2085 |
@@ -100,12 +100,12 @@
 | **#Mythic** | 0 | 0 | 0 | 1281 |
 | **#Havoc** | 0 | 0 | 2 | 1273 |
 | **#Lumma** | 0 | 0 | 23 | 1218 |
-| **#ransomware** | 0 | 7 | 35 | 1035 |
+| **#ransomware** | 2 | 9 | 37 | 1037 |
 | **#stealer** | 0 | 22 | 80 | 864 |
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 0 | 20 | 53 | 791 |
+| **#opendir** | 2 | 22 | 55 | 793 |
 | **#Xworm** | 0 | 20 | 33 | 720 |
 | **#LummaStealer** | 0 | 0 | 7 | 602 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
@@ -117,15 +117,15 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://x.com/Metemcyber) | 12 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 9 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#3** | [urldna_bot](https://x.com/urldna_bot) | 9 |
 | **#4** | [1ZRR4H](https://x.com/1ZRR4H) | 2 |
 | **#5** | [mugu_reporter](https://x.com/mugu_reporter) | 2 |
 | **#6** | [smica83](https://x.com/smica83) | 2 |
-| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
-| **#8** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 1 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#7** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#8** | [ir0n_fe](https://x.com/ir0n_fe) | 2 |
+| **#9** | [ErGauravDesai](https://x.com/ErGauravDesai) | 2 |
+| **#10** | [miltinh0c](https://x.com/miltinh0c) | 2 |
 
 </div>
 
