@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-08 21:05:23 (UTC)</th>
+        <th colspan=4>2026-04-08 22:05:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 506 | 2170 | 63461 |
-| **:globe_with_meridians: Domains** | 37 | 380 | 1668 | 41224 |
-| **:triangular_flag_on_post: IPs** | 20 | 209 | 725 | 21875 |
+| **:link: URLs** | 77 | 530 | 2194 | 63485 |
+| **:globe_with_meridians: Domains** | 60 | 403 | 1691 | 41247 |
+| **:triangular_flag_on_post: IPs** | 21 | 210 | 726 | 21876 |
 | **:1234: SHA256** | 3 | 10 | 47 | 1471 |
 | **:1234: MD5** | 3 | 23 | 127 | 3609 |
 
@@ -96,7 +96,7 @@
 | **#NetSupportRAT** | 0 | 0 | 2 | 2012 |
 | **#AsyncRAT** | 0 | 2 | 30 | 1880 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
-| **#Kimsuky** | 4 | 96 | 804 | 1540 |
+| **#Kimsuky** | 49 | 141 | 849 | 1585 |
 | **#Mythic** | 0 | 0 | 0 | 1281 |
 | **#Havoc** | 0 | 0 | 2 | 1273 |
 | **#Lumma** | 0 | 0 | 23 | 1217 |
@@ -105,7 +105,7 @@
 | **#Njrat** | 0 | 0 | 46 | 862 |
 | **#Qakbot** | 0 | 0 | 0 | 857 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 7 | 27 | 60 | 797 |
+| **#opendir** | 9 | 29 | 62 | 799 |
 | **#Xworm** | 0 | 20 | 33 | 717 |
 | **#LummaStealer** | 0 | 0 | 7 | 602 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
@@ -116,14 +116,14 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 30 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 76 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 21 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 6 |
-| **#6** | [1ZRR4H](https://x.com/1ZRR4H) | 4 |
-| **#7** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
-| **#8** | [smica83](https://x.com/smica83) | 3 |
+| **#6** | [smica83](https://x.com/smica83) | 5 |
+| **#7** | [1ZRR4H](https://x.com/1ZRR4H) | 4 |
+| **#8** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 4 |
 | **#9** | [BlinkzSec](https://x.com/BlinkzSec) | 3 |
 | **#10** | [sicehice](https://x.com/sicehice) | 3 |
 
