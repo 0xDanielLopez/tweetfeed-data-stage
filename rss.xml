@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>83.168.69.226</title>
+         <link>https://x.com/malwrhunterteam/status/2042230714410598751</link>
+         <description>@malwrhunterteam | ip | </description>
+         <guid isPermaLink="false">83.168.69.226</guid>
+         <pubDate>Thu, 09 Apr 2026 13:18:39 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://83.168.69.226</title>
+         <link>https://x.com/malwrhunterteam/status/2042230714410598751</link>
+         <description>@malwrhunterteam | url | </description>
+         <guid>http://83.168.69.226</guid>
+         <pubDate>Thu, 09 Apr 2026 13:18:39 +0000</pubDate>
+      </item>
+      <item>
+         <title>129.213.9.74</title>
+         <link>https://x.com/malwrhunterteam/status/2042227358720008540</link>
+         <description>@malwrhunterteam | ip | </description>
+         <guid isPermaLink="false">129.213.9.74</guid>
+         <pubDate>Thu, 09 Apr 2026 13:05:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://129.213.9.74:1339</title>
+         <link>https://x.com/malwrhunterteam/status/2042227358720008540</link>
+         <description>@malwrhunterteam | url | </description>
+         <guid>http://129.213.9.74:1339</guid>
+         <pubDate>Thu, 09 Apr 2026 13:05:19 +0000</pubDate>
+      </item>
+      <item>
          <title>https://danijamsghj.weebly.com</title>
          <link>https://x.com/urldna_bot/status/2042210954268512628</link>
          <description>@urldna_bot | url | </description>

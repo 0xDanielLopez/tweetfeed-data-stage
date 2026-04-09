@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 13:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 14:05:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 26 | 441 | 2149 | 63176 |
+| **:link: URLs** | 28 | 443 | 2151 | 63178 |
 | **:globe_with_meridians: Domains** | 19 | 337 | 1650 | 41066 |
-| **:triangular_flag_on_post: IPs** | 10 | 154 | 699 | 21781 |
+| **:triangular_flag_on_post: IPs** | 12 | 156 | 701 | 21783 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 2 | 23 | 129 | 3604 |
 
@@ -120,10 +120,10 @@
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 12 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 5 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#7** | [suyog41](https://x.com/suyog41) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#8** | [suyog41](https://x.com/suyog41) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 
