@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 14:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 15:05:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,11 +72,11 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 443 | 2151 | 63178 |
-| **:globe_with_meridians: Domains** | 19 | 337 | 1650 | 41066 |
-| **:triangular_flag_on_post: IPs** | 12 | 156 | 701 | 21783 |
+| **:link: URLs** | 33 | 448 | 2156 | 63183 |
+| **:globe_with_meridians: Domains** | 22 | 340 | 1653 | 41069 |
+| **:triangular_flag_on_post: IPs** | 15 | 159 | 704 | 21786 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
-| **:1234: MD5** | 2 | 23 | 129 | 3604 |
+| **:1234: MD5** | 4 | 25 | 131 | 3606 |
 
 ---
 
@@ -101,7 +101,7 @@
 | **#Havoc** | 0 | 0 | 2 | 1265 |
 | **#Lumma** | 0 | 0 | 23 | 1217 |
 | **#ransomware** | 2 | 13 | 41 | 1040 |
-| **#stealer** | 0 | 23 | 80 | 862 |
+| **#stealer** | 4 | 27 | 84 | 866 |
 | **#Njrat** | 0 | 0 | 46 | 860 |
 | **#Qakbot** | 0 | 0 | 0 | 849 |
 | **#Supershell** | 0 | 0 | 0 | 804 |
@@ -116,15 +116,15 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 31 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 12 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 37 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 14 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 5 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#8** | [suyog41](https://x.com/suyog41) | 1 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#5** | [suyog41](https://x.com/suyog41) | 4 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#9** | [smica83](https://x.com/smica83) | 2 |
 | **#10** | [-](https://x.com/-) | 0 |
 
 </div>
