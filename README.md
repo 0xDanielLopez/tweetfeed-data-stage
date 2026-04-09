@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 19:05:13 (UTC)</th>
+        <th colspan=4>2026-04-09 20:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 43 | 458 | 2166 | 63193 |
-| **:globe_with_meridians: Domains** | 30 | 348 | 1661 | 41077 |
+| **:link: URLs** | 45 | 460 | 2168 | 63195 |
+| **:globe_with_meridians: Domains** | 32 | 350 | 1663 | 41079 |
 | **:triangular_flag_on_post: IPs** | 19 | 163 | 708 | 21790 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 4 | 25 | 131 | 3606 |
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 18 | 273 | 1052 | 50449 |
+| **#phishing** | 22 | 277 | 1056 | 50453 |
 | **#C2** | 0 | 10 | 186 | 30546 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8425 |
 | **#scam** | 0 | 6 | 48 | 7994 |
@@ -123,9 +123,9 @@
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 5 |
 | **#7** | [suyog41](https://x.com/suyog41) | 4 |
-| **#8** | [smica83](https://x.com/smica83) | 3 |
-| **#9** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#10** | [solostalking](https://x.com/solostalking) | 1 |
+| **#8** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
+| **#9** | [smica83](https://x.com/smica83) | 3 |
+| **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 
 </div>
 
