@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 22:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 23:05:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 465 | 2173 | 63200 |
-| **:globe_with_meridians: Domains** | 36 | 354 | 1667 | 41083 |
+| **:link: URLs** | 53 | 468 | 2176 | 63203 |
+| **:globe_with_meridians: Domains** | 39 | 357 | 1670 | 41086 |
 | **:triangular_flag_on_post: IPs** | 21 | 165 | 710 | 21792 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 4 | 25 | 131 | 3606 |
@@ -117,7 +117,7 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://x.com/skocherhan) | 44 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 20 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 22 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 12 |
 | **#4** | [PhishStats](https://x.com/PhishStats) | 6 |
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
@@ -125,7 +125,7 @@
 | **#7** | [smica83](https://x.com/smica83) | 5 |
 | **#8** | [suyog41](https://x.com/suyog41) | 4 |
 | **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#10** | [sicehice](https://x.com/sicehice) | 3 |
+| **#10** | [Merlax_](https://x.com/Merlax_) | 4 |
 
 </div>
 
