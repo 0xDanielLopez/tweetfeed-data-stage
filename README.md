@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 04:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 05:05:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,11 +72,11 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 419 | 2127 | 63154 |
-| **:globe_with_meridians: Domains** | 4 | 322 | 1635 | 41051 |
-| **:triangular_flag_on_post: IPs** | 0 | 144 | 689 | 21771 |
+| **:link: URLs** | 8 | 423 | 2131 | 63158 |
+| **:globe_with_meridians: Domains** | 7 | 325 | 1638 | 41054 |
+| **:triangular_flag_on_post: IPs** | 2 | 146 | 691 | 21773 |
 | **:1234: SHA256** | 0 | 9 | 45 | 1457 |
-| **:1234: MD5** | 0 | 21 | 127 | 3602 |
+| **:1234: MD5** | 1 | 22 | 128 | 3603 |
 
 ---
 
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 257 | 1036 | 50433 |
+| **#phishing** | 5 | 260 | 1039 | 50436 |
 | **#C2** | 0 | 10 | 186 | 30546 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8425 |
 | **#scam** | 0 | 6 | 48 | 7994 |
@@ -92,7 +92,7 @@
 | **#Interactsh** | 0 | 0 | 0 | 2570 |
 | **#Remcos** | 0 | 0 | 19 | 2454 |
 | **#Sliver** | 0 | 0 | 14 | 2067 |
-| **#APT** | 0 | 8 | 80 | 2040 |
+| **#APT** | 2 | 10 | 82 | 2042 |
 | **#NetSupportRAT** | 0 | 0 | 2 | 1999 |
 | **#AsyncRAT** | 0 | 2 | 30 | 1861 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
@@ -116,11 +116,11 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://x.com/urldna_bot) | 4 |
-| **#2** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#4** | [-](https://x.com/-) | 0 |
-| **#5** | [-](https://x.com/-) | 0 |
+| **#1** | [urldna_bot](https://x.com/urldna_bot) | 6 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#4** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
