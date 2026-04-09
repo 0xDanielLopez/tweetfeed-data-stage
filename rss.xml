@@ -11,6 +11,20 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>http://neflix-clone-project.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2042059947999981776</link>
+         <description>@urldna_bot | url | </description>
+         <guid>http://neflix-clone-project.vercel.app</guid>
+         <pubDate>Thu, 09 Apr 2026 02:00:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>neflix-clone-project.vercel.app</title>
+         <link>https://x.com/urldna_bot/status/2042059947999981776</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">neflix-clone-project.vercel.app</guid>
+         <pubDate>Thu, 09 Apr 2026 02:00:05 +0000</pubDate>
+      </item>
+      <item>
          <title>https://login.blueskydesignphx.com/login</title>
          <link>https://x.com/masaomi346/status/2042037606188511531</link>
          <description>@masaomi346 | url | #phishing</description>

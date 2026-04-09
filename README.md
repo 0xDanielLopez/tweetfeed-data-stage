@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 02:05:10 (UTC)</th>
+        <th colspan=4>2026-04-09 03:05:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 418 | 2126 | 63153 |
-| **:globe_with_meridians: Domains** | 3 | 321 | 1634 | 41050 |
+| **:link: URLs** | 4 | 419 | 2127 | 63154 |
+| **:globe_with_meridians: Domains** | 4 | 322 | 1635 | 41051 |
 | **:triangular_flag_on_post: IPs** | 0 | 144 | 689 | 21771 |
 | **:1234: SHA256** | 0 | 9 | 45 | 1457 |
 | **:1234: MD5** | 0 | 21 | 127 | 3602 |
@@ -116,7 +116,7 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://x.com/urldna_bot) | 2 |
+| **#1** | [urldna_bot](https://x.com/urldna_bot) | 4 |
 | **#2** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
