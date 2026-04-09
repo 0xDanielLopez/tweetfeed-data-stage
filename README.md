@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 07:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 08:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -75,8 +75,8 @@
 | **:link: URLs** | 11 | 426 | 2134 | 63161 |
 | **:globe_with_meridians: Domains** | 10 | 328 | 1641 | 41057 |
 | **:triangular_flag_on_post: IPs** | 4 | 148 | 693 | 21775 |
-| **:1234: SHA256** | 0 | 9 | 45 | 1457 |
-| **:1234: MD5** | 1 | 22 | 128 | 3603 |
+| **:1234: SHA256** | 1 | 10 | 46 | 1458 |
+| **:1234: MD5** | 2 | 23 | 129 | 3604 |
 
 ---
 
@@ -117,12 +117,12 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://x.com/urldna_bot) | 8 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 6 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 7 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 4 |
 | **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#5** | [Metemcyber](https://x.com/Metemcyber) | 3 |
 | **#6** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#7** | [suyog41](https://x.com/suyog41) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |

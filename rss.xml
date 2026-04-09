@@ -11,6 +11,20 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>ae6bdfdf032889e757e106eb7ba757525b3400b389612cc5f2825c2fa5687e81</title>
+         <link>https://x.com/skocherhan/status/2042141543939629291</link>
+         <description>@skocherhan | sha256 | </description>
+         <guid isPermaLink="false">ae6bdfdf032889e757e106eb7ba757525b3400b389612cc5f2825c2fa5687e81</guid>
+         <pubDate>Thu, 09 Apr 2026 07:24:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>9e72c6ebc72966a243d89275c63fced9</title>
+         <link>https://x.com/suyog41/status/2042137501700387187</link>
+         <description>@suyog41 | md5 | </description>
+         <guid isPermaLink="false">9e72c6ebc72966a243d89275c63fced9</guid>
+         <pubDate>Thu, 09 Apr 2026 07:08:16 +0000</pubDate>
+      </item>
+      <item>
          <title>43.165.166.156</title>
          <link>https://x.com/Metemcyber/status/2042129613648978211</link>
          <description>@Metemcyber | ip | </description>
