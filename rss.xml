@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>45.88.186.147</title>
+         <link>https://x.com/skocherhan/status/2042178418771415376</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">45.88.186.147</guid>
+         <pubDate>Thu, 09 Apr 2026 09:50:51 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://45.88.186.147:1337</title>
+         <link>https://x.com/skocherhan/status/2042178418771415376</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://45.88.186.147:1337</guid>
+         <pubDate>Thu, 09 Apr 2026 09:50:51 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://knvlpvb.gmkf6c.cn/nomelo/login_index/</title>
+         <link>https://x.com/Metemcyber/status/2042173381286768892</link>
+         <description>@Metemcyber | url | </description>
+         <guid>https://knvlpvb.gmkf6c.cn/nomelo/login_index/</guid>
+         <pubDate>Thu, 09 Apr 2026 09:30:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>knvlpvb.gmkf6c.cn</title>
+         <link>https://x.com/Metemcyber/status/2042173381286768892</link>
+         <description>@Metemcyber | domain | </description>
+         <guid isPermaLink="false">knvlpvb.gmkf6c.cn</guid>
+         <pubDate>Thu, 09 Apr 2026 09:30:50 +0000</pubDate>
+      </item>
+      <item>
          <title>156.254.5.38</title>
          <link>https://x.com/skocherhan/status/2042157010913783830</link>
          <description>@skocherhan | ip | </description>

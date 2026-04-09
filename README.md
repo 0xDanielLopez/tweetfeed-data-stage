@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 09:05:12 (UTC)</th>
+        <th colspan=4>2026-04-09 10:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 433 | 2141 | 63168 |
-| **:globe_with_meridians: Domains** | 16 | 334 | 1647 | 41063 |
-| **:triangular_flag_on_post: IPs** | 7 | 151 | 696 | 21778 |
+| **:link: URLs** | 20 | 435 | 2143 | 63170 |
+| **:globe_with_meridians: Domains** | 17 | 335 | 1648 | 41064 |
+| **:triangular_flag_on_post: IPs** | 8 | 152 | 697 | 21779 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 2 | 23 | 129 | 3604 |
 
@@ -116,11 +116,11 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 23 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 25 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 8 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#5** | [Metemcyber](https://x.com/Metemcyber) | 3 |
+| **#3** | [Metemcyber](https://x.com/Metemcyber) | 5 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#6** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 | **#7** | [suyog41](https://x.com/suyog41) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
