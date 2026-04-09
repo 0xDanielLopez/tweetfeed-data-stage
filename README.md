@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 20:05:13 (UTC)</th>
+        <th colspan=4>2026-04-09 21:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 45 | 460 | 2168 | 63195 |
-| **:globe_with_meridians: Domains** | 32 | 350 | 1663 | 41079 |
+| **:link: URLs** | 48 | 463 | 2171 | 63198 |
+| **:globe_with_meridians: Domains** | 35 | 353 | 1666 | 41082 |
 | **:triangular_flag_on_post: IPs** | 19 | 163 | 708 | 21790 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 4 | 25 | 131 | 3606 |
@@ -116,15 +116,15 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 40 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 18 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 42 |
+| **#2** | [urldna_bot](https://x.com/urldna_bot) | 20 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 12 |
 | **#4** | [PhishStats](https://x.com/PhishStats) | 6 |
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 5 |
-| **#7** | [suyog41](https://x.com/suyog41) | 4 |
-| **#8** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#9** | [smica83](https://x.com/smica83) | 3 |
+| **#7** | [smica83](https://x.com/smica83) | 5 |
+| **#8** | [suyog41](https://x.com/suyog41) | 4 |
+| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
 | **#10** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 
 </div>

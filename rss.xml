@@ -11,6 +11,48 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>http://cloudmetricsapi.com</title>
+         <link>https://x.com/smica83/status/2042343296958169427</link>
+         <description>@smica83 | url | </description>
+         <guid>http://cloudmetricsapi.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:46:01 +0000</pubDate>
+      </item>
+      <item>
+         <title>cloudmetricsapi.com</title>
+         <link>https://x.com/smica83/status/2042343296958169427</link>
+         <description>@smica83 | domain | </description>
+         <guid isPermaLink="false">cloudmetricsapi.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:46:01 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://maybedontbanplease.com</title>
+         <link>https://x.com/skocherhan/status/2042341019451019424</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://maybedontbanplease.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:36:58 +0000</pubDate>
+      </item>
+      <item>
+         <title>maybedontbanplease.com</title>
+         <link>https://x.com/skocherhan/status/2042341019451019424</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">maybedontbanplease.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:36:58 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://secure-tompkinsonline.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2042331737292779812</link>
+         <description>@urldna_bot | url | </description>
+         <guid>https://secure-tompkinsonline.weebly.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:00:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>secure-tompkinsonline.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/2042331737292779812</link>
+         <description>@urldna_bot | domain | </description>
+         <guid isPermaLink="false">secure-tompkinsonline.weebly.com</guid>
+         <pubDate>Thu, 09 Apr 2026 20:00:05 +0000</pubDate>
+      </item>
+      <item>
          <title>http://share.google/jWKDfiGrtVe3qO9At</title>
          <link>https://x.com/Malwarehunterr/status/2042327063839813830</link>
          <description>@Malwarehunterr | url | #phishing</description>
