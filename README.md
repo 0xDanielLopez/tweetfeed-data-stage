@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 00:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 01:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 416 | 2124 | 63151 |
-| **:globe_with_meridians: Domains** | 1 | 319 | 1632 | 41048 |
+| **:link: URLs** | 3 | 418 | 2126 | 63153 |
+| **:globe_with_meridians: Domains** | 3 | 321 | 1634 | 41050 |
 | **:triangular_flag_on_post: IPs** | 0 | 144 | 689 | 21771 |
 | **:1234: SHA256** | 0 | 9 | 45 | 1457 |
 | **:1234: MD5** | 0 | 21 | 127 | 3602 |
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 255 | 1034 | 50431 |
+| **#phishing** | 2 | 257 | 1036 | 50433 |
 | **#C2** | 0 | 10 | 186 | 30546 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8425 |
 | **#scam** | 0 | 6 | 48 | 7994 |
@@ -100,7 +100,7 @@
 | **#Mythic** | 0 | 0 | 0 | 1265 |
 | **#Havoc** | 0 | 0 | 2 | 1265 |
 | **#Lumma** | 0 | 0 | 23 | 1217 |
-| **#ransomware** | 0 | 11 | 39 | 1038 |
+| **#ransomware** | 2 | 13 | 41 | 1040 |
 | **#stealer** | 0 | 23 | 80 | 862 |
 | **#Njrat** | 0 | 0 | 46 | 860 |
 | **#Qakbot** | 0 | 0 | 0 | 849 |
@@ -117,8 +117,8 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://x.com/urldna_bot) | 2 |
-| **#2** | [-](https://x.com/-) | 0 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#2** | [fbgwls245](https://x.com/fbgwls245) | 2 |
+| **#3** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |

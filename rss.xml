@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://login.blueskydesignphx.com/login</title>
+         <link>https://x.com/masaomi346/status/2042037606188511531</link>
+         <description>@masaomi346 | url | #phishing</description>
+         <guid>https://login.blueskydesignphx.com/login</guid>
+         <pubDate>Thu, 09 Apr 2026 00:31:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>login.blueskydesignphx.com</title>
+         <link>https://x.com/masaomi346/status/2042037606188511531</link>
+         <description>@masaomi346 | domain | #phishing</description>
+         <guid isPermaLink="false">login.blueskydesignphx.com</guid>
+         <pubDate>Thu, 09 Apr 2026 00:31:19 +0000</pubDate>
+      </item>
+      <item>
+         <title>http://rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion</title>
+         <link>https://x.com/fbgwls245/status/2042030357541994909</link>
+         <description>@fbgwls245 | url | #ransomware</description>
+         <guid>http://rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion</guid>
+         <pubDate>Thu, 09 Apr 2026 00:02:30 +0000</pubDate>
+      </item>
+      <item>
+         <title>rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion</title>
+         <link>https://x.com/fbgwls245/status/2042030357541994909</link>
+         <description>@fbgwls245 | domain | #ransomware</description>
+         <guid isPermaLink="false">rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion</guid>
+         <pubDate>Thu, 09 Apr 2026 00:02:30 +0000</pubDate>
+      </item>
+      <item>
          <title>https://notifyhubss.net/d2606cf1c7a67543a7p9089942d23984dadb.html</title>
          <link>https://x.com/urldna_bot/status/2042029741318828456</link>
          <description>@urldna_bot | url | </description>
