@@ -11,6 +11,27 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>160.30.150.14</title>
+         <link>https://x.com/skocherhan/status/2042108880436556246</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">160.30.150.14</guid>
+         <pubDate>Thu, 09 Apr 2026 05:14:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://www.luxorw.shop</title>
+         <link>https://x.com/masaomi346/status/2042108181221142834</link>
+         <description>@masaomi346 | url | #phishing</description>
+         <guid>https://www.luxorw.shop</guid>
+         <pubDate>Thu, 09 Apr 2026 05:11:45 +0000</pubDate>
+      </item>
+      <item>
+         <title>luxorw.shop</title>
+         <link>https://x.com/masaomi346/status/2042108181221142834</link>
+         <description>@masaomi346 | domain | #phishing</description>
+         <guid isPermaLink="false">luxorw.shop</guid>
+         <pubDate>Thu, 09 Apr 2026 05:11:45 +0000</pubDate>
+      </item>
+      <item>
          <title>89327ee1279f2dcddafc7acbd3d22894</title>
          <link>https://x.com/skocherhan/status/2042099137030520874</link>
          <description>@skocherhan | md5 | </description>
