@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 18:05:11 (UTC)</th>
+        <th colspan=4>2026-04-09 19:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 41 | 456 | 2164 | 63191 |
-| **:globe_with_meridians: Domains** | 29 | 347 | 1660 | 41076 |
-| **:triangular_flag_on_post: IPs** | 18 | 162 | 707 | 21789 |
+| **:link: URLs** | 43 | 458 | 2166 | 63193 |
+| **:globe_with_meridians: Domains** | 30 | 348 | 1661 | 41077 |
+| **:triangular_flag_on_post: IPs** | 19 | 163 | 708 | 21790 |
 | **:1234: SHA256** | 1 | 10 | 46 | 1458 |
 | **:1234: MD5** | 4 | 25 | 131 | 3606 |
 
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 15 | 270 | 1049 | 50446 |
+| **#phishing** | 18 | 273 | 1052 | 50449 |
 | **#C2** | 0 | 10 | 186 | 30546 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8425 |
 | **#scam** | 0 | 6 | 48 | 7994 |
@@ -119,12 +119,12 @@
 | **#1** | [skocherhan](https://x.com/skocherhan) | 40 |
 | **#2** | [urldna_bot](https://x.com/urldna_bot) | 18 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 12 |
-| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#5** | [Metemcyber](https://x.com/Metemcyber) | 5 |
-| **#6** | [suyog41](https://x.com/suyog41) | 4 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#8** | [fbgwls245](https://x.com/fbgwls245) | 2 |
-| **#9** | [smica83](https://x.com/smica83) | 2 |
+| **#4** | [PhishStats](https://x.com/PhishStats) | 6 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#6** | [Metemcyber](https://x.com/Metemcyber) | 5 |
+| **#7** | [suyog41](https://x.com/suyog41) | 4 |
+| **#8** | [smica83](https://x.com/smica83) | 3 |
+| **#9** | [fbgwls245](https://x.com/fbgwls245) | 2 |
 | **#10** | [solostalking](https://x.com/solostalking) | 1 |
 
 </div>

@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>http://api.telegram.org</title>
+         <link>https://x.com/smica83/status/2042312763763027996</link>
+         <description>@smica83 | url | </description>
+         <guid>http://api.telegram.org</guid>
+         <pubDate>Thu, 09 Apr 2026 18:44:41 +0000</pubDate>
+      </item>
+      <item>
+         <title>199.79.63.42</title>
+         <link>https://x.com/PhishStats/status/2042303668771242154</link>
+         <description>@PhishStats | ip | #phishing</description>
+         <guid isPermaLink="false">199.79.63.42</guid>
+         <pubDate>Thu, 09 Apr 2026 18:08:33 +0000</pubDate>
+      </item>
+      <item>
+         <title>https://sribargavanknits.com</title>
+         <link>https://x.com/PhishStats/status/2042303668771242154</link>
+         <description>@PhishStats | url | #phishing</description>
+         <guid>https://sribargavanknits.com</guid>
+         <pubDate>Thu, 09 Apr 2026 18:08:33 +0000</pubDate>
+      </item>
+      <item>
+         <title>sribargavanknits.com</title>
+         <link>https://x.com/PhishStats/status/2042303668771242154</link>
+         <description>@PhishStats | domain | #phishing</description>
+         <guid isPermaLink="false">sribargavanknits.com</guid>
+         <pubDate>Thu, 09 Apr 2026 18:08:33 +0000</pubDate>
+      </item>
+      <item>
          <title>https://etruioifodkol.weebly.com</title>
          <link>https://x.com/urldna_bot/status/2042301551151116744</link>
          <description>@urldna_bot | url | </description>
