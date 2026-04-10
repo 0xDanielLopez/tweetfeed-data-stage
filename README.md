@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 13:05:12 (UTC)</th>
+        <th colspan=4>2026-04-10 14:05:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -74,7 +74,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 38 | 429 | 2150 | 62965 |
 | **:globe_with_meridians: Domains** | 22 | 317 | 1643 | 40928 |
-| **:triangular_flag_on_post: IPs** | 16 | 162 | 703 | 21709 |
+| **:triangular_flag_on_post: IPs** | 42 | 188 | 729 | 21735 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -106,7 +106,7 @@
 | **#Qakbot** | 0 | 0 | 0 | 842 |
 | **#Supershell** | 1 | 1 | 1 | 803 |
 | **#opendir** | 0 | 23 | 59 | 790 |
-| **#Xworm** | 0 | 0 | 33 | 717 |
+| **#Xworm** | 26 | 26 | 59 | 743 |
 | **#LummaStealer** | 0 | 0 | 7 | 584 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
 
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 16 |
-| **#2** | [Metemcyber](https://x.com/Metemcyber) | 16 |
-| **#3** | [urldna_bot](https://x.com/urldna_bot) | 10 |
-| **#4** | [JRoosen](https://x.com/JRoosen) | 10 |
-| **#5** | [Merlax_](https://x.com/Merlax_) | 8 |
-| **#6** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#8** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#9** | [William_Code1](https://x.com/William_Code1) | 2 |
-| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#1** | [K_N1kolenko](https://x.com/K_N1kolenko) | 26 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
+| **#3** | [Metemcyber](https://x.com/Metemcyber) | 16 |
+| **#4** | [urldna_bot](https://x.com/urldna_bot) | 10 |
+| **#5** | [JRoosen](https://x.com/JRoosen) | 10 |
+| **#6** | [Merlax_](https://x.com/Merlax_) | 8 |
+| **#7** | [oroshi0064](https://x.com/oroshi0064) | 8 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#9** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#10** | [William_Code1](https://x.com/William_Code1) | 2 |
 
 </div>
 
