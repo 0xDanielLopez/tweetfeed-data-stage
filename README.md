@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 18:05:12 (UTC)</th>
+        <th colspan=4>2026-04-10 19:05:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 41 | 432 | 2153 | 62968 |
+| **:link: URLs** | 44 | 435 | 2156 | 62971 |
 | **:globe_with_meridians: Domains** | 24 | 319 | 1645 | 40930 |
-| **:triangular_flag_on_post: IPs** | 46 | 192 | 733 | 21739 |
+| **:triangular_flag_on_post: IPs** | 47 | 193 | 734 | 21740 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -119,13 +119,13 @@
 | **#1** | [K_N1kolenko](https://x.com/K_N1kolenko) | 26 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 19 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 16 |
-| **#4** | [urldna_bot](https://x.com/urldna_bot) | 14 |
+| **#4** | [urldna_bot](https://x.com/urldna_bot) | 15 |
 | **#5** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#6** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#7** | [oroshi0064](https://x.com/oroshi0064) | 8 |
 | **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#10** | [William_Code1](https://x.com/William_Code1) | 2 |
+| **#9** | [smica83](https://x.com/smica83) | 3 |
+| **#10** | [masaomi346](https://x.com/masaomi346) | 2 |
 
 </div>
 
