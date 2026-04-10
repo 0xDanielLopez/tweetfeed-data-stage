@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 19:05:12 (UTC)</th>
+        <th colspan=4>2026-04-10 20:05:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 44 | 435 | 2156 | 62971 |
-| **:globe_with_meridians: Domains** | 24 | 319 | 1645 | 40930 |
+| **:link: URLs** | 47 | 438 | 2159 | 62974 |
+| **:globe_with_meridians: Domains** | 25 | 320 | 1646 | 40931 |
 | **:triangular_flag_on_post: IPs** | 47 | 193 | 734 | 21740 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
@@ -123,8 +123,8 @@
 | **#5** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#6** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#7** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [smica83](https://x.com/smica83) | 3 |
+| **#8** | [smica83](https://x.com/smica83) | 7 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#10** | [masaomi346](https://x.com/masaomi346) | 2 |
 
 </div>
