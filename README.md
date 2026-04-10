@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 12:05:13 (UTC)</th>
+        <th colspan=4>2026-04-10 13:05:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 428 | 2149 | 62964 |
-| **:globe_with_meridians: Domains** | 21 | 316 | 1642 | 40927 |
-| **:triangular_flag_on_post: IPs** | 10 | 156 | 697 | 21703 |
+| **:link: URLs** | 38 | 429 | 2150 | 62965 |
+| **:globe_with_meridians: Domains** | 22 | 317 | 1643 | 40928 |
+| **:triangular_flag_on_post: IPs** | 16 | 162 | 703 | 21709 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -90,7 +90,7 @@
 | **#scam** | 0 | 6 | 46 | 7956 |
 | **#malware** | 8 | 27 | 124 | 5541 |
 | **#Interactsh** | 0 | 0 | 0 | 2553 |
-| **#Remcos** | 0 | 0 | 19 | 2433 |
+| **#Remcos** | 6 | 6 | 25 | 2439 |
 | **#Sliver** | 0 | 0 | 14 | 2050 |
 | **#APT** | 0 | 8 | 82 | 2033 |
 | **#NetSupportRAT** | 0 | 0 | 2 | 1996 |
@@ -116,10 +116,10 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://x.com/Metemcyber) | 16 |
-| **#2** | [JRoosen](https://x.com/JRoosen) | 10 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 10 |
-| **#4** | [urldna_bot](https://x.com/urldna_bot) | 8 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 16 |
+| **#2** | [Metemcyber](https://x.com/Metemcyber) | 16 |
+| **#3** | [urldna_bot](https://x.com/urldna_bot) | 10 |
+| **#4** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#5** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#6** | [oroshi0064](https://x.com/oroshi0064) | 8 |
 | **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
