@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 05:05:11 (UTC)</th>
+        <th colspan=4>2026-04-10 06:05:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 411 | 2132 | 62947 |
-| **:globe_with_meridians: Domains** | 12 | 307 | 1633 | 40918 |
-| **:triangular_flag_on_post: IPs** | 4 | 150 | 691 | 21697 |
+| **:link: URLs** | 29 | 420 | 2141 | 62956 |
+| **:globe_with_meridians: Domains** | 16 | 311 | 1637 | 40922 |
+| **:triangular_flag_on_post: IPs** | 10 | 156 | 697 | 21703 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -84,8 +84,8 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 259 | 1055 | 50164 |
-| **#C2** | 0 | 7 | 186 | 30388 |
+| **#phishing** | 15 | 261 | 1057 | 50166 |
+| **#C2** | 1 | 8 | 187 | 30389 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8387 |
 | **#scam** | 0 | 6 | 46 | 7956 |
 | **#malware** | 8 | 27 | 124 | 5541 |
@@ -104,7 +104,7 @@
 | **#stealer** | 0 | 25 | 81 | 861 |
 | **#Njrat** | 0 | 0 | 46 | 845 |
 | **#Qakbot** | 0 | 0 | 0 | 842 |
-| **#Supershell** | 0 | 0 | 0 | 802 |
+| **#Supershell** | 1 | 1 | 1 | 803 |
 | **#opendir** | 0 | 23 | 59 | 790 |
 | **#Xworm** | 0 | 0 | 33 | 717 |
 | **#LummaStealer** | 0 | 0 | 7 | 584 |
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [JRoosen](https://x.com/JRoosen) | 10 |
-| **#2** | [Merlax_](https://x.com/Merlax_) | 8 |
-| **#3** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#4** | [urldna_bot](https://x.com/urldna_bot) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#7** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [Metemcyber](https://x.com/Metemcyber) | 16 |
+| **#2** | [JRoosen](https://x.com/JRoosen) | 10 |
+| **#3** | [Merlax_](https://x.com/Merlax_) | 8 |
+| **#4** | [oroshi0064](https://x.com/oroshi0064) | 8 |
+| **#5** | [urldna_bot](https://x.com/urldna_bot) | 4 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#8** | [William_Code1](https://x.com/William_Code1) | 2 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 
 </div>
 
