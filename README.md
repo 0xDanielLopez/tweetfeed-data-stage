@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 07:05:13 (UTC)</th>
+        <th colspan=4>2026-04-10 08:05:14 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 420 | 2141 | 62956 |
-| **:globe_with_meridians: Domains** | 16 | 311 | 1637 | 40922 |
+| **:link: URLs** | 30 | 421 | 2142 | 62957 |
+| **:globe_with_meridians: Domains** | 17 | 312 | 1638 | 40923 |
 | **:triangular_flag_on_post: IPs** | 10 | 156 | 697 | 21703 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
@@ -120,7 +120,7 @@
 | **#2** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#3** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#4** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#5** | [urldna_bot](https://x.com/urldna_bot) | 4 |
+| **#5** | [urldna_bot](https://x.com/urldna_bot) | 6 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#7** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#8** | [William_Code1](https://x.com/William_Code1) | 2 |
