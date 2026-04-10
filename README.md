@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 02:05:10 (UTC)</th>
+        <th colspan=4>2026-04-10 03:05:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 398 | 2119 | 62934 |
-| **:globe_with_meridians: Domains** | 3 | 298 | 1624 | 40909 |
+| **:link: URLs** | 13 | 404 | 2125 | 62940 |
+| **:globe_with_meridians: Domains** | 5 | 300 | 1626 | 40911 |
 | **:triangular_flag_on_post: IPs** | 2 | 148 | 689 | 21695 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
@@ -88,7 +88,7 @@
 | **#C2** | 0 | 7 | 186 | 30388 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8387 |
 | **#scam** | 0 | 6 | 46 | 7956 |
-| **#malware** | 0 | 19 | 116 | 5533 |
+| **#malware** | 8 | 27 | 124 | 5541 |
 | **#Interactsh** | 0 | 0 | 0 | 2553 |
 | **#Remcos** | 0 | 0 | 19 | 2433 |
 | **#Sliver** | 0 | 0 | 14 | 2050 |
@@ -117,8 +117,8 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [JRoosen](https://x.com/JRoosen) | 10 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 2 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#2** | [Merlax_](https://x.com/Merlax_) | 8 |
+| **#3** | [urldna_bot](https://x.com/urldna_bot) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
