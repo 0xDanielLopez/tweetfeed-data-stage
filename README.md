@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 04:05:21 (UTC)</th>
+        <th colspan=4>2026-04-10 05:05:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 409 | 2130 | 62945 |
-| **:globe_with_meridians: Domains** | 10 | 305 | 1631 | 40916 |
-| **:triangular_flag_on_post: IPs** | 3 | 149 | 690 | 21696 |
+| **:link: URLs** | 20 | 411 | 2132 | 62947 |
+| **:globe_with_meridians: Domains** | 12 | 307 | 1633 | 40918 |
+| **:triangular_flag_on_post: IPs** | 4 | 150 | 691 | 21697 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -84,7 +84,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 10 | 256 | 1052 | 50161 |
+| **#phishing** | 13 | 259 | 1055 | 50164 |
 | **#C2** | 0 | 7 | 186 | 30388 |
 | **#CobaltStrike** | 0 | 2 | 34 | 8387 |
 | **#scam** | 0 | 6 | 46 | 7956 |
@@ -119,10 +119,10 @@
 | **#1** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#2** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#3** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#4** | [urldna_bot](https://x.com/urldna_bot) | 2 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#4** | [urldna_bot](https://x.com/urldna_bot) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#7** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
