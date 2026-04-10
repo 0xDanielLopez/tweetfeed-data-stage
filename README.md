@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 11:05:21 (UTC)</th>
+        <th colspan=4>2026-04-10 12:05:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,8 +72,8 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 422 | 2143 | 62958 |
-| **:globe_with_meridians: Domains** | 18 | 313 | 1639 | 40924 |
+| **:link: URLs** | 37 | 428 | 2149 | 62964 |
+| **:globe_with_meridians: Domains** | 21 | 316 | 1642 | 40927 |
 | **:triangular_flag_on_post: IPs** | 10 | 156 | 697 | 21703 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
@@ -101,7 +101,7 @@
 | **#Havoc** | 0 | 0 | 2 | 1257 |
 | **#Lumma** | 0 | 0 | 23 | 1214 |
 | **#ransomware** | 0 | 13 | 39 | 1040 |
-| **#stealer** | 0 | 25 | 81 | 861 |
+| **#stealer** | 9 | 34 | 90 | 870 |
 | **#Njrat** | 0 | 0 | 46 | 845 |
 | **#Qakbot** | 0 | 0 | 0 | 842 |
 | **#Supershell** | 1 | 1 | 1 | 803 |
@@ -118,13 +118,13 @@
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://x.com/Metemcyber) | 16 |
 | **#2** | [JRoosen](https://x.com/JRoosen) | 10 |
-| **#3** | [urldna_bot](https://x.com/urldna_bot) | 8 |
-| **#4** | [Merlax_](https://x.com/Merlax_) | 8 |
-| **#5** | [oroshi0064](https://x.com/oroshi0064) | 8 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#8** | [William_Code1](https://x.com/William_Code1) | 2 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#4** | [urldna_bot](https://x.com/urldna_bot) | 8 |
+| **#5** | [Merlax_](https://x.com/Merlax_) | 8 |
+| **#6** | [oroshi0064](https://x.com/oroshi0064) | 8 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#9** | [William_Code1](https://x.com/William_Code1) | 2 |
 | **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 
 </div>
