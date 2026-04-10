@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 14:05:12 (UTC)</th>
+        <th colspan=4>2026-04-10 15:05:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,9 +72,9 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 429 | 2150 | 62965 |
-| **:globe_with_meridians: Domains** | 22 | 317 | 1643 | 40928 |
-| **:triangular_flag_on_post: IPs** | 42 | 188 | 729 | 21735 |
+| **:link: URLs** | 40 | 431 | 2152 | 62967 |
+| **:globe_with_meridians: Domains** | 23 | 318 | 1644 | 40929 |
+| **:triangular_flag_on_post: IPs** | 44 | 190 | 731 | 21737 |
 | **:1234: SHA256** | 0 | 9 | 46 | 1443 |
 | **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
@@ -117,9 +117,9 @@
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [K_N1kolenko](https://x.com/K_N1kolenko) | 26 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 19 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 16 |
-| **#4** | [urldna_bot](https://x.com/urldna_bot) | 10 |
+| **#4** | [urldna_bot](https://x.com/urldna_bot) | 12 |
 | **#5** | [JRoosen](https://x.com/JRoosen) | 10 |
 | **#6** | [Merlax_](https://x.com/Merlax_) | 8 |
 | **#7** | [oroshi0064](https://x.com/oroshi0064) | 8 |
