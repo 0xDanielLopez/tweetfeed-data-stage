@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-09 23:05:12 (UTC)</th>
+        <th colspan=4>2026-04-10 00:05:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,11 +72,11 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 468 | 2176 | 63203 |
-| **:globe_with_meridians: Domains** | 39 | 357 | 1670 | 41086 |
-| **:triangular_flag_on_post: IPs** | 21 | 165 | 710 | 21792 |
-| **:1234: SHA256** | 1 | 10 | 46 | 1458 |
-| **:1234: MD5** | 4 | 25 | 131 | 3606 |
+| **:link: URLs** | 1 | 392 | 2113 | 62928 |
+| **:globe_with_meridians: Domains** | 1 | 296 | 1622 | 40907 |
+| **:triangular_flag_on_post: IPs** | 0 | 146 | 687 | 21693 |
+| **:1234: SHA256** | 0 | 9 | 46 | 1443 |
+| **:1234: MD5** | 0 | 23 | 123 | 3594 |
 
 ---
 
@@ -84,30 +84,30 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 22 | 277 | 1056 | 50453 |
-| **#C2** | 0 | 10 | 186 | 30546 |
-| **#CobaltStrike** | 0 | 2 | 34 | 8425 |
-| **#scam** | 0 | 6 | 48 | 7994 |
-| **#malware** | 0 | 21 | 116 | 5588 |
-| **#Interactsh** | 0 | 0 | 0 | 2570 |
-| **#Remcos** | 0 | 0 | 19 | 2454 |
-| **#Sliver** | 0 | 0 | 14 | 2067 |
-| **#APT** | 2 | 10 | 82 | 2042 |
-| **#NetSupportRAT** | 0 | 0 | 2 | 1999 |
-| **#AsyncRAT** | 0 | 2 | 30 | 1861 |
+| **#phishing** | 0 | 246 | 1042 | 50151 |
+| **#C2** | 0 | 7 | 186 | 30388 |
+| **#CobaltStrike** | 0 | 2 | 34 | 8387 |
+| **#scam** | 0 | 6 | 46 | 7956 |
+| **#malware** | 0 | 19 | 116 | 5533 |
+| **#Interactsh** | 0 | 0 | 0 | 2553 |
+| **#Remcos** | 0 | 0 | 19 | 2433 |
+| **#Sliver** | 0 | 0 | 14 | 2050 |
+| **#APT** | 0 | 8 | 82 | 2033 |
+| **#NetSupportRAT** | 0 | 0 | 2 | 1996 |
+| **#AsyncRAT** | 0 | 2 | 30 | 1857 |
 | **#Deimos** | 0 | 0 | 0 | 1531 |
-| **#Kimsuky** | 0 | 118 | 821 | 1581 |
-| **#Mythic** | 0 | 0 | 0 | 1265 |
-| **#Havoc** | 0 | 0 | 2 | 1265 |
-| **#Lumma** | 0 | 0 | 23 | 1217 |
-| **#ransomware** | 2 | 13 | 41 | 1040 |
-| **#stealer** | 4 | 27 | 84 | 866 |
-| **#Njrat** | 0 | 0 | 46 | 860 |
-| **#Qakbot** | 0 | 0 | 0 | 849 |
-| **#Supershell** | 0 | 0 | 0 | 804 |
-| **#opendir** | 0 | 27 | 60 | 799 |
+| **#Kimsuky** | 0 | 102 | 808 | 1575 |
+| **#Mythic** | 0 | 0 | 0 | 1263 |
+| **#Havoc** | 0 | 0 | 2 | 1257 |
+| **#Lumma** | 0 | 0 | 23 | 1214 |
+| **#ransomware** | 0 | 13 | 39 | 1040 |
+| **#stealer** | 0 | 25 | 81 | 861 |
+| **#Njrat** | 0 | 0 | 46 | 845 |
+| **#Qakbot** | 0 | 0 | 0 | 842 |
+| **#Supershell** | 0 | 0 | 0 | 802 |
+| **#opendir** | 0 | 23 | 59 | 790 |
 | **#Xworm** | 0 | 0 | 33 | 717 |
-| **#LummaStealer** | 0 | 0 | 7 | 602 |
+| **#LummaStealer** | 0 | 0 | 7 | 584 |
 | **#Formbook** | 0 | 0 | 0 | 577 |
 
 ---
@@ -116,16 +116,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://x.com/skocherhan) | 44 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 22 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 12 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 6 |
-| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#6** | [Metemcyber](https://x.com/Metemcyber) | 5 |
-| **#7** | [smica83](https://x.com/smica83) | 5 |
-| **#8** | [suyog41](https://x.com/suyog41) | 4 |
-| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#10** | [Merlax_](https://x.com/Merlax_) | 4 |
+| **#1** | [urldna_bot](https://x.com/urldna_bot) | 2 |
+| **#2** | [-](https://x.com/-) | 0 |
+| **#3** | [-](https://x.com/-) | 0 |
+| **#4** | [-](https://x.com/-) | 0 |
+| **#5** | [-](https://x.com/-) | 0 |
+| **#6** | [-](https://x.com/-) | 0 |
+| **#7** | [-](https://x.com/-) | 0 |
+| **#8** | [-](https://x.com/-) | 0 |
+| **#9** | [-](https://x.com/-) | 0 |
+| **#10** | [-](https://x.com/-) | 0 |
 
 </div>
 
