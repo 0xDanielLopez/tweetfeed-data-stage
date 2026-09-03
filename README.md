@@ -23,7 +23,7 @@
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-10 20:05:15 (UTC)</th>
+        <th colspan=4>2026-09-03 20:27:45 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -72,11 +72,11 @@
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 438 | 2159 | 62974 |
-| **:globe_with_meridians: Domains** | 25 | 320 | 1646 | 40931 |
-| **:triangular_flag_on_post: IPs** | 47 | 193 | 734 | 21740 |
-| **:1234: SHA256** | 0 | 9 | 46 | 1443 |
-| **:1234: MD5** | 0 | 23 | 123 | 3594 |
+| **:link: URLs** | 13 | 13 | 13 | 29983 |
+| **:globe_with_meridians: Domains** | 13 | 13 | 13 | 22954 |
+| **:triangular_flag_on_post: IPs** | 2 | 2 | 2 | 7488 |
+| **:1234: SHA256** | 0 | 0 | 0 | 727 |
+| **:1234: MD5** | 0 | 0 | 0 | 1637 |
 
 ---
 

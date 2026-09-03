@@ -1,0 +1,22 @@
+# TweetFeed blocklist - dnsmasq blocklist (address= format)
+# Window: 30 days
+# Entries: 13
+# Updated: 2026-09-03T20:27:45Z
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+address=/ana-log.therealmasterwithin.com/0.0.0.0
+address=/asianmassageporn.info/0.0.0.0
+address=/bravqhz.cfd/0.0.0.0
+address=/budgetweddingplanner.info/0.0.0.0
+address=/claudpod.com/0.0.0.0
+address=/grupoimpaktu.ao/0.0.0.0
+address=/mikjv2zuc2ct-pages-dev.translate.goog/0.0.0.0
+address=/pinebridgedigital.shop/0.0.0.0
+address=/rrr.12naga.org/0.0.0.0
+address=/sha.sm188dvlv.icu/0.0.0.0
+address=/tak.123ful.net/0.0.0.0
+address=/tak.sm188dvlv.icu/0.0.0.0
+address=/tra.12naga.org/0.0.0.0

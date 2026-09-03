@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @masaomi346</title>
+      <link>https://x.com/masaomi346</link>
+      <description>IOCs shared by @masaomi346 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @masaomi346</title>
+         <link>https://x.com/masaomi346</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/masaomi346.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://ana-log.therealmasterwithin.com/login-ana/</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://ana-log.therealmasterwithin.com/login-ana/
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">https://ana-log.therealmasterwithin.com/login-ana/</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>ana-log.therealmasterwithin.com</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | domain | #phishing
+Value: ana-log.therealmasterwithin.com
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">ana-log.therealmasterwithin.com</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://bravqhz.cfd/dsfd/#/index</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://bravqhz.cfd/dsfd/#/index
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">https://bravqhz.cfd/dsfd/#/index</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>bravqhz.cfd</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | domain | #phishing
+Value: bravqhz.cfd
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">bravqhz.cfd</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

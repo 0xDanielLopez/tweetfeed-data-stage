@@ -1,0 +1,40 @@
+; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
+; Window: 30 days
+; Entries: 13
+; Updated: 2026-09-03T20:27:45Z
+; License: CC0
+; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
+; https://tweetfeed.live
+; Community-reported IOCs. Use at your own risk.
+
+$TTL 300
+@ IN SOA localhost. root.localhost. (1788467265 43200 3600 259200 300)
+@ IN NS localhost.
+
+; == entries ==
+ana-log.therealmasterwithin.com CNAME .
+*.ana-log.therealmasterwithin.com CNAME .
+asianmassageporn.info CNAME .
+*.asianmassageporn.info CNAME .
+bravqhz.cfd CNAME .
+*.bravqhz.cfd CNAME .
+budgetweddingplanner.info CNAME .
+*.budgetweddingplanner.info CNAME .
+claudpod.com CNAME .
+*.claudpod.com CNAME .
+grupoimpaktu.ao CNAME .
+*.grupoimpaktu.ao CNAME .
+mikjv2zuc2ct-pages-dev.translate.goog CNAME .
+*.mikjv2zuc2ct-pages-dev.translate.goog CNAME .
+pinebridgedigital.shop CNAME .
+*.pinebridgedigital.shop CNAME .
+rrr.12naga.org CNAME .
+*.rrr.12naga.org CNAME .
+sha.sm188dvlv.icu CNAME .
+*.sha.sm188dvlv.icu CNAME .
+tak.123ful.net CNAME .
+*.tak.123ful.net CNAME .
+tak.sm188dvlv.icu CNAME .
+*.tak.sm188dvlv.icu CNAME .
+tra.12naga.org CNAME .
+*.tra.12naga.org CNAME .

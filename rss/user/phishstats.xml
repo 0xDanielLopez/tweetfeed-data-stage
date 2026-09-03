@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @PhishStats</title>
+      <link>https://x.com/PhishStats</link>
+      <description>IOCs shared by @PhishStats and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @PhishStats</title>
+         <link>https://x.com/PhishStats</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/phishstats.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | url | #phishing
+Value: https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>mikjv2zuc2ct-pages-dev.translate.goog</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | domain | #phishing
+Value: mikjv2zuc2ct-pages-dev.translate.goog
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">mikjv2zuc2ct-pages-dev.translate.goog</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

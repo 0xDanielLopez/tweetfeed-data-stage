@@ -1,0 +1,22 @@
+# TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
+# Window: 30 days
+# Entries: 13
+# Updated: 2026-09-03T20:27:45Z
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+http://asianmassageporn.info
+http://budgetweddingplanner.info
+http://claudpod.com
+http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
+http://pinebridgedigital.shop
+http://rrr.12naga.org
+http://sha.sm188dvlv.icu
+http://tak.123ful.net
+http://tak.sm188dvlv.icu
+http://tra.12naga.org
+https://ana-log.therealmasterwithin.com/login-ana/
+https://bravqhz.cfd/dsfd/#/index
+https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja

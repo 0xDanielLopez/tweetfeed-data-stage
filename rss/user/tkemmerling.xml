@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TKemmerling</title>
+      <link>https://x.com/TKemmerling</link>
+      <description>IOCs shared by @TKemmerling and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TKemmerling</title>
+         <link>https://x.com/TKemmerling</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/tkemmerling.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">http://budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | domain | #phishing
+Value: budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">http://asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | domain | #phishing
+Value: asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">http://pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | domain | #phishing
+Value: pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

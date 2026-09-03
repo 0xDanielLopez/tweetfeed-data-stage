@@ -1,0 +1,22 @@
+# TweetFeed blocklist - hosts file format
+# Window: 30 days
+# Entries: 13
+# Updated: 2026-09-03T20:27:45Z
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+0.0.0.0 ana-log.therealmasterwithin.com
+0.0.0.0 asianmassageporn.info
+0.0.0.0 bravqhz.cfd
+0.0.0.0 budgetweddingplanner.info
+0.0.0.0 claudpod.com
+0.0.0.0 grupoimpaktu.ao
+0.0.0.0 mikjv2zuc2ct-pages-dev.translate.goog
+0.0.0.0 pinebridgedigital.shop
+0.0.0.0 rrr.12naga.org
+0.0.0.0 sha.sm188dvlv.icu
+0.0.0.0 tak.123ful.net
+0.0.0.0 tak.sm188dvlv.icu
+0.0.0.0 tra.12naga.org

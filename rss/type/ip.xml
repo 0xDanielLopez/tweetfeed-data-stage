@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - ip IOC feed</title>
+      <link>https://tweetfeed.live/malicious-ips/</link>
+      <description>Real-time ip IOCs shared by the infosec community on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - ip IOC feed</title>
+         <link>https://tweetfeed.live/malicious-ips/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>135.181.34.42</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 135.181.34.42
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">135.181.34.42</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>5.135.193.194</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | ip | #phishing
+Value: 5.135.193.194
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">5.135.193.194</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

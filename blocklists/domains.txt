@@ -1,0 +1,22 @@
+# TweetFeed blocklist - plain domain list (Pi-hole compatible)
+# Window: 30 days
+# Entries: 13
+# Updated: 2026-09-03T20:27:45Z
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/domains.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+ana-log.therealmasterwithin.com
+asianmassageporn.info
+bravqhz.cfd
+budgetweddingplanner.info
+claudpod.com
+grupoimpaktu.ao
+mikjv2zuc2ct-pages-dev.translate.goog
+pinebridgedigital.shop
+rrr.12naga.org
+sha.sm188dvlv.icu
+tak.123ful.net
+tak.sm188dvlv.icu
+tra.12naga.org

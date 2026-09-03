@@ -1,847 +1,346 @@
-<?xml version="1.0" ?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
       <title>TweetFeed RSS</title>
       <link>https://tweetfeed.live</link>
       <description>TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
       <image>
          <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
          <title>TweetFeed RSS</title>
          <link>https://tweetfeed.live</link>
       </image>
-      <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
-      <item>
-         <title>https://goplanet.digital/optimized_MSI.png</title>
-         <link>https://x.com/smica83/status/2042687836667654202</link>
-         <description>@smica83 | url | </description>
-         <guid>https://goplanet.digital/optimized_MSI.png</guid>
-         <pubDate>Fri, 10 Apr 2026 19:35:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://goplanet.digital/img_223427.png</title>
-         <link>https://x.com/smica83/status/2042687836667654202</link>
-         <description>@smica83 | url | </description>
-         <guid>https://goplanet.digital/img_223427.png</guid>
-         <pubDate>Fri, 10 Apr 2026 19:35:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://goplanet.digital/domen.hta</title>
-         <link>https://x.com/smica83/status/2042687836667654202</link>
-         <description>@smica83 | url | </description>
-         <guid>https://goplanet.digital/domen.hta</guid>
-         <pubDate>Fri, 10 Apr 2026 19:35:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>goplanet.digital</title>
-         <link>https://x.com/smica83/status/2042687836667654202</link>
-         <description>@smica83 | domain | </description>
-         <guid isPermaLink="false">goplanet.digital</guid>
-         <pubDate>Fri, 10 Apr 2026 19:35:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>151.243.109.199</title>
-         <link>https://x.com/smica83/status/2042671453745672525</link>
-         <description>@smica83 | ip | </description>
-         <guid isPermaLink="false">151.243.109.199</guid>
-         <pubDate>Fri, 10 Apr 2026 18:30:00 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://151.243.109.199</title>
-         <link>https://x.com/smica83/status/2042671453745672525</link>
-         <description>@smica83 | url | </description>
-         <guid>http://151.243.109.199</guid>
-         <pubDate>Fri, 10 Apr 2026 18:30:00 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://151.243.109.199/rmntc/luggageassist.hta</title>
-         <link>https://x.com/smica83/status/2042671453745672525</link>
-         <description>@smica83 | url | </description>
-         <guid>http://151.243.109.199/rmntc/luggageassist.hta</guid>
-         <pubDate>Fri, 10 Apr 2026 18:30:00 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://ipfs.io/ipfs/bafkreidkszvgu2pu7rvnnlgbqxxfoygf2tfuvkz44pbs4obaiua56sno4a</title>
-         <link>https://x.com/urldna_bot/status/2042663939012501823</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://ipfs.io/ipfs/bafkreidkszvgu2pu7rvnnlgbqxxfoygf2tfuvkz44pbs4obaiua56sno4a</guid>
-         <pubDate>Fri, 10 Apr 2026 18:00:08 +0000</pubDate>
-      </item>
-      <item>
-         <title>45.74.4.179</title>
-         <link>https://x.com/solostalking/status/2042650114981007790</link>
-         <description>@solostalking | ip | </description>
-         <guid isPermaLink="false">45.74.4.179</guid>
-         <pubDate>Fri, 10 Apr 2026 17:05:12 +0000</pubDate>
-      </item>
-      <item>
-         <title>194.39.122.91</title>
-         <link>https://x.com/marcandrebeaul1/status/2042646495174762923</link>
-         <description>@marcandrebeaul1 | ip | #phishing</description>
-         <guid isPermaLink="false">194.39.122.91</guid>
-         <pubDate>Fri, 10 Apr 2026 16:50:49 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://dl.masongov.online/doc-sharing/</title>
-         <link>https://x.com/urldna_bot/status/2042633754728968196</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://dl.masongov.online/doc-sharing/</guid>
-         <pubDate>Fri, 10 Apr 2026 16:00:12 +0000</pubDate>
-      </item>
-      <item>
-         <title>dl.masongov.online</title>
-         <link>https://x.com/urldna_bot/status/2042633754728968196</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">dl.masongov.online</guid>
-         <pubDate>Fri, 10 Apr 2026 16:00:12 +0000</pubDate>
-      </item>
-      <item>
-         <title>137.184.76.141</title>
-         <link>https://x.com/skocherhan/status/2042606636569608394</link>
-         <description>@skocherhan | ip | </description>
-         <guid isPermaLink="false">137.184.76.141</guid>
-         <pubDate>Fri, 10 Apr 2026 14:12:26 +0000</pubDate>
-      </item>
-      <item>
-         <title>137.184.240.126</title>
-         <link>https://x.com/skocherhan/status/2042606636569608394</link>
-         <description>@skocherhan | ip | </description>
-         <guid isPermaLink="false">137.184.240.126</guid>
-         <pubDate>Fri, 10 Apr 2026 14:12:26 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://137.184.240.126:9000</title>
-         <link>https://x.com/skocherhan/status/2042606636569608394</link>
-         <description>@skocherhan | url | </description>
-         <guid>http://137.184.240.126:9000</guid>
-         <pubDate>Fri, 10 Apr 2026 14:12:26 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://netflix-clone-cyan-gamma.vercel.app</title>
-         <link>https://x.com/urldna_bot/status/2042603536735740387</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://netflix-clone-cyan-gamma.vercel.app</guid>
-         <pubDate>Fri, 10 Apr 2026 14:00:07 +0000</pubDate>
-      </item>
-      <item>
-         <title>netflix-clone-cyan-gamma.vercel.app</title>
-         <link>https://x.com/urldna_bot/status/2042603536735740387</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">netflix-clone-cyan-gamma.vercel.app</guid>
-         <pubDate>Fri, 10 Apr 2026 14:00:07 +0000</pubDate>
-      </item>
-      <item>
-         <title>117.18.127.179</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">117.18.127.179</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>107.175.214.47</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">107.175.214.47</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>103.17.38.43</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">103.17.38.43</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>91.92.242.227</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">91.92.242.227</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>89.190.158.92</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">89.190.158.92</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>85.209.231.90</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">85.209.231.90</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>74.163.96.201</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">74.163.96.201</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>46.151.182.18</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">46.151.182.18</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>45.157.232.130</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">45.157.232.130</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>45.88.91.45</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">45.88.91.45</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>38.146.219.145</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">38.146.219.145</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>38.55.75.83</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">38.55.75.83</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>8.39.235.243</title>
-         <link>https://x.com/K_N1kolenko/status/2042586109436113341</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">8.39.235.243</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:52 +0000</pubDate>
-      </item>
-      <item>
-         <title>202.95.17.140</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">202.95.17.140</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>198.135.50.89</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">198.135.50.89</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>192.3.45.7</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">192.3.45.7</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>188.114.97.2</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">188.114.97.2</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>185.122.164.175</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">185.122.164.175</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>185.73.126.144</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">185.73.126.144</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>185.23.19.73</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">185.23.19.73</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>178.16.55.23</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">178.16.55.23</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>172.111.136.159</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">172.111.136.159</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>158.94.210.199</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">158.94.210.199</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>155.103.71.206</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">155.103.71.206</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>151.243.95.28</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">151.243.95.28</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>147.124.213.101</title>
-         <link>https://x.com/K_N1kolenko/status/2042586031917002879</link>
-         <description>@K_N1kolenko | ip | #RAT #Xworm</description>
-         <guid isPermaLink="false">147.124.213.101</guid>
-         <pubDate>Fri, 10 Apr 2026 12:50:34 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://uccladmin.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042573344076140932</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://uccladmin.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 12:00:09 +0000</pubDate>
-      </item>
-      <item>
-         <title>uccladmin.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042573344076140932</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">uccladmin.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 12:00:09 +0000</pubDate>
-      </item>
-      <item>
-         <title>107.172.13.230</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">107.172.13.230</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>107.172.13.197</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">107.172.13.197</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>103.82.24.225</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">103.82.24.225</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>84.38.134.10</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">84.38.134.10</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>84.32.5.105</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">84.32.5.105</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>31.57.216.128</title>
-         <link>https://x.com/skocherhan/status/2042570204593467785</link>
-         <description>@skocherhan | ip | #Remcos</description>
-         <guid isPermaLink="false">31.57.216.128</guid>
-         <pubDate>Fri, 10 Apr 2026 11:47:40 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://bill-proof.cc</title>
-         <link>https://x.com/skocherhan/status/2042566161087258637</link>
-         <description>@skocherhan | url | #stealer</description>
-         <guid>http://bill-proof.cc</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>bill-proof.cc</title>
-         <link>https://x.com/skocherhan/status/2042566161087258637</link>
-         <description>@skocherhan | domain | #stealer</description>
-         <guid isPermaLink="false">bill-proof.cc</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://seall-vernous.com</title>
-         <link>https://x.com/skocherhan/status/2042566161087258637</link>
-         <description>@skocherhan | url | #stealer</description>
-         <guid>http://seall-vernous.com</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>seall-vernous.com</title>
-         <link>https://x.com/skocherhan/status/2042566161087258637</link>
-         <description>@skocherhan | domain | #stealer</description>
-         <guid isPermaLink="false">seall-vernous.com</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://t.me/gerj_threuh</title>
-         <link>https://x.com/skocherhan/status/2042566161087258637</link>
-         <description>@skocherhan | url | #stealer</description>
-         <guid>https://t.me/gerj_threuh</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://steamcommunity.com/profiles/76561198719385745</title>
-         <link>https://x.com/skocherhan/status/2042566133773971615</link>
-         <description>@skocherhan | url | #Vidar #stealer</description>
-         <guid>http://steamcommunity.com/profiles/76561198719385745</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:29 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://srg.expertcs.au</title>
-         <link>https://x.com/skocherhan/status/2042566133773971615</link>
-         <description>@skocherhan | url | #Vidar #stealer</description>
-         <guid>http://srg.expertcs.au</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:29 +0000</pubDate>
-      </item>
-      <item>
-         <title>srg.expertcs.au</title>
-         <link>https://x.com/skocherhan/status/2042566133773971615</link>
-         <description>@skocherhan | domain | #Vidar #stealer</description>
-         <guid isPermaLink="false">srg.expertcs.au</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:29 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://telegram.me/nwwfh8</title>
-         <link>https://x.com/skocherhan/status/2042566133773971615</link>
-         <description>@skocherhan | url | #Vidar #stealer</description>
-         <guid>http://telegram.me/nwwfh8</guid>
-         <pubDate>Fri, 10 Apr 2026 11:31:29 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://gmxclassic.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042543148241486242</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://gmxclassic.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 10:00:09 +0000</pubDate>
-      </item>
-      <item>
-         <title>gmxclassic.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042543148241486242</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">gmxclassic.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 10:00:09 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://signin-kawarthawebmail.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042512959734194459</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://signin-kawarthawebmail.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 08:00:12 +0000</pubDate>
-      </item>
-      <item>
-         <title>signin-kawarthawebmail.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042512959734194459</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">signin-kawarthawebmail.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 08:00:12 +0000</pubDate>
-      </item>
-      <item>
-         <title>45.205.2.56</title>
-         <link>https://x.com/Fact_Finder03/status/2042482445237547397</link>
-         <description>@Fact_Finder03 | ip | #C2 #Supershell</description>
-         <guid isPermaLink="false">45.205.2.56</guid>
-         <pubDate>Fri, 10 Apr 2026 05:58:57 +0000</pubDate>
-      </item>
-      <item>
-         <title>43.167.165.175</title>
-         <link>https://x.com/Metemcyber/status/2042478450850873647</link>
-         <description>@Metemcyber | ip | </description>
-         <guid isPermaLink="false">43.167.165.175</guid>
-         <pubDate>Fri, 10 Apr 2026 05:43:04 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://43.167.165.175</title>
-         <link>https://x.com/Metemcyber/status/2042478450850873647</link>
-         <description>@Metemcyber | url | </description>
-         <guid>http://43.167.165.175</guid>
-         <pubDate>Fri, 10 Apr 2026 05:43:04 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://szmqrnrrucjail.top/aphktbpl/</title>
-         <link>https://x.com/Metemcyber/status/2042478450850873647</link>
-         <description>@Metemcyber | url | </description>
-         <guid>https://szmqrnrrucjail.top/aphktbpl/</guid>
-         <pubDate>Fri, 10 Apr 2026 05:43:04 +0000</pubDate>
-      </item>
-      <item>
-         <title>szmqrnrrucjail.top</title>
-         <link>https://x.com/Metemcyber/status/2042478450850873647</link>
-         <description>@Metemcyber | domain | </description>
-         <guid isPermaLink="false">szmqrnrrucjail.top</guid>
-         <pubDate>Fri, 10 Apr 2026 05:43:04 +0000</pubDate>
-      </item>
-      <item>
-         <title>172.67.166.157</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | ip | </description>
-         <guid isPermaLink="false">172.67.166.157</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>104.21.41.189</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | ip | </description>
-         <guid isPermaLink="false">104.21.41.189</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://172.67.166.157</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | url | </description>
-         <guid>http://172.67.166.157</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://104.21.41.189</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | url | </description>
-         <guid>http://104.21.41.189</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://amaazon.restory.cfd/login</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | url | </description>
-         <guid>https://amaazon.restory.cfd/login</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>amaazon.restory.cfd</title>
-         <link>https://x.com/Metemcyber/status/2042473886403739979</link>
-         <description>@Metemcyber | domain | </description>
-         <guid isPermaLink="false">amaazon.restory.cfd</guid>
-         <pubDate>Fri, 10 Apr 2026 05:24:56 +0000</pubDate>
-      </item>
-      <item>
-         <title>172.67.134.238</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | ip | </description>
-         <guid isPermaLink="false">172.67.134.238</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>104.21.25.243</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | ip | </description>
-         <guid isPermaLink="false">104.21.25.243</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://172.67.134.238</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | url | </description>
-         <guid>http://172.67.134.238</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://104.21.25.243</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | url | </description>
-         <guid>http://104.21.25.243</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://www.digitess.com/login</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | url | </description>
-         <guid>https://www.digitess.com/login</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>digitess.com</title>
-         <link>https://x.com/Metemcyber/status/2042470638884176131</link>
-         <description>@Metemcyber | domain | </description>
-         <guid isPermaLink="false">digitess.com</guid>
-         <pubDate>Fri, 10 Apr 2026 05:12:02 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://sushiswanp.com</title>
-         <link>https://x.com/William_Code1/status/2042469854385467486</link>
-         <description>@William_Code1 | url | #phishing</description>
-         <guid>https://sushiswanp.com</guid>
-         <pubDate>Fri, 10 Apr 2026 05:08:55 +0000</pubDate>
-      </item>
-      <item>
-         <title>sushiswanp.com</title>
-         <link>https://x.com/William_Code1/status/2042469854385467486</link>
-         <description>@William_Code1 | domain | #phishing</description>
-         <guid isPermaLink="false">sushiswanp.com</guid>
-         <pubDate>Fri, 10 Apr 2026 05:08:55 +0000</pubDate>
-      </item>
-      <item>
-         <title>104.21.9.132</title>
-         <link>https://x.com/PhishStats/status/2042453732248433122</link>
-         <description>@PhishStats | ip | #phishing</description>
-         <guid isPermaLink="false">104.21.9.132</guid>
-         <pubDate>Fri, 10 Apr 2026 04:04:51 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://allegrolokalnie.pl-671.bond/oferta/realme-gt-8-pro-16512-globalna</title>
-         <link>https://x.com/PhishStats/status/2042453732248433122</link>
-         <description>@PhishStats | url | #phishing</description>
-         <guid>https://allegrolokalnie.pl-671.bond/oferta/realme-gt-8-pro-16512-globalna</guid>
-         <pubDate>Fri, 10 Apr 2026 04:04:51 +0000</pubDate>
-      </item>
-      <item>
-         <title>allegrolokalnie.pl-671.bond</title>
-         <link>https://x.com/PhishStats/status/2042453732248433122</link>
-         <description>@PhishStats | domain | #phishing</description>
-         <guid isPermaLink="false">allegrolokalnie.pl-671.bond</guid>
-         <pubDate>Fri, 10 Apr 2026 04:04:51 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://junoserver00.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042452539073876299</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://junoserver00.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 04:00:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>junoserver00.weebly.com</title>
-         <link>https://x.com/urldna_bot/status/2042452539073876299</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">junoserver00.weebly.com</guid>
-         <pubDate>Fri, 10 Apr 2026 04:00:06 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://lhb88.top</title>
-         <link>https://x.com/masaomi346/status/2042450290344149361</link>
-         <description>@masaomi346 | url | #phishing</description>
-         <guid>https://lhb88.top</guid>
-         <pubDate>Fri, 10 Apr 2026 03:51:10 +0000</pubDate>
-      </item>
-      <item>
-         <title>lhb88.top</title>
-         <link>https://x.com/masaomi346/status/2042450290344149361</link>
-         <description>@masaomi346 | domain | #phishing</description>
-         <guid isPermaLink="false">lhb88.top</guid>
-         <pubDate>Fri, 10 Apr 2026 03:51:10 +0000</pubDate>
-      </item>
-      <item>
-         <title>144.31.136.63</title>
-         <link>https://x.com/skocherhan/status/2042442703066005931</link>
-         <description>@skocherhan | ip | </description>
-         <guid isPermaLink="false">144.31.136.63</guid>
-         <pubDate>Fri, 10 Apr 2026 03:21:01 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://wodiadll.work</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | url | #phishing</description>
-         <guid>https://wodiadll.work</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>wodiadll.work</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | domain | #phishing</description>
-         <guid isPermaLink="false">wodiadll.work</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://doyadkjp.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | url | #phishing</description>
-         <guid>https://doyadkjp.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>doyadkjp.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | domain | #phishing</description>
-         <guid isPermaLink="false">doyadkjp.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://jpyaword.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | url | #phishing</description>
-         <guid>https://jpyaword.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>jpyaword.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | domain | #phishing</description>
-         <guid isPermaLink="false">jpyaword.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://jpworkyes.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | url | #phishing</description>
-         <guid>https://jpworkyes.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>jpworkyes.com</title>
-         <link>https://x.com/oroshi0064/status/2042437059974222050</link>
-         <description>@oroshi0064 | domain | #phishing</description>
-         <guid isPermaLink="false">jpworkyes.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:58:36 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://u.to/9GN</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://u.to/9GN</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://u.to/xGN7Ig</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://u.to/xGN7Ig</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://u.to/h2N7Ig</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://u.to/h2N7Ig</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://u.to/YmN7Ig</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://u.to/YmN7Ig</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://u.to/RmN7Ig</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://u.to/RmN7Ig</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>u.to</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | domain | #malware</description>
-         <guid isPermaLink="false">u.to</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://uglmkt.com</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | url | #malware</description>
-         <guid>https://uglmkt.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>uglmkt.com</title>
-         <link>https://x.com/Merlax_/status/2042422380169969749</link>
-         <description>@Merlax_ | domain | #malware</description>
-         <guid isPermaLink="false">uglmkt.com</guid>
-         <pubDate>Fri, 10 Apr 2026 02:00:16 +0000</pubDate>
-      </item>
-      <item>
-         <title>188.214.34.20</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | ip | </description>
-         <guid isPermaLink="false">188.214.34.20</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>164.215.103.214</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | ip | </description>
-         <guid isPermaLink="false">164.215.103.214</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://zx.ado-read-parser.co</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>http://zx.ado-read-parser.co</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://188.214.34.20</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>http://188.214.34.20</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://dbx.ado-read-parser.com</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>http://dbx.ado-read-parser.com</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>http://164.215.103.214</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>http://164.215.103.214</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://zx.ado-read-parser.co</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>https://zx.ado-read-parser.co</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>zx.ado-read-parser.co</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | domain | </description>
-         <guid isPermaLink="false">zx.ado-read-parser.co</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://dbx.ado-read-parser.com</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | url | </description>
-         <guid>https://dbx.ado-read-parser.com</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>dbx.ado-read-parser.com</title>
-         <link>https://x.com/JRoosen/status/2042404365139378266</link>
-         <description>@JRoosen | domain | </description>
-         <guid isPermaLink="false">dbx.ado-read-parser.com</guid>
-         <pubDate>Fri, 10 Apr 2026 00:48:41 +0000</pubDate>
-      </item>
-      <item>
-         <title>https://attmailservice.w3spaces.com</title>
-         <link>https://x.com/urldna_bot/status/2042392169005117471</link>
-         <description>@urldna_bot | url | </description>
-         <guid>https://attmailservice.w3spaces.com</guid>
-         <pubDate>Fri, 10 Apr 2026 00:00:13 +0000</pubDate>
-      </item>
-      <item>
-         <title>attmailservice.w3spaces.com</title>
-         <link>https://x.com/urldna_bot/status/2042392169005117471</link>
-         <description>@urldna_bot | domain | </description>
-         <guid isPermaLink="false">attmailservice.w3spaces.com</guid>
-         <pubDate>Fri, 10 Apr 2026 00:00:13 +0000</pubDate>
+      <atom:link href="https://tweetfeed.live/rss.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">http://budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | domain | #phishing
+Value: budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">http://asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | domain | #phishing
+Value: asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">http://pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | domain | #phishing
+Value: pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://ana-log.therealmasterwithin.com/login-ana/</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://ana-log.therealmasterwithin.com/login-ana/
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">https://ana-log.therealmasterwithin.com/login-ana/</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>ana-log.therealmasterwithin.com</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | domain | #phishing
+Value: ana-log.therealmasterwithin.com
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">ana-log.therealmasterwithin.com</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://rrr.12naga.org</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | url | #Vidar #infostealer #malware
+Value: http://rrr.12naga.org
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">http://rrr.12naga.org</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>rrr.12naga.org</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | domain | #Vidar #infostealer #malware
+Value: rrr.12naga.org
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">rrr.12naga.org</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://tra.12naga.org</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | url | #Vidar #infostealer #malware
+Value: http://tra.12naga.org
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">http://tra.12naga.org</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>tra.12naga.org</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | domain | #Vidar #infostealer #malware
+Value: tra.12naga.org
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">tra.12naga.org</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://tak.sm188dvlv.icu</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | url | #Vidar #infostealer #malware
+Value: http://tak.sm188dvlv.icu
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">http://tak.sm188dvlv.icu</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>tak.sm188dvlv.icu</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | domain | #Vidar #infostealer #malware
+Value: tak.sm188dvlv.icu
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">tak.sm188dvlv.icu</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://tak.123ful.net</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | url | #Vidar #infostealer #malware
+Value: http://tak.123ful.net
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">http://tak.123ful.net</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>tak.123ful.net</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | domain | #Vidar #infostealer #malware
+Value: tak.123ful.net
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">tak.123ful.net</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://sha.sm188dvlv.icu</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | url | #Vidar #infostealer #malware
+Value: http://sha.sm188dvlv.icu
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">http://sha.sm188dvlv.icu</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>sha.sm188dvlv.icu</title>
+         <link>https://x.com/orlof_v/status/2095474970084143382</link>
+         <description>@orlof_v | domain | #Vidar #infostealer #malware
+Value: sha.sm188dvlv.icu
+Tweet: https://x.com/orlof_v/status/2095474970084143382</description>
+         <guid isPermaLink="false">sha.sm188dvlv.icu</guid>
+         <pubDate>Thu, 03 Sep 2026 11:32:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#Vidar</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | url | #phishing
+Value: https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>mikjv2zuc2ct-pages-dev.translate.goog</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | domain | #phishing
+Value: mikjv2zuc2ct-pages-dev.translate.goog
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">mikjv2zuc2ct-pages-dev.translate.goog</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>135.181.34.42</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 135.181.34.42
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">135.181.34.42</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | url | #phishing
+Value: http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>grupoimpaktu.ao</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | domain | #phishing
+Value: grupoimpaktu.ao
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">grupoimpaktu.ao</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://bravqhz.cfd/dsfd/#/index</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://bravqhz.cfd/dsfd/#/index
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">https://bravqhz.cfd/dsfd/#/index</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>bravqhz.cfd</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | domain | #phishing
+Value: bravqhz.cfd
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">bravqhz.cfd</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>5.135.193.194</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | ip | #phishing
+Value: 5.135.193.194
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">5.135.193.194</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://claudpod.com</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | url | #phishing
+Value: http://claudpod.com
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">http://claudpod.com</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>claudpod.com</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | domain | #phishing
+Value: claudpod.com
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">claudpod.com</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
       </item>
    </channel>
 </rss>

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #phishing IOC feed</title>
+      <link>https://tweetfeed.live/tag/phishing/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #phishing on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #phishing IOC feed</title>
+         <link>https://tweetfeed.live/tag/phishing/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 03 Sep 2026 20:27:45 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">http://budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>budgetweddingplanner.info</title>
+         <link>https://x.com/TKemmerling/status/2095600052068553203</link>
+         <description>@TKemmerling | domain | #phishing
+Value: budgetweddingplanner.info
+Tweet: https://x.com/TKemmerling/status/2095600052068553203</description>
+         <guid isPermaLink="false">budgetweddingplanner.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:49:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">http://asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>asianmassageporn.info</title>
+         <link>https://x.com/TKemmerling/status/2095599135579570459</link>
+         <description>@TKemmerling | domain | #phishing
+Value: asianmassageporn.info
+Tweet: https://x.com/TKemmerling/status/2095599135579570459</description>
+         <guid isPermaLink="false">asianmassageporn.info</guid>
+         <pubDate>Thu, 03 Sep 2026 19:45:42 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">http://pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>pinebridgedigital.shop</title>
+         <link>https://x.com/TKemmerling/status/2095549163417018470</link>
+         <description>@TKemmerling | domain | #phishing
+Value: pinebridgedigital.shop
+Tweet: https://x.com/TKemmerling/status/2095549163417018470</description>
+         <guid isPermaLink="false">pinebridgedigital.shop</guid>
+         <pubDate>Thu, 03 Sep 2026 16:27:08 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://ana-log.therealmasterwithin.com/login-ana/</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://ana-log.therealmasterwithin.com/login-ana/
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">https://ana-log.therealmasterwithin.com/login-ana/</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>ana-log.therealmasterwithin.com</title>
+         <link>https://x.com/masaomi346/status/2095488543653306813</link>
+         <description>@masaomi346 | domain | #phishing
+Value: ana-log.therealmasterwithin.com
+Tweet: https://x.com/masaomi346/status/2095488543653306813</description>
+         <guid isPermaLink="false">ana-log.therealmasterwithin.com</guid>
+         <pubDate>Thu, 03 Sep 2026 12:26:15 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | url | #phishing
+Value: https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>mikjv2zuc2ct-pages-dev.translate.goog</title>
+         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <description>@PhishStats | domain | #phishing
+Value: mikjv2zuc2ct-pages-dev.translate.goog
+Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
+         <guid isPermaLink="false">mikjv2zuc2ct-pages-dev.translate.goog</guid>
+         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>135.181.34.42</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 135.181.34.42
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">135.181.34.42</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | url | #phishing
+Value: http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>grupoimpaktu.ao</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | domain | #phishing
+Value: grupoimpaktu.ao
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">grupoimpaktu.ao</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://bravqhz.cfd/dsfd/#/index</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://bravqhz.cfd/dsfd/#/index
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">https://bravqhz.cfd/dsfd/#/index</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>bravqhz.cfd</title>
+         <link>https://x.com/masaomi346/status/2095340671628665137</link>
+         <description>@masaomi346 | domain | #phishing
+Value: bravqhz.cfd
+Tweet: https://x.com/masaomi346/status/2095340671628665137</description>
+         <guid isPermaLink="false">bravqhz.cfd</guid>
+         <pubDate>Thu, 03 Sep 2026 02:38:40 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>5.135.193.194</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | ip | #phishing
+Value: 5.135.193.194
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">5.135.193.194</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://claudpod.com</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | url | #phishing
+Value: http://claudpod.com
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">http://claudpod.com</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>claudpod.com</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | domain | #phishing
+Value: claudpod.com
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">claudpod.com</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
