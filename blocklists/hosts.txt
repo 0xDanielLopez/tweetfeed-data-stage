@@ -1,22 +1,33 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 13
-# Updated: 2026-09-03T20:27:45Z
+# Entries: 24
+# Updated: 2026-09-05T14:31:48Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
 0.0.0.0 ana-log.therealmasterwithin.com
+0.0.0.0 apk-google.cn
 0.0.0.0 asianmassageporn.info
+0.0.0.0 bankofamericanonline.com
 0.0.0.0 bravqhz.cfd
 0.0.0.0 budgetweddingplanner.info
 0.0.0.0 claudpod.com
+0.0.0.0 etax-olimw.com
+0.0.0.0 etax-pliwka.com
+0.0.0.0 etax-plwads.com
+0.0.0.0 etax-uwaiosd.com
+0.0.0.0 etax-wusasd.com
+0.0.0.0 finance-gov-pk.fetchdrives.info
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 mikjv2zuc2ct-pages-dev.translate.goog
 0.0.0.0 pinebridgedigital.shop
+0.0.0.0 pk.fetchdrives.info
 0.0.0.0 rrr.12naga.org
 0.0.0.0 sha.sm188dvlv.icu
 0.0.0.0 tak.123ful.net
 0.0.0.0 tak.sm188dvlv.icu
 0.0.0.0 tra.12naga.org
+0.0.0.0 www-finance-gov-pk.fetchdrives.info
+0.0.0.0 ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion

@@ -1,22 +1,33 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 13
-# Updated: 2026-09-03T20:27:45Z
+# Entries: 24
+# Updated: 2026-09-05T14:31:48Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/domains.txt
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
 ana-log.therealmasterwithin.com
+apk-google.cn
 asianmassageporn.info
+bankofamericanonline.com
 bravqhz.cfd
 budgetweddingplanner.info
 claudpod.com
+etax-olimw.com
+etax-pliwka.com
+etax-plwads.com
+etax-uwaiosd.com
+etax-wusasd.com
+finance-gov-pk.fetchdrives.info
 grupoimpaktu.ao
 mikjv2zuc2ct-pages-dev.translate.goog
 pinebridgedigital.shop
+pk.fetchdrives.info
 rrr.12naga.org
 sha.sm188dvlv.icu
 tak.123ful.net
 tak.sm188dvlv.icu
 tra.12naga.org
+www-finance-gov-pk.fetchdrives.info
+ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion

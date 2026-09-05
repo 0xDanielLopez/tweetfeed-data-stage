@@ -1,11 +1,12 @@
 # TweetFeed blocklist - plain IP list
 # Window: 30 days
-# Entries: 2
-# Updated: 2026-09-03T20:27:45Z
+# Entries: 3
+# Updated: 2026-09-05T14:31:48Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/ips.txt
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
 135.181.34.42
+47.57.138.67
 5.135.193.194
