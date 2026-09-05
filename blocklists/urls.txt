@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 24
-# Updated: 2026-09-05T14:31:48Z
+# Entries: 29
+# Updated: 2026-09-05T19:47:43Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -13,6 +13,7 @@ http://bankofamericanonline.com
 http://budgetweddingplanner.info
 http://claudpod.com
 http://finance-gov-pk.fetchdrives.info
+http://fp2e7a.wpc.2be4.phicdn.net
 http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
 http://pinebridgedigital.shop
 http://pk.fetchdrives.info
@@ -21,6 +22,7 @@ http://sha.sm188dvlv.icu
 http://tak.123ful.net
 http://tak.sm188dvlv.icu
 http://tra.12naga.org
+http://whatsapp.traviyo.in
 http://www-finance-gov-pk.fetchdrives.info
 http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion
 https://ana-log.therealmasterwithin.com/login-ana/
@@ -30,4 +32,7 @@ https://etax-pliwka.com
 https://etax-plwads.com
 https://etax-uwaiosd.com
 https://etax-wusasd.com
+https://f005.backblazeb2.com
 https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja
+https://paintingth.iqlvebw.cn/SZHUSg/potyunde
+https://submit-form.com/xfgxjYePW

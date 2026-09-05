@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 24
-# Updated: 2026-09-05T14:31:48Z
+# Entries: 29
+# Updated: 2026-09-05T19:47:43Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -19,15 +19,20 @@ address=/etax-pliwka.com/0.0.0.0
 address=/etax-plwads.com/0.0.0.0
 address=/etax-uwaiosd.com/0.0.0.0
 address=/etax-wusasd.com/0.0.0.0
+address=/f005.backblazeb2.com/0.0.0.0
 address=/finance-gov-pk.fetchdrives.info/0.0.0.0
+address=/fp2e7a.wpc.2be4.phicdn.net/0.0.0.0
 address=/grupoimpaktu.ao/0.0.0.0
 address=/mikjv2zuc2ct-pages-dev.translate.goog/0.0.0.0
+address=/paintingth.iqlvebw.cn/0.0.0.0
 address=/pinebridgedigital.shop/0.0.0.0
 address=/pk.fetchdrives.info/0.0.0.0
 address=/rrr.12naga.org/0.0.0.0
 address=/sha.sm188dvlv.icu/0.0.0.0
+address=/submit-form.com/0.0.0.0
 address=/tak.123ful.net/0.0.0.0
 address=/tak.sm188dvlv.icu/0.0.0.0
 address=/tra.12naga.org/0.0.0.0
+address=/whatsapp.traviyo.in/0.0.0.0
 address=/www-finance-gov-pk.fetchdrives.info/0.0.0.0
 address=/ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion/0.0.0.0

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 24
-# Updated: 2026-09-05T14:31:48Z
+# Entries: 29
+# Updated: 2026-09-05T19:47:43Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -19,15 +19,20 @@
 ||etax-plwads.com^
 ||etax-uwaiosd.com^
 ||etax-wusasd.com^
+||f005.backblazeb2.com^
 ||finance-gov-pk.fetchdrives.info^
+||fp2e7a.wpc.2be4.phicdn.net^
 ||grupoimpaktu.ao^
 ||mikjv2zuc2ct-pages-dev.translate.goog^
+||paintingth.iqlvebw.cn^
 ||pinebridgedigital.shop^
 ||pk.fetchdrives.info^
 ||rrr.12naga.org^
 ||sha.sm188dvlv.icu^
+||submit-form.com^
 ||tak.123ful.net^
 ||tak.sm188dvlv.icu^
 ||tra.12naga.org^
+||whatsapp.traviyo.in^
 ||www-finance-gov-pk.fetchdrives.info^
 ||ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion^
