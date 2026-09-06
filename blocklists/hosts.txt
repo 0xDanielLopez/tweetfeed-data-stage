@@ -1,7 +1,9 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 29
-# Updated: 2026-09-05T19:47:43Z
+# Entries: 33
+# Updated: 2026-09-06T12:46:40Z
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -20,15 +22,19 @@
 0.0.0.0 etax-uwaiosd.com
 0.0.0.0 etax-wusasd.com
 0.0.0.0 f005.backblazeb2.com
+0.0.0.0 facebook-task-one.vercel.app
 0.0.0.0 finance-gov-pk.fetchdrives.info
 0.0.0.0 fp2e7a.wpc.2be4.phicdn.net
 0.0.0.0 grupoimpaktu.ao
+0.0.0.0 kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
 0.0.0.0 mikjv2zuc2ct-pages-dev.translate.goog
+0.0.0.0 mybroadbandservice.plutio.com
 0.0.0.0 paintingth.iqlvebw.cn
 0.0.0.0 pinebridgedigital.shop
 0.0.0.0 pk.fetchdrives.info
 0.0.0.0 rrr.12naga.org
 0.0.0.0 sha.sm188dvlv.icu
+0.0.0.0 simulador-credito-auto-bbva.ideeo.mx
 0.0.0.0 submit-form.com
 0.0.0.0 tak.123ful.net
 0.0.0.0 tak.sm188dvlv.icu

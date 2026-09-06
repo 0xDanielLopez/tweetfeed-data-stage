@@ -1,7 +1,9 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 29
-# Updated: 2026-09-05T19:47:43Z
+# Entries: 33
+# Updated: 2026-09-06T12:46:40Z
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -12,13 +14,16 @@ http://asianmassageporn.info
 http://bankofamericanonline.com
 http://budgetweddingplanner.info
 http://claudpod.com
+http://facebook-task-one.vercel.app
 http://finance-gov-pk.fetchdrives.info
 http://fp2e7a.wpc.2be4.phicdn.net
 http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
+http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
 http://pinebridgedigital.shop
 http://pk.fetchdrives.info
 http://rrr.12naga.org
 http://sha.sm188dvlv.icu
+http://simulador-credito-auto-bbva.ideeo.mx
 http://tak.123ful.net
 http://tak.sm188dvlv.icu
 http://tra.12naga.org
@@ -34,5 +39,6 @@ https://etax-uwaiosd.com
 https://etax-wusasd.com
 https://f005.backblazeb2.com
 https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja
+https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB
 https://paintingth.iqlvebw.cn/SZHUSg/potyunde
 https://submit-form.com/xfgxjYePW

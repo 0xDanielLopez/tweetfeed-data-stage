@@ -1,7 +1,9 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 29
-# Updated: 2026-09-05T19:47:43Z
+# Entries: 33
+# Updated: 2026-09-06T12:46:40Z
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -20,15 +22,19 @@
 ||etax-uwaiosd.com^
 ||etax-wusasd.com^
 ||f005.backblazeb2.com^
+||facebook-task-one.vercel.app^
 ||finance-gov-pk.fetchdrives.info^
 ||fp2e7a.wpc.2be4.phicdn.net^
 ||grupoimpaktu.ao^
+||kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev^
 ||mikjv2zuc2ct-pages-dev.translate.goog^
+||mybroadbandservice.plutio.com^
 ||paintingth.iqlvebw.cn^
 ||pinebridgedigital.shop^
 ||pk.fetchdrives.info^
 ||rrr.12naga.org^
 ||sha.sm188dvlv.icu^
+||simulador-credito-auto-bbva.ideeo.mx^
 ||submit-form.com^
 ||tak.123ful.net^
 ||tak.sm188dvlv.icu^

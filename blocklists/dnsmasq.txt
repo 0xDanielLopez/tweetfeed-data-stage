@@ -1,7 +1,9 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 29
-# Updated: 2026-09-05T19:47:43Z
+# Entries: 33
+# Updated: 2026-09-06T12:46:40Z
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -20,15 +22,19 @@ address=/etax-plwads.com/0.0.0.0
 address=/etax-uwaiosd.com/0.0.0.0
 address=/etax-wusasd.com/0.0.0.0
 address=/f005.backblazeb2.com/0.0.0.0
+address=/facebook-task-one.vercel.app/0.0.0.0
 address=/finance-gov-pk.fetchdrives.info/0.0.0.0
 address=/fp2e7a.wpc.2be4.phicdn.net/0.0.0.0
 address=/grupoimpaktu.ao/0.0.0.0
+address=/kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev/0.0.0.0
 address=/mikjv2zuc2ct-pages-dev.translate.goog/0.0.0.0
+address=/mybroadbandservice.plutio.com/0.0.0.0
 address=/paintingth.iqlvebw.cn/0.0.0.0
 address=/pinebridgedigital.shop/0.0.0.0
 address=/pk.fetchdrives.info/0.0.0.0
 address=/rrr.12naga.org/0.0.0.0
 address=/sha.sm188dvlv.icu/0.0.0.0
+address=/simulador-credito-auto-bbva.ideeo.mx/0.0.0.0
 address=/submit-form.com/0.0.0.0
 address=/tak.123ful.net/0.0.0.0
 address=/tak.sm188dvlv.icu/0.0.0.0
