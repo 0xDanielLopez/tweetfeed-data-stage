@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 42
-# Updated: 2026-10-23T17:47:04Z
+# Entries: 47
+# Updated: 2026-10-23T18:46:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -16,6 +16,7 @@
 ababy9.com
 agustoto.vip
 amecxfund.com
+antibot-linkedin.com
 apiupdated.com
 apology.fulqhj.asia
 appdata.eastus.cloudapp.azure.com
@@ -24,11 +25,14 @@ citrixplugins.blob.core.windows.net
 dbaoi.com
 f003.backblazeb2.com
 firedmanlaw.co.uk
+gptverification.com
 gran1xea.xyz
 h92jcihwicllow.wuaze.com
 helensolution.info
 hlushkova.top
 jimcooks211.github.io
+maildeveloper.site
+opengraph.vip
 oreshnik.top
 patchmewhenyoucan.com
 patchorgetpwned.com
@@ -46,6 +50,7 @@ secure-xserver-89123.kurasoo.com
 seosolu.com
 smaluf.net
 sobesmarje.com
+t-trustrest.com
 vwwv-roblox.co
 wwppodd6688.com
 xzttyt.xyz

@@ -6,6 +6,7 @@
 ababy9.com	Intel::DOMAIN	tweetfeed.live
 agustoto.vip	Intel::DOMAIN	tweetfeed.live
 amecxfund.com	Intel::DOMAIN	tweetfeed.live
+antibot-linkedin.com	Intel::DOMAIN	tweetfeed.live
 apiupdated.com	Intel::DOMAIN	tweetfeed.live
 apology.fulqhj.asia	Intel::DOMAIN	tweetfeed.live
 appdata.eastus.cloudapp.azure.com	Intel::DOMAIN	tweetfeed.live
@@ -14,11 +15,14 @@ citrixplugins.blob.core.windows.net	Intel::DOMAIN	tweetfeed.live
 dbaoi.com	Intel::DOMAIN	tweetfeed.live
 f003.backblazeb2.com	Intel::DOMAIN	tweetfeed.live
 firedmanlaw.co.uk	Intel::DOMAIN	tweetfeed.live
+gptverification.com	Intel::DOMAIN	tweetfeed.live
 gran1xea.xyz	Intel::DOMAIN	tweetfeed.live
 h92jcihwicllow.wuaze.com	Intel::DOMAIN	tweetfeed.live
 helensolution.info	Intel::DOMAIN	tweetfeed.live
 hlushkova.top	Intel::DOMAIN	tweetfeed.live
 jimcooks211.github.io	Intel::DOMAIN	tweetfeed.live
+maildeveloper.site	Intel::DOMAIN	tweetfeed.live
+opengraph.vip	Intel::DOMAIN	tweetfeed.live
 oreshnik.top	Intel::DOMAIN	tweetfeed.live
 patchmewhenyoucan.com	Intel::DOMAIN	tweetfeed.live
 patchorgetpwned.com	Intel::DOMAIN	tweetfeed.live
@@ -36,6 +40,7 @@ secure-xserver-89123.kurasoo.com	Intel::DOMAIN	tweetfeed.live
 seosolu.com	Intel::DOMAIN	tweetfeed.live
 smaluf.net	Intel::DOMAIN	tweetfeed.live
 sobesmarje.com	Intel::DOMAIN	tweetfeed.live
+t-trustrest.com	Intel::DOMAIN	tweetfeed.live
 vwwv-roblox.co	Intel::DOMAIN	tweetfeed.live
 wwppodd6688.com	Intel::DOMAIN	tweetfeed.live
 xzttyt.xyz	Intel::DOMAIN	tweetfeed.live
@@ -65,6 +70,7 @@ zttrych.icu	Intel::DOMAIN	tweetfeed.live
 ababy9.com	Intel::URL	tweetfeed.live
 agustoto.vip	Intel::URL	tweetfeed.live
 amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/	Intel::URL	tweetfeed.live
+antibot-linkedin.com	Intel::URL	tweetfeed.live
 apiupdated.com	Intel::URL	tweetfeed.live
 apology.fulqhj.asia/H80AoO	Intel::URL	tweetfeed.live
 appdata.eastus.cloudapp.azure.com	Intel::URL	tweetfeed.live
@@ -74,11 +80,14 @@ dbaoi.com	Intel::URL	tweetfeed.live
 f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi	Intel::URL	tweetfeed.live
 firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=macaw&c=&c=hr&c=sec&c=&c=&c=&c=	Intel::URL	tweetfeed.live
 gist.github.com/HenrySmith202	Intel::URL	tweetfeed.live
+gptverification.com	Intel::URL	tweetfeed.live
 gran1xea.xyz	Intel::URL	tweetfeed.live
 h92jcihwicllow.wuaze.com	Intel::URL	tweetfeed.live
 helensolution.info	Intel::URL	tweetfeed.live
 hlushkova.top	Intel::URL	tweetfeed.live
 jimcooks211.github.io	Intel::URL	tweetfeed.live
+maildeveloper.site/flomoug.zip	Intel::URL	tweetfeed.live
+opengraph.vip/p?t=6c9240628523	Intel::URL	tweetfeed.live
 oreshnik.top	Intel::URL	tweetfeed.live
 patchmewhenyoucan.com	Intel::URL	tweetfeed.live
 patchorgetpwned.com	Intel::URL	tweetfeed.live
@@ -97,6 +106,9 @@ secure-xserver-89123.kurasoo.com	Intel::URL	tweetfeed.live
 seosolu.com/HyhzyioU/	Intel::URL	tweetfeed.live
 smaluf.net:3857	Intel::URL	tweetfeed.live
 sobesmarje.com/neds/showme.html	Intel::URL	tweetfeed.live
+t-trustrest.com/p?id=dbf26e6b862fd5d5d519ac665754c8254b905799&k=5d4903704f51475d	Intel::URL	tweetfeed.live
+t-trustrest.com/p?t=6c9240628523	Intel::URL	tweetfeed.live
+t-trustrest.com/ug/c09f9c47ebfe3da9	Intel::URL	tweetfeed.live
 vwwv-roblox.co/login?returnUrl=1041215277	Intel::URL	tweetfeed.live
 wwppodd6688.com	Intel::URL	tweetfeed.live
 xzttyt.xyz	Intel::URL	tweetfeed.live

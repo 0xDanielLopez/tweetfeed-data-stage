@@ -3,8 +3,8 @@
 ! Homepage: https://tweetfeed.live
 ! License: CC0-1.0
 ! Expires: 1 hour
-! Last modified: 2026-10-23T17:47:04Z
-! Entries: 42
+! Last modified: 2026-10-23T18:46:16Z
+! Entries: 47
 ! Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 ! Regenerated every 15 min - poll at most every 15 min; send If-None-Match (ETag) or If-Modified-Since to receive 304
 ||2c2a9c.jackpot-deluxe.net^
@@ -14,6 +14,7 @@
 ||ababy9.com^
 ||agustoto.vip^
 ||amecxfund.com^
+||antibot-linkedin.com^
 ||apiupdated.com^
 ||apology.fulqhj.asia^
 ||appdata.eastus.cloudapp.azure.com^
@@ -22,11 +23,14 @@
 ||dbaoi.com^
 ||f003.backblazeb2.com^
 ||firedmanlaw.co.uk^
+||gptverification.com^
 ||gran1xea.xyz^
 ||h92jcihwicllow.wuaze.com^
 ||helensolution.info^
 ||hlushkova.top^
 ||jimcooks211.github.io^
+||maildeveloper.site^
+||opengraph.vip^
 ||oreshnik.top^
 ||patchmewhenyoucan.com^
 ||patchorgetpwned.com^
@@ -44,6 +48,7 @@
 ||seosolu.com^
 ||smaluf.net^
 ||sobesmarje.com^
+||t-trustrest.com^
 ||vwwv-roblox.co^
 ||wwppodd6688.com^
 ||xzttyt.xyz^

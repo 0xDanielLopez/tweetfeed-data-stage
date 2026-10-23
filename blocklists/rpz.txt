@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 42
-; Updated: 2026-10-23T17:47:04Z
+; Entries: 47
+; Updated: 2026-10-23T18:46:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792777624 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792781176 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -28,6 +28,8 @@ agustoto.vip CNAME .
 *.agustoto.vip CNAME .
 amecxfund.com CNAME .
 *.amecxfund.com CNAME .
+antibot-linkedin.com CNAME .
+*.antibot-linkedin.com CNAME .
 apiupdated.com CNAME .
 *.apiupdated.com CNAME .
 apology.fulqhj.asia CNAME .
@@ -44,6 +46,8 @@ f003.backblazeb2.com CNAME .
 *.f003.backblazeb2.com CNAME .
 firedmanlaw.co.uk CNAME .
 *.firedmanlaw.co.uk CNAME .
+gptverification.com CNAME .
+*.gptverification.com CNAME .
 gran1xea.xyz CNAME .
 *.gran1xea.xyz CNAME .
 h92jcihwicllow.wuaze.com CNAME .
@@ -54,6 +58,10 @@ hlushkova.top CNAME .
 *.hlushkova.top CNAME .
 jimcooks211.github.io CNAME .
 *.jimcooks211.github.io CNAME .
+maildeveloper.site CNAME .
+*.maildeveloper.site CNAME .
+opengraph.vip CNAME .
+*.opengraph.vip CNAME .
 oreshnik.top CNAME .
 *.oreshnik.top CNAME .
 patchmewhenyoucan.com CNAME .
@@ -88,6 +96,8 @@ smaluf.net CNAME .
 *.smaluf.net CNAME .
 sobesmarje.com CNAME .
 *.sobesmarje.com CNAME .
+t-trustrest.com CNAME .
+*.t-trustrest.com CNAME .
 vwwv-roblox.co CNAME .
 *.vwwv-roblox.co CNAME .
 wwppodd6688.com CNAME .

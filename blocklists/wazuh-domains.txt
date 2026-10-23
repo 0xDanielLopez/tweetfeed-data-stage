@@ -5,6 +5,7 @@
 ababy9.com:tweetfeed
 agustoto.vip:tweetfeed
 amecxfund.com:tweetfeed
+antibot-linkedin.com:tweetfeed
 apiupdated.com:tweetfeed
 apology.fulqhj.asia:tweetfeed
 appdata.eastus.cloudapp.azure.com:tweetfeed
@@ -13,11 +14,14 @@ citrixplugins.blob.core.windows.net:tweetfeed
 dbaoi.com:tweetfeed
 f003.backblazeb2.com:tweetfeed
 firedmanlaw.co.uk:tweetfeed
+gptverification.com:tweetfeed
 gran1xea.xyz:tweetfeed
 h92jcihwicllow.wuaze.com:tweetfeed
 helensolution.info:tweetfeed
 hlushkova.top:tweetfeed
 jimcooks211.github.io:tweetfeed
+maildeveloper.site:tweetfeed
+opengraph.vip:tweetfeed
 oreshnik.top:tweetfeed
 patchmewhenyoucan.com:tweetfeed
 patchorgetpwned.com:tweetfeed
@@ -35,6 +39,7 @@ secure-xserver-89123.kurasoo.com:tweetfeed
 seosolu.com:tweetfeed
 smaluf.net:tweetfeed
 sobesmarje.com:tweetfeed
+t-trustrest.com:tweetfeed
 vwwv-roblox.co:tweetfeed
 wwppodd6688.com:tweetfeed
 xzttyt.xyz:tweetfeed

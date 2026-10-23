@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 42
-# Updated: 2026-10-23T17:47:04Z
+# Entries: 47
+# Updated: 2026-10-23T18:46:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -16,6 +16,7 @@ address=/9tcj2.tik-tok-18.com/0.0.0.0
 address=/ababy9.com/0.0.0.0
 address=/agustoto.vip/0.0.0.0
 address=/amecxfund.com/0.0.0.0
+address=/antibot-linkedin.com/0.0.0.0
 address=/apiupdated.com/0.0.0.0
 address=/apology.fulqhj.asia/0.0.0.0
 address=/appdata.eastus.cloudapp.azure.com/0.0.0.0
@@ -24,11 +25,14 @@ address=/citrixplugins.blob.core.windows.net/0.0.0.0
 address=/dbaoi.com/0.0.0.0
 address=/f003.backblazeb2.com/0.0.0.0
 address=/firedmanlaw.co.uk/0.0.0.0
+address=/gptverification.com/0.0.0.0
 address=/gran1xea.xyz/0.0.0.0
 address=/h92jcihwicllow.wuaze.com/0.0.0.0
 address=/helensolution.info/0.0.0.0
 address=/hlushkova.top/0.0.0.0
 address=/jimcooks211.github.io/0.0.0.0
+address=/maildeveloper.site/0.0.0.0
+address=/opengraph.vip/0.0.0.0
 address=/oreshnik.top/0.0.0.0
 address=/patchmewhenyoucan.com/0.0.0.0
 address=/patchorgetpwned.com/0.0.0.0
@@ -46,6 +50,7 @@ address=/secure-xserver-89123.kurasoo.com/0.0.0.0
 address=/seosolu.com/0.0.0.0
 address=/smaluf.net/0.0.0.0
 address=/sobesmarje.com/0.0.0.0
+address=/t-trustrest.com/0.0.0.0
 address=/vwwv-roblox.co/0.0.0.0
 address=/wwppodd6688.com/0.0.0.0
 address=/xzttyt.xyz/0.0.0.0

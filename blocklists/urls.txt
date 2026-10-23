@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 51
-# Updated: 2026-10-23T17:47:04Z
+# Entries: 58
+# Updated: 2026-10-23T18:46:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -19,8 +19,10 @@ http://77.90.185.20
 http://99totoapp.com
 http://ababy9.com
 http://agustoto.vip
+http://antibot-linkedin.com
 http://apiupdated.com
 http://gist.github.com/HenrySmith202
+http://gptverification.com
 http://gran1xea.xyz
 http://helensolution.info
 http://hlushkova.top
@@ -52,6 +54,8 @@ https://dbaoi.com
 https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi
 https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=macaw&c=&c=hr&c=sec&c=&c=&c=&c=
 https://h92jcihwicllow.wuaze.com
+https://maildeveloper.site/flomoug.zip
+https://opengraph.vip/p?t=6c9240628523
 https://pixeldrain.com/api/file/LEfVj7fg?download
 https://restsetestes.com
 https://secure-xserver-11523.kurasoo.com
@@ -60,3 +64,6 @@ https://secure-xserver-36862.kurasoo.com
 https://secure-xserver-46955.kurasoo.com
 https://secure-xserver-89123.kurasoo.com
 https://sobesmarje.com/neds/showme.html
+https://t-trustrest.com/p?id=dbf26e6b862fd5d5d519ac665754c8254b905799&k=5d4903704f51475d
+https://t-trustrest.com/p?t=6c9240628523
+https://t-trustrest.com/ug/c09f9c47ebfe3da9

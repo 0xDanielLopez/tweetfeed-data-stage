@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 42
-# Updated: 2026-10-23T17:47:04Z
+# Entries: 47
+# Updated: 2026-10-23T18:46:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -16,6 +16,7 @@
 0.0.0.0 ababy9.com
 0.0.0.0 agustoto.vip
 0.0.0.0 amecxfund.com
+0.0.0.0 antibot-linkedin.com
 0.0.0.0 apiupdated.com
 0.0.0.0 apology.fulqhj.asia
 0.0.0.0 appdata.eastus.cloudapp.azure.com
@@ -24,11 +25,14 @@
 0.0.0.0 dbaoi.com
 0.0.0.0 f003.backblazeb2.com
 0.0.0.0 firedmanlaw.co.uk
+0.0.0.0 gptverification.com
 0.0.0.0 gran1xea.xyz
 0.0.0.0 h92jcihwicllow.wuaze.com
 0.0.0.0 helensolution.info
 0.0.0.0 hlushkova.top
 0.0.0.0 jimcooks211.github.io
+0.0.0.0 maildeveloper.site
+0.0.0.0 opengraph.vip
 0.0.0.0 oreshnik.top
 0.0.0.0 patchmewhenyoucan.com
 0.0.0.0 patchorgetpwned.com
@@ -46,6 +50,7 @@
 0.0.0.0 seosolu.com
 0.0.0.0 smaluf.net
 0.0.0.0 sobesmarje.com
+0.0.0.0 t-trustrest.com
 0.0.0.0 vwwv-roblox.co
 0.0.0.0 wwppodd6688.com
 0.0.0.0 xzttyt.xyz

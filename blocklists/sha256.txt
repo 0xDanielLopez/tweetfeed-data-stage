@@ -1,7 +1,7 @@
 # TweetFeed blocklist - SHA-256 file hashes (EDR / AV bulk import)
 # Window: 30 days
-# Entries: 19
-# Updated: 2026-10-23T17:47:04Z
+# Entries: 22
+# Updated: 2026-10-23T18:46:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,8 +9,10 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
+0924fdea712e4458f9810d7ea1d402b20339f0f70168ea2577c0a9331bd97f38
 09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552
 1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079
+1dde732a31cb35f825cf8134fe483993ee9e691d60bac6cba9677dd038cefff9
 477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0
 58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10
 5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c
@@ -27,4 +29,5 @@ a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35
 a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95
 b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a
 caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7
+e006d6bd7f00bb25d86951b370c5c19ed7adc0ba65a8fbff281e050e55925941
 e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc
