@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 33
-# Updated: 2026-09-06T12:46:40Z
+# Entries: 51
+# Updated: 2026-10-23T17:47:04Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,36 +9,54 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
-http://apk-google.cn
-http://asianmassageporn.info
-http://bankofamericanonline.com
-http://budgetweddingplanner.info
-http://claudpod.com
-http://facebook-task-one.vercel.app
-http://finance-gov-pk.fetchdrives.info
-http://fp2e7a.wpc.2be4.phicdn.net
-http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html
-http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
-http://pinebridgedigital.shop
-http://pk.fetchdrives.info
-http://rrr.12naga.org
-http://sha.sm188dvlv.icu
-http://simulador-credito-auto-bbva.ideeo.mx
-http://tak.123ful.net
-http://tak.sm188dvlv.icu
-http://tra.12naga.org
-http://whatsapp.traviyo.in
-http://www-finance-gov-pk.fetchdrives.info
-http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion
-https://ana-log.therealmasterwithin.com/login-ana/
-https://bravqhz.cfd/dsfd/#/index
-https://etax-olimw.com
-https://etax-pliwka.com
-https://etax-plwads.com
-https://etax-uwaiosd.com
-https://etax-wusasd.com
-https://f005.backblazeb2.com
-https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja
-https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB
-https://paintingth.iqlvebw.cn/SZHUSg/potyunde
-https://submit-form.com/xfgxjYePW
+http://102.134.35.141:8080
+http://102.134.35.141:9443
+http://104.143.42.209:22
+http://172.82.64.48
+http://217.60.102.5/sh
+http://77.220.212.113:2084
+http://77.90.185.20
+http://99totoapp.com
+http://ababy9.com
+http://agustoto.vip
+http://apiupdated.com
+http://gist.github.com/HenrySmith202
+http://gran1xea.xyz
+http://helensolution.info
+http://hlushkova.top
+http://jimcooks211.github.io
+http://oreshnik.top
+http://patchmewhenyoucan.com
+http://patchorgetpwned.com
+http://payload1717.pro
+http://phppatcher.com
+http://pobruog.wiki
+http://samehoo229.fun
+http://secdarvin2026.icu
+http://seosolu.com/HyhzyioU/
+http://smaluf.net:3857
+http://vwwv-roblox.co/login?returnUrl=1041215277
+http://wwppodd6688.com
+http://xzttyt.xyz
+http://zmngfjl.fun
+http://zttrych.icu
+https://2c2a9c.jackpot-deluxe.net
+https://9oogle.app
+https://9tcj2.tik-tok-18.com
+https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/
+https://apology.fulqhj.asia/H80AoO
+https://appdata.eastus.cloudapp.azure.com
+https://certificazi.one/galicia-personas/
+https://citrixplugins.blob.core.windows.net/winscp/Windows.Forms.ps1
+https://dbaoi.com
+https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi
+https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=macaw&c=&c=hr&c=sec&c=&c=&c=&c=
+https://h92jcihwicllow.wuaze.com
+https://pixeldrain.com/api/file/LEfVj7fg?download
+https://restsetestes.com
+https://secure-xserver-11523.kurasoo.com
+https://secure-xserver-25394.kurasoo.com
+https://secure-xserver-36862.kurasoo.com
+https://secure-xserver-46955.kurasoo.com
+https://secure-xserver-89123.kurasoo.com
+https://sobesmarje.com/neds/showme.html

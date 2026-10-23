@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain IP list
 # Window: 30 days
-# Entries: 5
-# Updated: 2026-09-06T12:46:40Z
+# Entries: 10
+# Updated: 2026-10-23T17:47:04Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,8 +9,13 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
-103.234.185.7
-135.181.34.42
-200.76.161.229
-47.57.138.67
-5.135.193.194
+102.134.35.141
+104.143.42.209
+165.154.241.113
+172.82.64.48
+217.60.102.5
+43.164.137.93
+45.74.61.12
+45.91.248.5
+77.220.212.113
+77.90.185.20

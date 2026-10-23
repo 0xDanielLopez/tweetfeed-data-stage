@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Vega_Threat</title>
+      <link>https://x.com/Vega_Threat</link>
+      <description>IOCs shared by @Vega_Threat and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Vega_Threat</title>
+         <link>https://x.com/Vega_Threat</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/vega_threat.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Fri, 23 Oct 2026 17:47:05 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>217.60.102.5</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 217.60.102.5
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">217.60.102.5</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>77.90.185.20</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 77.90.185.20
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">77.90.185.20</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>102.134.35.141</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 102.134.35.141
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">102.134.35.141</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://217.60.102.5/sh</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://217.60.102.5/sh
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://217.60.102.5/sh</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://102.134.35.141:8080</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://102.134.35.141:8080
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://102.134.35.141:8080</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://77.90.185.20</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://77.90.185.20
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://77.90.185.20</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://102.134.35.141:9443</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://102.134.35.141:9443
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://102.134.35.141:9443</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+   </channel>
+</rss>

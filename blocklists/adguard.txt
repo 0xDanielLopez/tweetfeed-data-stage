@@ -3,40 +3,49 @@
 ! Homepage: https://tweetfeed.live
 ! License: CC0-1.0
 ! Expires: 1 hour
-! Last modified: 2026-09-06T14:04:00Z
-! Entries: 33
+! Last modified: 2026-10-23T17:47:04Z
+! Entries: 42
 ! Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 ! Regenerated every 15 min - poll at most every 15 min; send If-None-Match (ETag) or If-Modified-Since to receive 304
-||ana-log.therealmasterwithin.com^
-||apk-google.cn^
-||asianmassageporn.info^
-||bankofamericanonline.com^
-||bravqhz.cfd^
-||budgetweddingplanner.info^
-||claudpod.com^
-||etax-olimw.com^
-||etax-pliwka.com^
-||etax-plwads.com^
-||etax-uwaiosd.com^
-||etax-wusasd.com^
-||f005.backblazeb2.com^
-||facebook-task-one.vercel.app^
-||finance-gov-pk.fetchdrives.info^
-||fp2e7a.wpc.2be4.phicdn.net^
-||grupoimpaktu.ao^
-||kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev^
-||mikjv2zuc2ct-pages-dev.translate.goog^
-||mybroadbandservice.plutio.com^
-||paintingth.iqlvebw.cn^
-||pinebridgedigital.shop^
-||pk.fetchdrives.info^
-||rrr.12naga.org^
-||sha.sm188dvlv.icu^
-||simulador-credito-auto-bbva.ideeo.mx^
-||submit-form.com^
-||tak.123ful.net^
-||tak.sm188dvlv.icu^
-||tra.12naga.org^
-||whatsapp.traviyo.in^
-||www-finance-gov-pk.fetchdrives.info^
-||ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion^
+||2c2a9c.jackpot-deluxe.net^
+||99totoapp.com^
+||9oogle.app^
+||9tcj2.tik-tok-18.com^
+||ababy9.com^
+||agustoto.vip^
+||amecxfund.com^
+||apiupdated.com^
+||apology.fulqhj.asia^
+||appdata.eastus.cloudapp.azure.com^
+||certificazi.one^
+||citrixplugins.blob.core.windows.net^
+||dbaoi.com^
+||f003.backblazeb2.com^
+||firedmanlaw.co.uk^
+||gran1xea.xyz^
+||h92jcihwicllow.wuaze.com^
+||helensolution.info^
+||hlushkova.top^
+||jimcooks211.github.io^
+||oreshnik.top^
+||patchmewhenyoucan.com^
+||patchorgetpwned.com^
+||payload1717.pro^
+||phppatcher.com^
+||pobruog.wiki^
+||restsetestes.com^
+||samehoo229.fun^
+||secdarvin2026.icu^
+||secure-xserver-11523.kurasoo.com^
+||secure-xserver-25394.kurasoo.com^
+||secure-xserver-36862.kurasoo.com^
+||secure-xserver-46955.kurasoo.com^
+||secure-xserver-89123.kurasoo.com^
+||seosolu.com^
+||smaluf.net^
+||sobesmarje.com^
+||vwwv-roblox.co^
+||wwppodd6688.com^
+||xzttyt.xyz^
+||zmngfjl.fun^
+||zttrych.icu^

@@ -12,106 +12,963 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sun, 06 Sep 2026 14:04:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 23 Oct 2026 17:47:05 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
-         <title>200.76.161.229</title>
-         <link>https://x.com/phishunt_io/status/2096569461377482987</link>
-         <description>@phishunt_io | ip | #phishing
-Value: 200.76.161.229
-Tweet: https://x.com/phishunt_io/status/2096569461377482987</description>
-         <guid isPermaLink="false">200.76.161.229</guid>
-         <pubDate>Sun, 06 Sep 2026 12:01:26 +0000</pubDate>
+         <title>https://sobesmarje.com/neds/showme.html</title>
+         <link>https://x.com/usr_data/status/2113682965725409727</link>
+         <description>@usr_data | url | #phishing
+Value: https://sobesmarje.com/neds/showme.html
+Tweet: https://x.com/usr_data/status/2113682965725409727</description>
+         <guid isPermaLink="false">https://sobesmarje.com/neds/showme.html</guid>
+         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>sobesmarje.com</title>
+         <link>https://x.com/usr_data/status/2113682965725409727</link>
+         <description>@usr_data | domain | #phishing
+Value: sobesmarje.com
+Tweet: https://x.com/usr_data/status/2113682965725409727</description>
+         <guid isPermaLink="false">sobesmarje.com</guid>
+         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>217.60.102.5</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 217.60.102.5
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">217.60.102.5</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>77.90.185.20</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 77.90.185.20
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">77.90.185.20</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>102.134.35.141</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | ip | #PHP2Shell
+Value: 102.134.35.141
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">102.134.35.141</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://217.60.102.5/sh</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://217.60.102.5/sh
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://217.60.102.5/sh</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://102.134.35.141:8080</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://102.134.35.141:8080
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://102.134.35.141:8080</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://77.90.185.20</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://77.90.185.20
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://77.90.185.20</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://102.134.35.141:9443</title>
+         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
+         <description>@Vega_Threat | url | #PHP2Shell
+Value: http://102.134.35.141:9443
+Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
+         <guid isPermaLink="false">http://102.134.35.141:9443</guid>
+         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>165.154.241.113</title>
+         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
+         <description>@kubotaa3 | ip | #phishing
+Value: 165.154.241.113
+Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
+         <guid isPermaLink="false">165.154.241.113</guid>
+         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
          <category>ip</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>http://simulador-credito-auto-bbva.ideeo.mx</title>
-         <link>https://x.com/phishunt_io/status/2096569461377482987</link>
-         <description>@phishunt_io | url | #phishing
-Value: http://simulador-credito-auto-bbva.ideeo.mx
-Tweet: https://x.com/phishunt_io/status/2096569461377482987</description>
-         <guid isPermaLink="false">http://simulador-credito-auto-bbva.ideeo.mx</guid>
-         <pubDate>Sun, 06 Sep 2026 12:01:26 +0000</pubDate>
+         <title>https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/</title>
+         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
+         <description>@kubotaa3 | url | #phishing
+Value: https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/
+Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
+         <guid isPermaLink="false">https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/</guid>
+         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>simulador-credito-auto-bbva.ideeo.mx</title>
-         <link>https://x.com/phishunt_io/status/2096569461377482987</link>
-         <description>@phishunt_io | domain | #phishing
-Value: simulador-credito-auto-bbva.ideeo.mx
-Tweet: https://x.com/phishunt_io/status/2096569461377482987</description>
-         <guid isPermaLink="false">simulador-credito-auto-bbva.ideeo.mx</guid>
-         <pubDate>Sun, 06 Sep 2026 12:01:26 +0000</pubDate>
+         <title>amecxfund.com</title>
+         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
+         <description>@kubotaa3 | domain | #phishing
+Value: amecxfund.com
+Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
+         <guid isPermaLink="false">amecxfund.com</guid>
+         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB</title>
-         <link>https://x.com/PhishStats/status/2096517546136539405</link>
+         <title>https://appdata.eastus.cloudapp.azure.com</title>
+         <link>https://x.com/malwrhunterteam/status/2113630845324189713</link>
+         <description>@malwrhunterteam | url | 
+Value: https://appdata.eastus.cloudapp.azure.com
+Tweet: https://x.com/malwrhunterteam/status/2113630845324189713</description>
+         <guid isPermaLink="false">https://appdata.eastus.cloudapp.azure.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:57:17 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>appdata.eastus.cloudapp.azure.com</title>
+         <link>https://x.com/malwrhunterteam/status/2113630845324189713</link>
+         <description>@malwrhunterteam | domain | 
+Value: appdata.eastus.cloudapp.azure.com
+Tweet: https://x.com/malwrhunterteam/status/2113630845324189713</description>
+         <guid isPermaLink="false">appdata.eastus.cloudapp.azure.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:57:17 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://oreshnik.top</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://oreshnik.top
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://oreshnik.top</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>oreshnik.top</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: oreshnik.top
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">oreshnik.top</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://secdarvin2026.icu</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://secdarvin2026.icu
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://secdarvin2026.icu</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>secdarvin2026.icu</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: secdarvin2026.icu
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">secdarvin2026.icu</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://zttrych.icu</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://zttrych.icu
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://zttrych.icu</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>zttrych.icu</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: zttrych.icu
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">zttrych.icu</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://zmngfjl.fun</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://zmngfjl.fun
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://zmngfjl.fun</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>zmngfjl.fun</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: zmngfjl.fun
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">zmngfjl.fun</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://xzttyt.xyz</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://xzttyt.xyz
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://xzttyt.xyz</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>xzttyt.xyz</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: xzttyt.xyz
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">xzttyt.xyz</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://payload1717.pro</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://payload1717.pro
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://payload1717.pro</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>payload1717.pro</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: payload1717.pro
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">payload1717.pro</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://gran1xea.xyz</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://gran1xea.xyz
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://gran1xea.xyz</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>gran1xea.xyz</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: gran1xea.xyz
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">gran1xea.xyz</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://samehoo229.fun</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://samehoo229.fun
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://samehoo229.fun</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>samehoo229.fun</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: samehoo229.fun
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">samehoo229.fun</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://pobruog.wiki</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | url | #malware
+Value: http://pobruog.wiki
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">http://pobruog.wiki</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>pobruog.wiki</title>
+         <link>https://x.com/FABO97662188/status/2113629425917141478</link>
+         <description>@FABO97662188 | domain | #malware
+Value: pobruog.wiki
+Tweet: https://x.com/FABO97662188/status/2113629425917141478</description>
+         <guid isPermaLink="false">pobruog.wiki</guid>
+         <pubDate>Fri, 23 Oct 2026 13:51:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>45.74.61.12</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
+         <description>@PhishStats | ip | #phishing
+Value: 45.74.61.12
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">45.74.61.12</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://restsetestes.com</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
          <description>@PhishStats | url | #phishing
-Value: https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB
-Tweet: https://x.com/PhishStats/status/2096517546136539405</description>
-         <guid isPermaLink="false">https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB</guid>
-         <pubDate>Sun, 06 Sep 2026 08:35:09 +0000</pubDate>
+Value: https://restsetestes.com
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">https://restsetestes.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>mybroadbandservice.plutio.com</title>
-         <link>https://x.com/PhishStats/status/2096517546136539405</link>
+         <title>restsetestes.com</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
          <description>@PhishStats | domain | #phishing
-Value: mybroadbandservice.plutio.com
-Tweet: https://x.com/PhishStats/status/2096517546136539405</description>
-         <guid isPermaLink="false">mybroadbandservice.plutio.com</guid>
-         <pubDate>Sun, 06 Sep 2026 08:35:09 +0000</pubDate>
+Value: restsetestes.com
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">restsetestes.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev</title>
-         <link>https://x.com/scanmalware/status/2096503681042538720</link>
+         <title>f8842e867499e126d1638451affeed3f</title>
+         <link>https://x.com/suyog41/status/2113625283739746784</link>
+         <description>@suyog41 | md5 | 
+Value: f8842e867499e126d1638451affeed3f
+Tweet: https://x.com/suyog41/status/2113625283739746784</description>
+         <guid isPermaLink="false">f8842e867499e126d1638451affeed3f</guid>
+         <pubDate>Fri, 23 Oct 2026 13:35:11 +0000</pubDate>
+         <category>md5</category>
+      </item>
+      <item>
+         <title>caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</title>
+         <link>https://x.com/smica83/status/2113606106974929160</link>
+         <description>@smica83 | sha256 | 
+Value: caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7
+Tweet: https://x.com/smica83/status/2113606106974929160</description>
+         <guid isPermaLink="false">caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</guid>
+         <pubDate>Fri, 23 Oct 2026 12:18:59 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>http://hlushkova.top</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | url | #Formbook
+Value: http://hlushkova.top
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">http://hlushkova.top</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>url</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>hlushkova.top</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | domain | #Formbook
+Value: hlushkova.top
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">hlushkova.top</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>domain</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>https://2c2a9c.jackpot-deluxe.net</title>
+         <link>https://x.com/masaomi346/status/2113600401912307882</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://2c2a9c.jackpot-deluxe.net
+Tweet: https://x.com/masaomi346/status/2113600401912307882</description>
+         <guid isPermaLink="false">https://2c2a9c.jackpot-deluxe.net</guid>
+         <pubDate>Fri, 23 Oct 2026 11:56:19 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>2c2a9c.jackpot-deluxe.net</title>
+         <link>https://x.com/masaomi346/status/2113600401912307882</link>
+         <description>@masaomi346 | domain | #phishing
+Value: 2c2a9c.jackpot-deluxe.net
+Tweet: https://x.com/masaomi346/status/2113600401912307882</description>
+         <guid isPermaLink="false">2c2a9c.jackpot-deluxe.net</guid>
+         <pubDate>Fri, 23 Oct 2026 11:56:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://citrixplugins.blob.core.windows.net/winscp/Windows.Forms.ps1</title>
+         <link>https://x.com/malwrhunterteam/status/2113597890124022024</link>
+         <description>@malwrhunterteam | url | 
+Value: https://citrixplugins.blob.core.windows.net/winscp/Windows.Forms.ps1
+Tweet: https://x.com/malwrhunterteam/status/2113597890124022024</description>
+         <guid isPermaLink="false">https://citrixplugins.blob.core.windows.net/winscp/Windows.Forms.ps1</guid>
+         <pubDate>Fri, 23 Oct 2026 11:46:20 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>citrixplugins.blob.core.windows.net</title>
+         <link>https://x.com/malwrhunterteam/status/2113597890124022024</link>
+         <description>@malwrhunterteam | domain | 
+Value: citrixplugins.blob.core.windows.net
+Tweet: https://x.com/malwrhunterteam/status/2113597890124022024</description>
+         <guid isPermaLink="false">citrixplugins.blob.core.windows.net</guid>
+         <pubDate>Fri, 23 Oct 2026 11:46:20 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>43.164.137.93</title>
+         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
+         <description>@kubotaa3 | ip | #phishing
+Value: 43.164.137.93
+Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
+         <guid isPermaLink="false">43.164.137.93</guid>
+         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://seosolu.com/HyhzyioU/</title>
+         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
+         <description>@kubotaa3 | url | #phishing
+Value: http://seosolu.com/HyhzyioU/
+Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
+         <guid isPermaLink="false">http://seosolu.com/HyhzyioU/</guid>
+         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>seosolu.com</title>
+         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
+         <description>@kubotaa3 | domain | #phishing
+Value: seosolu.com
+Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
+         <guid isPermaLink="false">seosolu.com</guid>
+         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</title>
+         <link>https://x.com/smica83/status/2113572125109882956</link>
+         <description>@smica83 | sha256 | 
+Value: a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35
+Tweet: https://x.com/smica83/status/2113572125109882956</description>
+         <guid isPermaLink="false">a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</guid>
+         <pubDate>Fri, 23 Oct 2026 10:03:57 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi</title>
+         <link>https://x.com/malwrhunterteam/status/2113564221371744425</link>
+         <description>@malwrhunterteam | url | 
+Value: https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi
+Tweet: https://x.com/malwrhunterteam/status/2113564221371744425</description>
+         <guid isPermaLink="false">https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi</guid>
+         <pubDate>Fri, 23 Oct 2026 09:32:33 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>f003.backblazeb2.com</title>
+         <link>https://x.com/malwrhunterteam/status/2113564221371744425</link>
+         <description>@malwrhunterteam | domain | 
+Value: f003.backblazeb2.com
+Tweet: https://x.com/malwrhunterteam/status/2113564221371744425</description>
+         <guid isPermaLink="false">f003.backblazeb2.com</guid>
+         <pubDate>Fri, 23 Oct 2026 09:32:33 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://apiupdated.com</title>
+         <link>https://x.com/malwrhunterteam/status/2113564216934453432</link>
+         <description>@malwrhunterteam | url | 
+Value: http://apiupdated.com
+Tweet: https://x.com/malwrhunterteam/status/2113564216934453432</description>
+         <guid isPermaLink="false">http://apiupdated.com</guid>
+         <pubDate>Fri, 23 Oct 2026 09:32:32 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>apiupdated.com</title>
+         <link>https://x.com/malwrhunterteam/status/2113564216934453432</link>
+         <description>@malwrhunterteam | domain | 
+Value: apiupdated.com
+Tweet: https://x.com/malwrhunterteam/status/2113564216934453432</description>
+         <guid isPermaLink="false">apiupdated.com</guid>
+         <pubDate>Fri, 23 Oct 2026 09:32:32 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://agustoto.vip</title>
+         <link>https://x.com/Malwarehunterr/status/2113541327342158212</link>
+         <description>@Malwarehunterr | url | 
+Value: http://agustoto.vip
+Tweet: https://x.com/Malwarehunterr/status/2113541327342158212</description>
+         <guid isPermaLink="false">http://agustoto.vip</guid>
+         <pubDate>Fri, 23 Oct 2026 08:01:34 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>agustoto.vip</title>
+         <link>https://x.com/Malwarehunterr/status/2113541327342158212</link>
+         <description>@Malwarehunterr | domain | 
+Value: agustoto.vip
+Tweet: https://x.com/Malwarehunterr/status/2113541327342158212</description>
+         <guid isPermaLink="false">agustoto.vip</guid>
+         <pubDate>Fri, 23 Oct 2026 08:01:34 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://99totoapp.com</title>
+         <link>https://x.com/Malwarehunterr/status/2113541327342158212</link>
+         <description>@Malwarehunterr | url | 
+Value: http://99totoapp.com
+Tweet: https://x.com/Malwarehunterr/status/2113541327342158212</description>
+         <guid isPermaLink="false">http://99totoapp.com</guid>
+         <pubDate>Fri, 23 Oct 2026 08:01:34 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>99totoapp.com</title>
+         <link>https://x.com/Malwarehunterr/status/2113541327342158212</link>
+         <description>@Malwarehunterr | domain | 
+Value: 99totoapp.com
+Tweet: https://x.com/Malwarehunterr/status/2113541327342158212</description>
+         <guid isPermaLink="false">99totoapp.com</guid>
+         <pubDate>Fri, 23 Oct 2026 08:01:34 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://vwwv-roblox.co/login?returnUrl=1041215277</title>
+         <link>https://x.com/phishunt_io/status/2113526196738617642</link>
+         <description>@phishunt_io | url | #phishing
+Value: http://vwwv-roblox.co/login?returnUrl=1041215277
+Tweet: https://x.com/phishunt_io/status/2113526196738617642</description>
+         <guid isPermaLink="false">http://vwwv-roblox.co/login?returnUrl=1041215277</guid>
+         <pubDate>Fri, 23 Oct 2026 07:01:27 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>vwwv-roblox.co</title>
+         <link>https://x.com/phishunt_io/status/2113526196738617642</link>
+         <description>@phishunt_io | domain | #phishing
+Value: vwwv-roblox.co
+Tweet: https://x.com/phishunt_io/status/2113526196738617642</description>
+         <guid isPermaLink="false">vwwv-roblox.co</guid>
+         <pubDate>Fri, 23 Oct 2026 07:01:27 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</title>
+         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: 5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c
+Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
+         <guid isPermaLink="false">5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</guid>
+         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://9tcj2.tik-tok-18.com</title>
+         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <description>@masaomi346 | url | #malware #phishing
+Value: https://9tcj2.tik-tok-18.com
+Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
+         <guid isPermaLink="false">https://9tcj2.tik-tok-18.com</guid>
+         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>9tcj2.tik-tok-18.com</title>
+         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <description>@masaomi346 | domain | #malware #phishing
+Value: 9tcj2.tik-tok-18.com
+Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
+         <guid isPermaLink="false">9tcj2.tik-tok-18.com</guid>
+         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>45.91.248.5</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <description>@PhishStats | ip | #phishing
+Value: 45.91.248.5
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">45.91.248.5</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://certificazi.one/galicia-personas/</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <description>@PhishStats | url | #phishing
+Value: https://certificazi.one/galicia-personas/
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">https://certificazi.one/galicia-personas/</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>certificazi.one</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <description>@PhishStats | domain | #phishing
+Value: certificazi.one
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">certificazi.one</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://dbaoi.com</title>
+         <link>https://x.com/masaomi346/status/2113481217018609812</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://dbaoi.com
+Tweet: https://x.com/masaomi346/status/2113481217018609812</description>
+         <guid isPermaLink="false">https://dbaoi.com</guid>
+         <pubDate>Fri, 23 Oct 2026 04:02:43 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>dbaoi.com</title>
+         <link>https://x.com/masaomi346/status/2113481217018609812</link>
+         <description>@masaomi346 | domain | #phishing
+Value: dbaoi.com
+Tweet: https://x.com/masaomi346/status/2113481217018609812</description>
+         <guid isPermaLink="false">dbaoi.com</guid>
+         <pubDate>Fri, 23 Oct 2026 04:02:43 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://jimcooks211.github.io</title>
+         <link>https://x.com/scanmalware/status/2113460420363051108</link>
          <description>@scanmalware | url | #ransomware
-Value: http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
-Tweet: https://x.com/scanmalware/status/2096503681042538720</description>
-         <guid isPermaLink="false">http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev</guid>
-         <pubDate>Sun, 06 Sep 2026 07:40:03 +0000</pubDate>
+Value: http://jimcooks211.github.io
+Tweet: https://x.com/scanmalware/status/2113460420363051108</description>
+         <guid isPermaLink="false">http://jimcooks211.github.io</guid>
+         <pubDate>Fri, 23 Oct 2026 02:40:05 +0000</pubDate>
          <category>url</category>
          <category>#ransomware</category>
       </item>
       <item>
-         <title>kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev</title>
-         <link>https://x.com/scanmalware/status/2096503681042538720</link>
+         <title>jimcooks211.github.io</title>
+         <link>https://x.com/scanmalware/status/2113460420363051108</link>
          <description>@scanmalware | domain | #ransomware
-Value: kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
-Tweet: https://x.com/scanmalware/status/2096503681042538720</description>
-         <guid isPermaLink="false">kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev</guid>
-         <pubDate>Sun, 06 Sep 2026 07:40:03 +0000</pubDate>
+Value: jimcooks211.github.io
+Tweet: https://x.com/scanmalware/status/2113460420363051108</description>
+         <guid isPermaLink="false">jimcooks211.github.io</guid>
+         <pubDate>Fri, 23 Oct 2026 02:40:05 +0000</pubDate>
          <category>domain</category>
          <category>#ransomware</category>
       </item>
       <item>
-         <title>http://facebook-task-one.vercel.app</title>
-         <link>https://x.com/scanmalware/status/2096416251060887828</link>
-         <description>@scanmalware | url | #malware
-Value: http://facebook-task-one.vercel.app
-Tweet: https://x.com/scanmalware/status/2096416251060887828</description>
-         <guid isPermaLink="false">http://facebook-task-one.vercel.app</guid>
-         <pubDate>Sun, 06 Sep 2026 01:52:38 +0000</pubDate>
+         <title>https://apology.fulqhj.asia/H80AoO</title>
+         <link>https://x.com/masaomi346/status/2113443223104528419</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://apology.fulqhj.asia/H80AoO
+Tweet: https://x.com/masaomi346/status/2113443223104528419</description>
+         <guid isPermaLink="false">https://apology.fulqhj.asia/H80AoO</guid>
+         <pubDate>Fri, 23 Oct 2026 01:31:44 +0000</pubDate>
          <category>url</category>
-         <category>#malware</category>
+         <category>#phishing</category>
       </item>
       <item>
-         <title>facebook-task-one.vercel.app</title>
-         <link>https://x.com/scanmalware/status/2096416251060887828</link>
-         <description>@scanmalware | domain | #malware
-Value: facebook-task-one.vercel.app
-Tweet: https://x.com/scanmalware/status/2096416251060887828</description>
-         <guid isPermaLink="false">facebook-task-one.vercel.app</guid>
-         <pubDate>Sun, 06 Sep 2026 01:52:38 +0000</pubDate>
+         <title>apology.fulqhj.asia</title>
+         <link>https://x.com/masaomi346/status/2113443223104528419</link>
+         <description>@masaomi346 | domain | #phishing
+Value: apology.fulqhj.asia
+Tweet: https://x.com/masaomi346/status/2113443223104528419</description>
+         <guid isPermaLink="false">apology.fulqhj.asia</guid>
+         <pubDate>Fri, 23 Oct 2026 01:31:44 +0000</pubDate>
          <category>domain</category>
-         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://secure-xserver-89123.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://secure-xserver-89123.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">https://secure-xserver-89123.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>secure-xserver-89123.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | domain | #phishing
+Value: secure-xserver-89123.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">secure-xserver-89123.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://secure-xserver-46955.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://secure-xserver-46955.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">https://secure-xserver-46955.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>secure-xserver-46955.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | domain | #phishing
+Value: secure-xserver-46955.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">secure-xserver-46955.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://secure-xserver-36862.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://secure-xserver-36862.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">https://secure-xserver-36862.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>secure-xserver-36862.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | domain | #phishing
+Value: secure-xserver-36862.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">secure-xserver-36862.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://secure-xserver-25394.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://secure-xserver-25394.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">https://secure-xserver-25394.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>secure-xserver-25394.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | domain | #phishing
+Value: secure-xserver-25394.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">secure-xserver-25394.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://secure-xserver-11523.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | url | #phishing
+Value: https://secure-xserver-11523.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">https://secure-xserver-11523.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>secure-xserver-11523.kurasoo.com</title>
+         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <description>@masaomi346 | domain | #phishing
+Value: secure-xserver-11523.kurasoo.com
+Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
+         <guid isPermaLink="false">secure-xserver-11523.kurasoo.com</guid>
+         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
       </item>
    </channel>
 </rss>

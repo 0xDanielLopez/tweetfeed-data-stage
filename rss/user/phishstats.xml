@@ -12,49 +12,93 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/user/phishstats.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sun, 06 Sep 2026 14:04:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 23 Oct 2026 17:47:05 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
-         <title>https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB</title>
-         <link>https://x.com/PhishStats/status/2096517546136539405</link>
+         <title>45.74.61.12</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
+         <description>@PhishStats | ip | #phishing
+Value: 45.74.61.12
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">45.74.61.12</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://restsetestes.com</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
          <description>@PhishStats | url | #phishing
-Value: https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB
-Tweet: https://x.com/PhishStats/status/2096517546136539405</description>
-         <guid isPermaLink="false">https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB</guid>
-         <pubDate>Sun, 06 Sep 2026 08:35:09 +0000</pubDate>
+Value: https://restsetestes.com
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">https://restsetestes.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>mybroadbandservice.plutio.com</title>
-         <link>https://x.com/PhishStats/status/2096517546136539405</link>
+         <title>restsetestes.com</title>
+         <link>https://x.com/PhishStats/status/2113627723243405655</link>
          <description>@PhishStats | domain | #phishing
-Value: mybroadbandservice.plutio.com
-Tweet: https://x.com/PhishStats/status/2096517546136539405</description>
-         <guid isPermaLink="false">mybroadbandservice.plutio.com</guid>
-         <pubDate>Sun, 06 Sep 2026 08:35:09 +0000</pubDate>
+Value: restsetestes.com
+Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
+         <guid isPermaLink="false">restsetestes.com</guid>
+         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</title>
-         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <title>45.91.248.5</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <description>@PhishStats | ip | #phishing
+Value: 45.91.248.5
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">45.91.248.5</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://certificazi.one/galicia-personas/</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
          <description>@PhishStats | url | #phishing
-Value: https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja
-Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
-         <guid isPermaLink="false">https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;amp;_x_tr_sl=monex&amp;amp;_x_tr_tl=ja</guid>
-         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+Value: https://certificazi.one/galicia-personas/
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">https://certificazi.one/galicia-personas/</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>mikjv2zuc2ct-pages-dev.translate.goog</title>
-         <link>https://x.com/PhishStats/status/2095429870536786114</link>
+         <title>certificazi.one</title>
+         <link>https://x.com/PhishStats/status/2113503087054799198</link>
          <description>@PhishStats | domain | #phishing
-Value: mikjv2zuc2ct-pages-dev.translate.goog
-Tweet: https://x.com/PhishStats/status/2095429870536786114</description>
-         <guid isPermaLink="false">mikjv2zuc2ct-pages-dev.translate.goog</guid>
-         <pubDate>Thu, 03 Sep 2026 08:33:06 +0000</pubDate>
+Value: certificazi.one
+Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
+         <guid isPermaLink="false">certificazi.one</guid>
+         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://9oogle.app</title>
+         <link>https://x.com/PhishStats/status/2113385912574804342</link>
+         <description>@PhishStats | url | #phishing
+Value: https://9oogle.app
+Tweet: https://x.com/PhishStats/status/2113385912574804342</description>
+         <guid isPermaLink="false">https://9oogle.app</guid>
+         <pubDate>Thu, 22 Oct 2026 21:44:01 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>9oogle.app</title>
+         <link>https://x.com/PhishStats/status/2113385912574804342</link>
+         <description>@PhishStats | domain | #phishing
+Value: 9oogle.app
+Tweet: https://x.com/PhishStats/status/2113385912574804342</description>
+         <guid isPermaLink="false">9oogle.app</guid>
+         <pubDate>Thu, 22 Oct 2026 21:44:01 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 33
-# Updated: 2026-09-06T12:46:40Z
+# Entries: 42
+# Updated: 2026-10-23T17:47:04Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,36 +9,45 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
-0.0.0.0 ana-log.therealmasterwithin.com
-0.0.0.0 apk-google.cn
-0.0.0.0 asianmassageporn.info
-0.0.0.0 bankofamericanonline.com
-0.0.0.0 bravqhz.cfd
-0.0.0.0 budgetweddingplanner.info
-0.0.0.0 claudpod.com
-0.0.0.0 etax-olimw.com
-0.0.0.0 etax-pliwka.com
-0.0.0.0 etax-plwads.com
-0.0.0.0 etax-uwaiosd.com
-0.0.0.0 etax-wusasd.com
-0.0.0.0 f005.backblazeb2.com
-0.0.0.0 facebook-task-one.vercel.app
-0.0.0.0 finance-gov-pk.fetchdrives.info
-0.0.0.0 fp2e7a.wpc.2be4.phicdn.net
-0.0.0.0 grupoimpaktu.ao
-0.0.0.0 kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev
-0.0.0.0 mikjv2zuc2ct-pages-dev.translate.goog
-0.0.0.0 mybroadbandservice.plutio.com
-0.0.0.0 paintingth.iqlvebw.cn
-0.0.0.0 pinebridgedigital.shop
-0.0.0.0 pk.fetchdrives.info
-0.0.0.0 rrr.12naga.org
-0.0.0.0 sha.sm188dvlv.icu
-0.0.0.0 simulador-credito-auto-bbva.ideeo.mx
-0.0.0.0 submit-form.com
-0.0.0.0 tak.123ful.net
-0.0.0.0 tak.sm188dvlv.icu
-0.0.0.0 tra.12naga.org
-0.0.0.0 whatsapp.traviyo.in
-0.0.0.0 www-finance-gov-pk.fetchdrives.info
-0.0.0.0 ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion
+0.0.0.0 2c2a9c.jackpot-deluxe.net
+0.0.0.0 99totoapp.com
+0.0.0.0 9oogle.app
+0.0.0.0 9tcj2.tik-tok-18.com
+0.0.0.0 ababy9.com
+0.0.0.0 agustoto.vip
+0.0.0.0 amecxfund.com
+0.0.0.0 apiupdated.com
+0.0.0.0 apology.fulqhj.asia
+0.0.0.0 appdata.eastus.cloudapp.azure.com
+0.0.0.0 certificazi.one
+0.0.0.0 citrixplugins.blob.core.windows.net
+0.0.0.0 dbaoi.com
+0.0.0.0 f003.backblazeb2.com
+0.0.0.0 firedmanlaw.co.uk
+0.0.0.0 gran1xea.xyz
+0.0.0.0 h92jcihwicllow.wuaze.com
+0.0.0.0 helensolution.info
+0.0.0.0 hlushkova.top
+0.0.0.0 jimcooks211.github.io
+0.0.0.0 oreshnik.top
+0.0.0.0 patchmewhenyoucan.com
+0.0.0.0 patchorgetpwned.com
+0.0.0.0 payload1717.pro
+0.0.0.0 phppatcher.com
+0.0.0.0 pobruog.wiki
+0.0.0.0 restsetestes.com
+0.0.0.0 samehoo229.fun
+0.0.0.0 secdarvin2026.icu
+0.0.0.0 secure-xserver-11523.kurasoo.com
+0.0.0.0 secure-xserver-25394.kurasoo.com
+0.0.0.0 secure-xserver-36862.kurasoo.com
+0.0.0.0 secure-xserver-46955.kurasoo.com
+0.0.0.0 secure-xserver-89123.kurasoo.com
+0.0.0.0 seosolu.com
+0.0.0.0 smaluf.net
+0.0.0.0 sobesmarje.com
+0.0.0.0 vwwv-roblox.co
+0.0.0.0 wwppodd6688.com
+0.0.0.0 xzttyt.xyz
+0.0.0.0 zmngfjl.fun
+0.0.0.0 zttrych.icu

@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @smica83</title>
+      <link>https://x.com/smica83</link>
+      <description>IOCs shared by @smica83 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @smica83</title>
+         <link>https://x.com/smica83</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/smica83.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Fri, 23 Oct 2026 17:47:05 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</title>
+         <link>https://x.com/smica83/status/2113606106974929160</link>
+         <description>@smica83 | sha256 | 
+Value: caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7
+Tweet: https://x.com/smica83/status/2113606106974929160</description>
+         <guid isPermaLink="false">caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</guid>
+         <pubDate>Fri, 23 Oct 2026 12:18:59 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</title>
+         <link>https://x.com/smica83/status/2113572125109882956</link>
+         <description>@smica83 | sha256 | 
+Value: a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35
+Tweet: https://x.com/smica83/status/2113572125109882956</description>
+         <guid isPermaLink="false">a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</guid>
+         <pubDate>Fri, 23 Oct 2026 10:03:57 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97</title>
+         <link>https://x.com/smica83/status/2113375121545236514</link>
+         <description>@smica83 | sha256 | 
+Value: 67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97
+Tweet: https://x.com/smica83/status/2113375121545236514</description>
+         <guid isPermaLink="false">67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97</guid>
+         <pubDate>Thu, 22 Oct 2026 21:01:08 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | sha256 | 
+Value: 914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>104.143.42.209</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | ip | 
+Value: 104.143.42.209
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">104.143.42.209</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://wwppodd6688.com</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | url | 
+Value: http://wwppodd6688.com
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">http://wwppodd6688.com</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>wwppodd6688.com</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | domain | 
+Value: wwppodd6688.com
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">wwppodd6688.com</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://104.143.42.209:22</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | url | 
+Value: http://104.143.42.209:22
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">http://104.143.42.209:22</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401</title>
+         <link>https://x.com/smica83/status/2113373037047246960</link>
+         <description>@smica83 | sha256 | 
+Value: 6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401
+Tweet: https://x.com/smica83/status/2113373037047246960</description>
+         <guid isPermaLink="false">6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401</guid>
+         <pubDate>Thu, 22 Oct 2026 20:52:51 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&amp;amp;y=Guest&amp;amp;c=macaw&amp;amp;c=&amp;amp;c=hr&amp;amp;c=sec&amp;amp;c=&amp;amp;c=&amp;amp;c=&amp;amp;c=</title>
+         <link>https://x.com/smica83/status/2113373037047246960</link>
+         <description>@smica83 | url | 
+Value: https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&amp;y=Guest&amp;c=macaw&amp;c=&amp;c=hr&amp;c=sec&amp;c=&amp;c=&amp;c=&amp;c=
+Tweet: https://x.com/smica83/status/2113373037047246960</description>
+         <guid isPermaLink="false">https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&amp;y=Guest&amp;c=macaw&amp;c=&amp;c=hr&amp;c=sec&amp;c=&amp;c=&amp;c=&amp;c=</guid>
+         <pubDate>Thu, 22 Oct 2026 20:52:51 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>firedmanlaw.co.uk</title>
+         <link>https://x.com/smica83/status/2113373037047246960</link>
+         <description>@smica83 | domain | 
+Value: firedmanlaw.co.uk
+Tweet: https://x.com/smica83/status/2113373037047246960</description>
+         <guid isPermaLink="false">firedmanlaw.co.uk</guid>
+         <pubDate>Thu, 22 Oct 2026 20:52:51 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a</title>
+         <link>https://x.com/smica83/status/2113351070315642931</link>
+         <description>@smica83 | sha256 | 
+Value: b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a
+Tweet: https://x.com/smica83/status/2113351070315642931</description>
+         <guid isPermaLink="false">b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a</guid>
+         <pubDate>Thu, 22 Oct 2026 19:25:33 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>http://ababy9.com</title>
+         <link>https://x.com/smica83/status/2113351070315642931</link>
+         <description>@smica83 | url | 
+Value: http://ababy9.com
+Tweet: https://x.com/smica83/status/2113351070315642931</description>
+         <guid isPermaLink="false">http://ababy9.com</guid>
+         <pubDate>Thu, 22 Oct 2026 19:25:33 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>ababy9.com</title>
+         <link>https://x.com/smica83/status/2113351070315642931</link>
+         <description>@smica83 | domain | 
+Value: ababy9.com
+Tweet: https://x.com/smica83/status/2113351070315642931</description>
+         <guid isPermaLink="false">ababy9.com</guid>
+         <pubDate>Thu, 22 Oct 2026 19:25:33 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc</title>
+         <link>https://x.com/smica83/status/2113350145672884651</link>
+         <description>@smica83 | sha256 | 
+Value: e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc
+Tweet: https://x.com/smica83/status/2113350145672884651</description>
+         <guid isPermaLink="false">e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc</guid>
+         <pubDate>Thu, 22 Oct 2026 19:21:53 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | sha256 | 
+Value: 09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>77.220.212.113</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | ip | 
+Value: 77.220.212.113
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">77.220.212.113</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://77.220.212.113:2084</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | url | 
+Value: http://77.220.212.113:2084
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">http://77.220.212.113:2084</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://smaluf.net:3857</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | url | 
+Value: http://smaluf.net:3857
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">http://smaluf.net:3857</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>smaluf.net</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | domain | 
+Value: smaluf.net
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">smaluf.net</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df</title>
+         <link>https://x.com/smica83/status/2113342928957415879</link>
+         <description>@smica83 | sha256 | 
+Value: 5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df
+Tweet: https://x.com/smica83/status/2113342928957415879</description>
+         <guid isPermaLink="false">5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df</guid>
+         <pubDate>Thu, 22 Oct 2026 18:53:12 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>https://pixeldrain.com/api/file/LEfVj7fg?download</title>
+         <link>https://x.com/smica83/status/2113342928957415879</link>
+         <description>@smica83 | url | 
+Value: https://pixeldrain.com/api/file/LEfVj7fg?download
+Tweet: https://x.com/smica83/status/2113342928957415879</description>
+         <guid isPermaLink="false">https://pixeldrain.com/api/file/LEfVj7fg?download</guid>
+         <pubDate>Thu, 22 Oct 2026 18:53:12 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

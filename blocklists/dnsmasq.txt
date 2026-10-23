@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 33
-# Updated: 2026-09-06T12:46:40Z
+# Entries: 42
+# Updated: 2026-10-23T17:47:04Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,36 +9,45 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
-address=/ana-log.therealmasterwithin.com/0.0.0.0
-address=/apk-google.cn/0.0.0.0
-address=/asianmassageporn.info/0.0.0.0
-address=/bankofamericanonline.com/0.0.0.0
-address=/bravqhz.cfd/0.0.0.0
-address=/budgetweddingplanner.info/0.0.0.0
-address=/claudpod.com/0.0.0.0
-address=/etax-olimw.com/0.0.0.0
-address=/etax-pliwka.com/0.0.0.0
-address=/etax-plwads.com/0.0.0.0
-address=/etax-uwaiosd.com/0.0.0.0
-address=/etax-wusasd.com/0.0.0.0
-address=/f005.backblazeb2.com/0.0.0.0
-address=/facebook-task-one.vercel.app/0.0.0.0
-address=/finance-gov-pk.fetchdrives.info/0.0.0.0
-address=/fp2e7a.wpc.2be4.phicdn.net/0.0.0.0
-address=/grupoimpaktu.ao/0.0.0.0
-address=/kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev/0.0.0.0
-address=/mikjv2zuc2ct-pages-dev.translate.goog/0.0.0.0
-address=/mybroadbandservice.plutio.com/0.0.0.0
-address=/paintingth.iqlvebw.cn/0.0.0.0
-address=/pinebridgedigital.shop/0.0.0.0
-address=/pk.fetchdrives.info/0.0.0.0
-address=/rrr.12naga.org/0.0.0.0
-address=/sha.sm188dvlv.icu/0.0.0.0
-address=/simulador-credito-auto-bbva.ideeo.mx/0.0.0.0
-address=/submit-form.com/0.0.0.0
-address=/tak.123ful.net/0.0.0.0
-address=/tak.sm188dvlv.icu/0.0.0.0
-address=/tra.12naga.org/0.0.0.0
-address=/whatsapp.traviyo.in/0.0.0.0
-address=/www-finance-gov-pk.fetchdrives.info/0.0.0.0
-address=/ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion/0.0.0.0
+address=/2c2a9c.jackpot-deluxe.net/0.0.0.0
+address=/99totoapp.com/0.0.0.0
+address=/9oogle.app/0.0.0.0
+address=/9tcj2.tik-tok-18.com/0.0.0.0
+address=/ababy9.com/0.0.0.0
+address=/agustoto.vip/0.0.0.0
+address=/amecxfund.com/0.0.0.0
+address=/apiupdated.com/0.0.0.0
+address=/apology.fulqhj.asia/0.0.0.0
+address=/appdata.eastus.cloudapp.azure.com/0.0.0.0
+address=/certificazi.one/0.0.0.0
+address=/citrixplugins.blob.core.windows.net/0.0.0.0
+address=/dbaoi.com/0.0.0.0
+address=/f003.backblazeb2.com/0.0.0.0
+address=/firedmanlaw.co.uk/0.0.0.0
+address=/gran1xea.xyz/0.0.0.0
+address=/h92jcihwicllow.wuaze.com/0.0.0.0
+address=/helensolution.info/0.0.0.0
+address=/hlushkova.top/0.0.0.0
+address=/jimcooks211.github.io/0.0.0.0
+address=/oreshnik.top/0.0.0.0
+address=/patchmewhenyoucan.com/0.0.0.0
+address=/patchorgetpwned.com/0.0.0.0
+address=/payload1717.pro/0.0.0.0
+address=/phppatcher.com/0.0.0.0
+address=/pobruog.wiki/0.0.0.0
+address=/restsetestes.com/0.0.0.0
+address=/samehoo229.fun/0.0.0.0
+address=/secdarvin2026.icu/0.0.0.0
+address=/secure-xserver-11523.kurasoo.com/0.0.0.0
+address=/secure-xserver-25394.kurasoo.com/0.0.0.0
+address=/secure-xserver-36862.kurasoo.com/0.0.0.0
+address=/secure-xserver-46955.kurasoo.com/0.0.0.0
+address=/secure-xserver-89123.kurasoo.com/0.0.0.0
+address=/seosolu.com/0.0.0.0
+address=/smaluf.net/0.0.0.0
+address=/sobesmarje.com/0.0.0.0
+address=/vwwv-roblox.co/0.0.0.0
+address=/wwppodd6688.com/0.0.0.0
+address=/xzttyt.xyz/0.0.0.0
+address=/zmngfjl.fun/0.0.0.0
+address=/zttrych.icu/0.0.0.0

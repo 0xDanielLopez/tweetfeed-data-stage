@@ -12,29 +12,208 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/type/sha256.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sun, 06 Sep 2026 14:04:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 23 Oct 2026 17:47:05 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
-         <title>bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e</title>
-         <link>https://x.com/skocherhan/status/2096158669339590946</link>
-         <description>@skocherhan | sha256 | 
-Value: bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e
-Tweet: https://x.com/skocherhan/status/2096158669339590946</description>
-         <guid isPermaLink="false">bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e</guid>
-         <pubDate>Sat, 05 Sep 2026 08:49:06 +0000</pubDate>
+         <title>caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</title>
+         <link>https://x.com/smica83/status/2113606106974929160</link>
+         <description>@smica83 | sha256 | 
+Value: caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7
+Tweet: https://x.com/smica83/status/2113606106974929160</description>
+         <guid isPermaLink="false">caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7</guid>
+         <pubDate>Fri, 23 Oct 2026 12:18:59 +0000</pubDate>
          <category>sha256</category>
       </item>
       <item>
-         <title>cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884</title>
-         <link>https://x.com/masaomi346/status/2096131403025109209</link>
+         <title>a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10</title>
+         <link>https://x.com/anyrun_app/status/2113601611503120436</link>
+         <description>@anyrun_app | sha256 | #Formbook
+Value: 58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10
+Tweet: https://x.com/anyrun_app/status/2113601611503120436</description>
+         <guid isPermaLink="false">58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10</guid>
+         <pubDate>Fri, 23 Oct 2026 12:01:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Formbook</category>
+      </item>
+      <item>
+         <title>a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</title>
+         <link>https://x.com/smica83/status/2113572125109882956</link>
+         <description>@smica83 | sha256 | 
+Value: a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35
+Tweet: https://x.com/smica83/status/2113572125109882956</description>
+         <guid isPermaLink="false">a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35</guid>
+         <pubDate>Fri, 23 Oct 2026 10:03:57 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</title>
+         <link>https://x.com/masaomi346/status/2113510256223686926</link>
          <description>@masaomi346 | sha256 | #malware #phishing
-Value: cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884
-Tweet: https://x.com/masaomi346/status/2096131403025109209</description>
-         <guid isPermaLink="false">cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884</guid>
-         <pubDate>Sat, 05 Sep 2026 07:00:45 +0000</pubDate>
+Value: 5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c
+Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
+         <guid isPermaLink="false">5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</guid>
+         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
          <category>sha256</category>
          <category>#malware</category>
          <category>#phishing</category>
+      </item>
+      <item>
+         <title>67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97</title>
+         <link>https://x.com/smica83/status/2113375121545236514</link>
+         <description>@smica83 | sha256 | 
+Value: 67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97
+Tweet: https://x.com/smica83/status/2113375121545236514</description>
+         <guid isPermaLink="false">67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97</guid>
+         <pubDate>Thu, 22 Oct 2026 21:01:08 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8</title>
+         <link>https://x.com/smica83/status/2113374095416905793</link>
+         <description>@smica83 | sha256 | 
+Value: 914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8
+Tweet: https://x.com/smica83/status/2113374095416905793</description>
+         <guid isPermaLink="false">914adfba2837c786986bb16577f630e3355bb1984fc82e6d642657e790e6dbf8</guid>
+         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401</title>
+         <link>https://x.com/smica83/status/2113373037047246960</link>
+         <description>@smica83 | sha256 | 
+Value: 6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401
+Tweet: https://x.com/smica83/status/2113373037047246960</description>
+         <guid isPermaLink="false">6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401</guid>
+         <pubDate>Thu, 22 Oct 2026 20:52:51 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a</title>
+         <link>https://x.com/smica83/status/2113351070315642931</link>
+         <description>@smica83 | sha256 | 
+Value: b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a
+Tweet: https://x.com/smica83/status/2113351070315642931</description>
+         <guid isPermaLink="false">b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a</guid>
+         <pubDate>Thu, 22 Oct 2026 19:25:33 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc</title>
+         <link>https://x.com/smica83/status/2113350145672884651</link>
+         <description>@smica83 | sha256 | 
+Value: e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc
+Tweet: https://x.com/smica83/status/2113350145672884651</description>
+         <guid isPermaLink="false">e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc</guid>
+         <pubDate>Thu, 22 Oct 2026 19:21:53 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552</title>
+         <link>https://x.com/smica83/status/2113348751532118078</link>
+         <description>@smica83 | sha256 | 
+Value: 09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552
+Tweet: https://x.com/smica83/status/2113348751532118078</description>
+         <guid isPermaLink="false">09af553a032ac6591b9f1271ade103549946640a82136dc2cee4b1da6a488552</guid>
+         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df</title>
+         <link>https://x.com/smica83/status/2113342928957415879</link>
+         <description>@smica83 | sha256 | 
+Value: 5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df
+Tweet: https://x.com/smica83/status/2113342928957415879</description>
+         <guid isPermaLink="false">5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df</guid>
+         <pubDate>Thu, 22 Oct 2026 18:53:12 +0000</pubDate>
+         <category>sha256</category>
       </item>
    </channel>
 </rss>
