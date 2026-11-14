@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 47
-# Updated: 2026-10-23T18:46:16Z
+# Entries: 63
+# Updated: 2026-11-14T19:34:31Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -16,31 +16,45 @@
 ababy9.com
 agustoto.vip
 amecxfund.com
+analhos.com
 antibot-linkedin.com
 apiupdated.com
 apology.fulqhj.asia
+app.freelance-levtech.info
 appdata.eastus.cloudapp.azure.com
+asiannetmark.org
 certificazi.one
 citrixplugins.blob.core.windows.net
 dbaoi.com
-f003.backblazeb2.com
 firedmanlaw.co.uk
 gptverification.com
 gran1xea.xyz
 h92jcihwicllow.wuaze.com
 helensolution.info
 hlushkova.top
+incomestonefield.com
 jimcooks211.github.io
+lapaca.webdirecto.com
+loanfairfield.com
 maildeveloper.site
+metaslate.org
+moments-notice.com
+newbooker.com
 opengraph.vip
 oreshnik.top
+pakdigital.org
 patchmewhenyoucan.com
 patchorgetpwned.com
 payload1717.pro
+pharaohkit.cloud
 phppatcher.com
+planetmaison.com
 pobruog.wiki
+rawchocolate-jp.com
+reallifeaccounting.com
 restsetestes.com
 samehoo229.fun
+scanned.page
 secdarvin2026.icu
 secure-xserver-11523.kurasoo.com
 secure-xserver-25394.kurasoo.com
@@ -48,10 +62,12 @@ secure-xserver-36862.kurasoo.com
 secure-xserver-46955.kurasoo.com
 secure-xserver-89123.kurasoo.com
 seosolu.com
+sidflow.cfd
 smaluf.net
 sobesmarje.com
 t-trustrest.com
 vwwv-roblox.co
+wealthstepguide.com
 wwppodd6688.com
 xzttyt.xyz
 zmngfjl.fun

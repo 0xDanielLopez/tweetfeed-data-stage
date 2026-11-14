@@ -6,421 +6,372 @@
       <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #phishing on TweetFeed. Refreshed every 15 minutes.</description>
       <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
       <image>
-         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
          <title>TweetFeed - #phishing IOC feed</title>
          <link>https://tweetfeed.live/tag/phishing/</link>
       </image>
       <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Fri, 23 Oct 2026 18:46:16 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 14 Nov 2026 19:34:32 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
-         <title>https://sobesmarje.com/neds/showme.html</title>
-         <link>https://x.com/usr_data/status/2113682965725409727</link>
-         <description>@usr_data | url | #phishing
-Value: https://sobesmarje.com/neds/showme.html
-Tweet: https://x.com/usr_data/status/2113682965725409727</description>
-         <guid isPermaLink="false">https://sobesmarje.com/neds/showme.html</guid>
-         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>sobesmarje.com</title>
-         <link>https://x.com/usr_data/status/2113682965725409727</link>
-         <description>@usr_data | domain | #phishing
-Value: sobesmarje.com
-Tweet: https://x.com/usr_data/status/2113682965725409727</description>
-         <guid isPermaLink="false">sobesmarje.com</guid>
-         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>165.154.241.113</title>
-         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
-         <description>@kubotaa3 | ip | #phishing
-Value: 165.154.241.113
-Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
-         <guid isPermaLink="false">165.154.241.113</guid>
-         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/</title>
-         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
-         <description>@kubotaa3 | url | #phishing
-Value: https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/
-Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
-         <guid isPermaLink="false">https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/</guid>
-         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>amecxfund.com</title>
-         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
-         <description>@kubotaa3 | domain | #phishing
-Value: amecxfund.com
-Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
-         <guid isPermaLink="false">amecxfund.com</guid>
-         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>45.74.61.12</title>
-         <link>https://x.com/PhishStats/status/2113627723243405655</link>
-         <description>@PhishStats | ip | #phishing
-Value: 45.74.61.12
-Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
-         <guid isPermaLink="false">45.74.61.12</guid>
-         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>https://restsetestes.com</title>
-         <link>https://x.com/PhishStats/status/2113627723243405655</link>
-         <description>@PhishStats | url | #phishing
-Value: https://restsetestes.com
-Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
-         <guid isPermaLink="false">https://restsetestes.com</guid>
-         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>restsetestes.com</title>
-         <link>https://x.com/PhishStats/status/2113627723243405655</link>
-         <description>@PhishStats | domain | #phishing
-Value: restsetestes.com
-Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
-         <guid isPermaLink="false">restsetestes.com</guid>
-         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>https://2c2a9c.jackpot-deluxe.net</title>
-         <link>https://x.com/masaomi346/status/2113600401912307882</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://2c2a9c.jackpot-deluxe.net
-Tweet: https://x.com/masaomi346/status/2113600401912307882</description>
-         <guid isPermaLink="false">https://2c2a9c.jackpot-deluxe.net</guid>
-         <pubDate>Fri, 23 Oct 2026 11:56:19 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>2c2a9c.jackpot-deluxe.net</title>
-         <link>https://x.com/masaomi346/status/2113600401912307882</link>
-         <description>@masaomi346 | domain | #phishing
-Value: 2c2a9c.jackpot-deluxe.net
-Tweet: https://x.com/masaomi346/status/2113600401912307882</description>
-         <guid isPermaLink="false">2c2a9c.jackpot-deluxe.net</guid>
-         <pubDate>Fri, 23 Oct 2026 11:56:19 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>43.164.137.93</title>
-         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
-         <description>@kubotaa3 | ip | #phishing
-Value: 43.164.137.93
-Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
-         <guid isPermaLink="false">43.164.137.93</guid>
-         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>http://seosolu.com/HyhzyioU/</title>
-         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
-         <description>@kubotaa3 | url | #phishing
-Value: http://seosolu.com/HyhzyioU/
-Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
-         <guid isPermaLink="false">http://seosolu.com/HyhzyioU/</guid>
-         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>seosolu.com</title>
-         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
-         <description>@kubotaa3 | domain | #phishing
-Value: seosolu.com
-Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
-         <guid isPermaLink="false">seosolu.com</guid>
-         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>http://vwwv-roblox.co/login?returnUrl=1041215277</title>
-         <link>https://x.com/phishunt_io/status/2113526196738617642</link>
-         <description>@phishunt_io | url | #phishing
-Value: http://vwwv-roblox.co/login?returnUrl=1041215277
-Tweet: https://x.com/phishunt_io/status/2113526196738617642</description>
-         <guid isPermaLink="false">http://vwwv-roblox.co/login?returnUrl=1041215277</guid>
-         <pubDate>Fri, 23 Oct 2026 07:01:27 +0000</pubDate>
-         <category>url</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>vwwv-roblox.co</title>
-         <link>https://x.com/phishunt_io/status/2113526196738617642</link>
-         <description>@phishunt_io | domain | #phishing
-Value: vwwv-roblox.co
-Tweet: https://x.com/phishunt_io/status/2113526196738617642</description>
-         <guid isPermaLink="false">vwwv-roblox.co</guid>
-         <pubDate>Fri, 23 Oct 2026 07:01:27 +0000</pubDate>
-         <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</title>
-         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <title>ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055</title>
+         <link>https://x.com/masaomi346/status/2121636410235158985</link>
          <description>@masaomi346 | sha256 | #malware #phishing
-Value: 5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c
-Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
-         <guid isPermaLink="false">5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c</guid>
-         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+Value: ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055
+Tweet: https://x.com/masaomi346/status/2121636410235158985</description>
+         <guid isPermaLink="false">ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055</guid>
+         <pubDate>Sat, 14 Nov 2026 16:08:32 +0000</pubDate>
          <category>sha256</category>
          <category>#malware</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://9tcj2.tik-tok-18.com</title>
-         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <title>https://app.freelance-levtech.info</title>
+         <link>https://x.com/masaomi346/status/2121636410235158985</link>
          <description>@masaomi346 | url | #malware #phishing
-Value: https://9tcj2.tik-tok-18.com
-Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
-         <guid isPermaLink="false">https://9tcj2.tik-tok-18.com</guid>
-         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+Value: https://app.freelance-levtech.info
+Tweet: https://x.com/masaomi346/status/2121636410235158985</description>
+         <guid isPermaLink="false">https://app.freelance-levtech.info</guid>
+         <pubDate>Sat, 14 Nov 2026 16:08:32 +0000</pubDate>
          <category>url</category>
          <category>#malware</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>9tcj2.tik-tok-18.com</title>
-         <link>https://x.com/masaomi346/status/2113510256223686926</link>
+         <title>app.freelance-levtech.info</title>
+         <link>https://x.com/masaomi346/status/2121636410235158985</link>
          <description>@masaomi346 | domain | #malware #phishing
-Value: 9tcj2.tik-tok-18.com
-Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
-         <guid isPermaLink="false">9tcj2.tik-tok-18.com</guid>
-         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
+Value: app.freelance-levtech.info
+Tweet: https://x.com/masaomi346/status/2121636410235158985</description>
+         <guid isPermaLink="false">app.freelance-levtech.info</guid>
+         <pubDate>Sat, 14 Nov 2026 16:08:32 +0000</pubDate>
          <category>domain</category>
          <category>#malware</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>45.91.248.5</title>
-         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <title>79.112.153.148</title>
+         <link>https://x.com/PhishStats/status/2121634712963907929</link>
          <description>@PhishStats | ip | #phishing
-Value: 45.91.248.5
-Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
-         <guid isPermaLink="false">45.91.248.5</guid>
-         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+Value: 79.112.153.148
+Tweet: https://x.com/PhishStats/status/2121634712963907929</description>
+         <guid isPermaLink="false">79.112.153.148</guid>
+         <pubDate>Sat, 14 Nov 2026 16:01:48 +0000</pubDate>
          <category>ip</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://certificazi.one/galicia-personas/</title>
-         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <title>https://lapaca.webdirecto.com/wp-includes/Text/tdweain/yogsqwj/gmehpir/ggg/adobe/adobe.html</title>
+         <link>https://x.com/PhishStats/status/2121634712963907929</link>
          <description>@PhishStats | url | #phishing
-Value: https://certificazi.one/galicia-personas/
-Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
-         <guid isPermaLink="false">https://certificazi.one/galicia-personas/</guid>
-         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+Value: https://lapaca.webdirecto.com/wp-includes/Text/tdweain/yogsqwj/gmehpir/ggg/adobe/adobe.html
+Tweet: https://x.com/PhishStats/status/2121634712963907929</description>
+         <guid isPermaLink="false">https://lapaca.webdirecto.com/wp-includes/Text/tdweain/yogsqwj/gmehpir/ggg/adobe/adobe.html</guid>
+         <pubDate>Sat, 14 Nov 2026 16:01:48 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>certificazi.one</title>
-         <link>https://x.com/PhishStats/status/2113503087054799198</link>
+         <title>lapaca.webdirecto.com</title>
+         <link>https://x.com/PhishStats/status/2121634712963907929</link>
          <description>@PhishStats | domain | #phishing
-Value: certificazi.one
-Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
-         <guid isPermaLink="false">certificazi.one</guid>
-         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+Value: lapaca.webdirecto.com
+Tweet: https://x.com/PhishStats/status/2121634712963907929</description>
+         <guid isPermaLink="false">lapaca.webdirecto.com</guid>
+         <pubDate>Sat, 14 Nov 2026 16:01:48 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://dbaoi.com</title>
-         <link>https://x.com/masaomi346/status/2113481217018609812</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://dbaoi.com
-Tweet: https://x.com/masaomi346/status/2113481217018609812</description>
-         <guid isPermaLink="false">https://dbaoi.com</guid>
-         <pubDate>Fri, 23 Oct 2026 04:02:43 +0000</pubDate>
+         <title>http://reallifeaccounting.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | url | #phishing
+Value: http://reallifeaccounting.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">http://reallifeaccounting.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>dbaoi.com</title>
-         <link>https://x.com/masaomi346/status/2113481217018609812</link>
-         <description>@masaomi346 | domain | #phishing
-Value: dbaoi.com
-Tweet: https://x.com/masaomi346/status/2113481217018609812</description>
-         <guid isPermaLink="false">dbaoi.com</guid>
-         <pubDate>Fri, 23 Oct 2026 04:02:43 +0000</pubDate>
+         <title>reallifeaccounting.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | domain | #phishing
+Value: reallifeaccounting.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">reallifeaccounting.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://apology.fulqhj.asia/H80AoO</title>
-         <link>https://x.com/masaomi346/status/2113443223104528419</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://apology.fulqhj.asia/H80AoO
-Tweet: https://x.com/masaomi346/status/2113443223104528419</description>
-         <guid isPermaLink="false">https://apology.fulqhj.asia/H80AoO</guid>
-         <pubDate>Fri, 23 Oct 2026 01:31:44 +0000</pubDate>
+         <title>http://newbooker.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | url | #phishing
+Value: http://newbooker.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">http://newbooker.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>apology.fulqhj.asia</title>
-         <link>https://x.com/masaomi346/status/2113443223104528419</link>
-         <description>@masaomi346 | domain | #phishing
-Value: apology.fulqhj.asia
-Tweet: https://x.com/masaomi346/status/2113443223104528419</description>
-         <guid isPermaLink="false">apology.fulqhj.asia</guid>
-         <pubDate>Fri, 23 Oct 2026 01:31:44 +0000</pubDate>
+         <title>newbooker.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | domain | #phishing
+Value: newbooker.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">newbooker.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://secure-xserver-89123.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://secure-xserver-89123.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">https://secure-xserver-89123.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>http://planetmaison.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | url | #phishing
+Value: http://planetmaison.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">http://planetmaison.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>secure-xserver-89123.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | domain | #phishing
-Value: secure-xserver-89123.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">secure-xserver-89123.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>planetmaison.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | domain | #phishing
+Value: planetmaison.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">planetmaison.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://secure-xserver-46955.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://secure-xserver-46955.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">https://secure-xserver-46955.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>http://moments-notice.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | url | #phishing
+Value: http://moments-notice.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">http://moments-notice.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>secure-xserver-46955.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | domain | #phishing
-Value: secure-xserver-46955.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">secure-xserver-46955.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>moments-notice.com</title>
+         <link>https://x.com/MsftSecIntel/status/2121491564161581148</link>
+         <description>@MsftSecIntel | domain | #phishing
+Value: moments-notice.com
+Tweet: https://x.com/MsftSecIntel/status/2121491564161581148</description>
+         <guid isPermaLink="false">moments-notice.com</guid>
+         <pubDate>Sat, 14 Nov 2026 15:05:06 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://secure-xserver-36862.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <title>https://sidflow.cfd/LJNI/#/index</title>
+         <link>https://x.com/masaomi346/status/2121510626992517438</link>
          <description>@masaomi346 | url | #phishing
-Value: https://secure-xserver-36862.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">https://secure-xserver-36862.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+Value: https://sidflow.cfd/LJNI/#/index
+Tweet: https://x.com/masaomi346/status/2121510626992517438</description>
+         <guid isPermaLink="false">https://sidflow.cfd/LJNI/#/index</guid>
+         <pubDate>Sat, 14 Nov 2026 07:48:43 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>secure-xserver-36862.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
+         <title>sidflow.cfd</title>
+         <link>https://x.com/masaomi346/status/2121510626992517438</link>
          <description>@masaomi346 | domain | #phishing
-Value: secure-xserver-36862.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">secure-xserver-36862.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+Value: sidflow.cfd
+Tweet: https://x.com/masaomi346/status/2121510626992517438</description>
+         <guid isPermaLink="false">sidflow.cfd</guid>
+         <pubDate>Sat, 14 Nov 2026 07:48:43 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://secure-xserver-25394.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://secure-xserver-25394.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">https://secure-xserver-25394.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>http://incomestonefield.com</title>
+         <link>https://x.com/TKemmerling/status/2121438199176392947</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://incomestonefield.com
+Tweet: https://x.com/TKemmerling/status/2121438199176392947</description>
+         <guid isPermaLink="false">http://incomestonefield.com</guid>
+         <pubDate>Sat, 14 Nov 2026 03:00:55 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>secure-xserver-25394.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | domain | #phishing
-Value: secure-xserver-25394.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">secure-xserver-25394.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>incomestonefield.com</title>
+         <link>https://x.com/TKemmerling/status/2121438199176392947</link>
+         <description>@TKemmerling | domain | #phishing
+Value: incomestonefield.com
+Tweet: https://x.com/TKemmerling/status/2121438199176392947</description>
+         <guid isPermaLink="false">incomestonefield.com</guid>
+         <pubDate>Sat, 14 Nov 2026 03:00:55 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://secure-xserver-11523.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | url | #phishing
-Value: https://secure-xserver-11523.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">https://secure-xserver-11523.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>http://loanfairfield.com</title>
+         <link>https://x.com/TKemmerling/status/2121423136537411981</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://loanfairfield.com
+Tweet: https://x.com/TKemmerling/status/2121423136537411981</description>
+         <guid isPermaLink="false">http://loanfairfield.com</guid>
+         <pubDate>Sat, 14 Nov 2026 02:01:04 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>secure-xserver-11523.kurasoo.com</title>
-         <link>https://x.com/masaomi346/status/2113430686107619559</link>
-         <description>@masaomi346 | domain | #phishing
-Value: secure-xserver-11523.kurasoo.com
-Tweet: https://x.com/masaomi346/status/2113430686107619559</description>
-         <guid isPermaLink="false">secure-xserver-11523.kurasoo.com</guid>
-         <pubDate>Fri, 23 Oct 2026 00:41:55 +0000</pubDate>
+         <title>loanfairfield.com</title>
+         <link>https://x.com/TKemmerling/status/2121423136537411981</link>
+         <description>@TKemmerling | domain | #phishing
+Value: loanfairfield.com
+Tweet: https://x.com/TKemmerling/status/2121423136537411981</description>
+         <guid isPermaLink="false">loanfairfield.com</guid>
+         <pubDate>Sat, 14 Nov 2026 02:01:04 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>https://9oogle.app</title>
-         <link>https://x.com/PhishStats/status/2113385912574804342</link>
+         <title>http://wealthstepguide.com</title>
+         <link>https://x.com/TKemmerling/status/2121408097281528227</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://wealthstepguide.com
+Tweet: https://x.com/TKemmerling/status/2121408097281528227</description>
+         <guid isPermaLink="false">http://wealthstepguide.com</guid>
+         <pubDate>Sat, 14 Nov 2026 01:01:18 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>wealthstepguide.com</title>
+         <link>https://x.com/TKemmerling/status/2121408097281528227</link>
+         <description>@TKemmerling | domain | #phishing
+Value: wealthstepguide.com
+Tweet: https://x.com/TKemmerling/status/2121408097281528227</description>
+         <guid isPermaLink="false">wealthstepguide.com</guid>
+         <pubDate>Sat, 14 Nov 2026 01:01:18 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://scanned.page/p/3OhzCy?id=nkuyv79qJ7</title>
+         <link>https://x.com/PhishStats/status/2121404572862452064</link>
          <description>@PhishStats | url | #phishing
-Value: https://9oogle.app
-Tweet: https://x.com/PhishStats/status/2113385912574804342</description>
-         <guid isPermaLink="false">https://9oogle.app</guid>
-         <pubDate>Thu, 22 Oct 2026 21:44:01 +0000</pubDate>
+Value: https://scanned.page/p/3OhzCy?id=nkuyv79qJ7
+Tweet: https://x.com/PhishStats/status/2121404572862452064</description>
+         <guid isPermaLink="false">https://scanned.page/p/3OhzCy?id=nkuyv79qJ7</guid>
+         <pubDate>Sat, 14 Nov 2026 00:47:18 +0000</pubDate>
          <category>url</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>9oogle.app</title>
-         <link>https://x.com/PhishStats/status/2113385912574804342</link>
+         <title>scanned.page</title>
+         <link>https://x.com/PhishStats/status/2121404572862452064</link>
          <description>@PhishStats | domain | #phishing
-Value: 9oogle.app
-Tweet: https://x.com/PhishStats/status/2113385912574804342</description>
-         <guid isPermaLink="false">9oogle.app</guid>
-         <pubDate>Thu, 22 Oct 2026 21:44:01 +0000</pubDate>
+Value: scanned.page
+Tweet: https://x.com/PhishStats/status/2121404572862452064</description>
+         <guid isPermaLink="false">scanned.page</guid>
+         <pubDate>Sat, 14 Nov 2026 00:47:18 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>a69452e56c7ec55b99e5b5ea24a35b299689c959ea4db02a435f304373b1c34e</title>
+         <link>https://x.com/masaomi346/status/2121398249370313052</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: a69452e56c7ec55b99e5b5ea24a35b299689c959ea4db02a435f304373b1c34e
+Tweet: https://x.com/masaomi346/status/2121398249370313052</description>
+         <guid isPermaLink="false">a69452e56c7ec55b99e5b5ea24a35b299689c959ea4db02a435f304373b1c34e</guid>
+         <pubDate>Sat, 14 Nov 2026 00:22:10 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://rawchocolate-jp.com</title>
+         <link>https://x.com/masaomi346/status/2121398249370313052</link>
+         <description>@masaomi346 | url | #malware #phishing
+Value: https://rawchocolate-jp.com
+Tweet: https://x.com/masaomi346/status/2121398249370313052</description>
+         <guid isPermaLink="false">https://rawchocolate-jp.com</guid>
+         <pubDate>Sat, 14 Nov 2026 00:22:10 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>rawchocolate-jp.com</title>
+         <link>https://x.com/masaomi346/status/2121398249370313052</link>
+         <description>@masaomi346 | domain | #malware #phishing
+Value: rawchocolate-jp.com
+Tweet: https://x.com/masaomi346/status/2121398249370313052</description>
+         <guid isPermaLink="false">rawchocolate-jp.com</guid>
+         <pubDate>Sat, 14 Nov 2026 00:22:10 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232</title>
+         <link>https://x.com/masaomi346/status/2121395803336089900</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232
+Tweet: https://x.com/masaomi346/status/2121395803336089900</description>
+         <guid isPermaLink="false">c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232</guid>
+         <pubDate>Sat, 14 Nov 2026 00:12:27 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://analhos.com</title>
+         <link>https://x.com/masaomi346/status/2121395803336089900</link>
+         <description>@masaomi346 | url | #malware #phishing
+Value: https://analhos.com
+Tweet: https://x.com/masaomi346/status/2121395803336089900</description>
+         <guid isPermaLink="false">https://analhos.com</guid>
+         <pubDate>Sat, 14 Nov 2026 00:12:27 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>analhos.com</title>
+         <link>https://x.com/masaomi346/status/2121395803336089900</link>
+         <description>@masaomi346 | domain | #malware #phishing
+Value: analhos.com
+Tweet: https://x.com/masaomi346/status/2121395803336089900</description>
+         <guid isPermaLink="false">analhos.com</guid>
+         <pubDate>Sat, 14 Nov 2026 00:12:27 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://loanfairfield.com</title>
+         <link>https://x.com/TKemmerling/status/2121392371741155590</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://loanfairfield.com
+Tweet: https://x.com/TKemmerling/status/2121392371741155590</description>
+         <guid isPermaLink="false">http://loanfairfield.com</guid>
+         <pubDate>Fri, 13 Nov 2026 23:58:49 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>loanfairfield.com</title>
+         <link>https://x.com/TKemmerling/status/2121392371741155590</link>
+         <description>@TKemmerling | domain | #phishing
+Value: loanfairfield.com
+Tweet: https://x.com/TKemmerling/status/2121392371741155590</description>
+         <guid isPermaLink="false">loanfairfield.com</guid>
+         <pubDate>Fri, 13 Nov 2026 23:58:49 +0000</pubDate>
          <category>domain</category>
          <category>#phishing</category>
       </item>

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 47
-# Updated: 2026-10-23T18:46:16Z
+# Entries: 63
+# Updated: 2026-11-14T19:34:31Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -16,31 +16,45 @@
 0.0.0.0 ababy9.com
 0.0.0.0 agustoto.vip
 0.0.0.0 amecxfund.com
+0.0.0.0 analhos.com
 0.0.0.0 antibot-linkedin.com
 0.0.0.0 apiupdated.com
 0.0.0.0 apology.fulqhj.asia
+0.0.0.0 app.freelance-levtech.info
 0.0.0.0 appdata.eastus.cloudapp.azure.com
+0.0.0.0 asiannetmark.org
 0.0.0.0 certificazi.one
 0.0.0.0 citrixplugins.blob.core.windows.net
 0.0.0.0 dbaoi.com
-0.0.0.0 f003.backblazeb2.com
 0.0.0.0 firedmanlaw.co.uk
 0.0.0.0 gptverification.com
 0.0.0.0 gran1xea.xyz
 0.0.0.0 h92jcihwicllow.wuaze.com
 0.0.0.0 helensolution.info
 0.0.0.0 hlushkova.top
+0.0.0.0 incomestonefield.com
 0.0.0.0 jimcooks211.github.io
+0.0.0.0 lapaca.webdirecto.com
+0.0.0.0 loanfairfield.com
 0.0.0.0 maildeveloper.site
+0.0.0.0 metaslate.org
+0.0.0.0 moments-notice.com
+0.0.0.0 newbooker.com
 0.0.0.0 opengraph.vip
 0.0.0.0 oreshnik.top
+0.0.0.0 pakdigital.org
 0.0.0.0 patchmewhenyoucan.com
 0.0.0.0 patchorgetpwned.com
 0.0.0.0 payload1717.pro
+0.0.0.0 pharaohkit.cloud
 0.0.0.0 phppatcher.com
+0.0.0.0 planetmaison.com
 0.0.0.0 pobruog.wiki
+0.0.0.0 rawchocolate-jp.com
+0.0.0.0 reallifeaccounting.com
 0.0.0.0 restsetestes.com
 0.0.0.0 samehoo229.fun
+0.0.0.0 scanned.page
 0.0.0.0 secdarvin2026.icu
 0.0.0.0 secure-xserver-11523.kurasoo.com
 0.0.0.0 secure-xserver-25394.kurasoo.com
@@ -48,10 +62,12 @@
 0.0.0.0 secure-xserver-46955.kurasoo.com
 0.0.0.0 secure-xserver-89123.kurasoo.com
 0.0.0.0 seosolu.com
+0.0.0.0 sidflow.cfd
 0.0.0.0 smaluf.net
 0.0.0.0 sobesmarje.com
 0.0.0.0 t-trustrest.com
 0.0.0.0 vwwv-roblox.co
+0.0.0.0 wealthstepguide.com
 0.0.0.0 wwppodd6688.com
 0.0.0.0 xzttyt.xyz
 0.0.0.0 zmngfjl.fun

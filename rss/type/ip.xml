@@ -6,119 +6,200 @@
       <description>Real-time ip IOCs shared by the infosec community on TweetFeed. Refreshed every 15 minutes.</description>
       <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
       <image>
-         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
          <title>TweetFeed - ip IOC feed</title>
          <link>https://tweetfeed.live/malicious-ips/</link>
       </image>
       <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Fri, 23 Oct 2026 18:46:16 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 14 Nov 2026 19:34:32 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
-         <title>217.60.102.5</title>
-         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
-         <description>@Vega_Threat | ip | #PHP2Shell
-Value: 217.60.102.5
-Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
-         <guid isPermaLink="false">217.60.102.5</guid>
-         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
+         <title>63.250.52.29</title>
+         <link>https://x.com/mylesndav/status/2121424037746540928</link>
+         <description>@mylesndav | ip | 
+Value: 63.250.52.29
+Tweet: https://x.com/mylesndav/status/2121424037746540928</description>
+         <guid isPermaLink="false">63.250.52.29</guid>
+         <pubDate>Sat, 14 Nov 2026 18:47:59 +0000</pubDate>
          <category>ip</category>
-         <category>#PHP2Shell</category>
       </item>
       <item>
-         <title>77.90.185.20</title>
-         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
-         <description>@Vega_Threat | ip | #PHP2Shell
-Value: 77.90.185.20
-Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
-         <guid isPermaLink="false">77.90.185.20</guid>
-         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
-         <category>ip</category>
-         <category>#PHP2Shell</category>
-      </item>
-      <item>
-         <title>102.134.35.141</title>
-         <link>https://x.com/Vega_Threat/status/2113666965722079324</link>
-         <description>@Vega_Threat | ip | #PHP2Shell
-Value: 102.134.35.141
-Tweet: https://x.com/Vega_Threat/status/2113666965722079324</description>
-         <guid isPermaLink="false">102.134.35.141</guid>
-         <pubDate>Fri, 23 Oct 2026 16:20:49 +0000</pubDate>
-         <category>ip</category>
-         <category>#PHP2Shell</category>
-      </item>
-      <item>
-         <title>165.154.241.113</title>
-         <link>https://x.com/kubotaa3/status/2113634827715117474</link>
-         <description>@kubotaa3 | ip | #phishing
-Value: 165.154.241.113
-Tweet: https://x.com/kubotaa3/status/2113634827715117474</description>
-         <guid isPermaLink="false">165.154.241.113</guid>
-         <pubDate>Fri, 23 Oct 2026 14:13:07 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>45.74.61.12</title>
-         <link>https://x.com/PhishStats/status/2113627723243405655</link>
+         <title>79.112.153.148</title>
+         <link>https://x.com/PhishStats/status/2121634712963907929</link>
          <description>@PhishStats | ip | #phishing
-Value: 45.74.61.12
-Tweet: https://x.com/PhishStats/status/2113627723243405655</description>
-         <guid isPermaLink="false">45.74.61.12</guid>
-         <pubDate>Fri, 23 Oct 2026 13:44:53 +0000</pubDate>
+Value: 79.112.153.148
+Tweet: https://x.com/PhishStats/status/2121634712963907929</description>
+         <guid isPermaLink="false">79.112.153.148</guid>
+         <pubDate>Sat, 14 Nov 2026 16:01:48 +0000</pubDate>
          <category>ip</category>
          <category>#phishing</category>
       </item>
       <item>
-         <title>43.164.137.93</title>
-         <link>https://x.com/kubotaa3/status/2113582274667241853</link>
-         <description>@kubotaa3 | ip | #phishing
-Value: 43.164.137.93
-Tweet: https://x.com/kubotaa3/status/2113582274667241853</description>
-         <guid isPermaLink="false">43.164.137.93</guid>
-         <pubDate>Fri, 23 Oct 2026 10:44:17 +0000</pubDate>
+         <title>195.20.115.80</title>
+         <link>https://x.com/Fact_Finder03/status/2121602654317199513</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 195.20.115.80
+Tweet: https://x.com/Fact_Finder03/status/2121602654317199513</description>
+         <guid isPermaLink="false">195.20.115.80</guid>
+         <pubDate>Sat, 14 Nov 2026 13:54:24 +0000</pubDate>
          <category>ip</category>
-         <category>#phishing</category>
+         <category>#C2</category>
       </item>
       <item>
-         <title>45.91.248.5</title>
-         <link>https://x.com/PhishStats/status/2113503087054799198</link>
-         <description>@PhishStats | ip | #phishing
-Value: 45.91.248.5
-Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
-         <guid isPermaLink="false">45.91.248.5</guid>
-         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
+         <title>94.156.114.17</title>
+         <link>https://x.com/Fact_Finder03/status/2121602283410760132</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 94.156.114.17
+Tweet: https://x.com/Fact_Finder03/status/2121602283410760132</description>
+         <guid isPermaLink="false">94.156.114.17</guid>
+         <pubDate>Sat, 14 Nov 2026 13:52:56 +0000</pubDate>
          <category>ip</category>
-         <category>#phishing</category>
+         <category>#C2</category>
       </item>
       <item>
-         <title>104.143.42.209</title>
-         <link>https://x.com/smica83/status/2113374095416905793</link>
-         <description>@smica83 | ip | 
-Value: 104.143.42.209
-Tweet: https://x.com/smica83/status/2113374095416905793</description>
-         <guid isPermaLink="false">104.143.42.209</guid>
-         <pubDate>Thu, 22 Oct 2026 20:57:03 +0000</pubDate>
+         <title>94.72.107.12</title>
+         <link>https://x.com/Fact_Finder03/status/2121600367184187557</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 94.72.107.12
+Tweet: https://x.com/Fact_Finder03/status/2121600367184187557</description>
+         <guid isPermaLink="false">94.72.107.12</guid>
+         <pubDate>Sat, 14 Nov 2026 13:45:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>130.94.62.21</title>
+         <link>https://x.com/Fact_Finder03/status/2121600121033175232</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 130.94.62.21
+Tweet: https://x.com/Fact_Finder03/status/2121600121033175232</description>
+         <guid isPermaLink="false">130.94.62.21</guid>
+         <pubDate>Sat, 14 Nov 2026 13:44:20 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>202.10.35.251</title>
+         <link>https://x.com/Fact_Finder03/status/2121595345633432052</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 202.10.35.251
+Tweet: https://x.com/Fact_Finder03/status/2121595345633432052</description>
+         <guid isPermaLink="false">202.10.35.251</guid>
+         <pubDate>Sat, 14 Nov 2026 13:25:22 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>185.247.118.172</title>
+         <link>https://x.com/Fact_Finder03/status/2121595345633432052</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 185.247.118.172
+Tweet: https://x.com/Fact_Finder03/status/2121595345633432052</description>
+         <guid isPermaLink="false">185.247.118.172</guid>
+         <pubDate>Sat, 14 Nov 2026 13:25:22 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>51.250.112.153</title>
+         <link>https://x.com/Fact_Finder03/status/2121564375391879286</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 51.250.112.153
+Tweet: https://x.com/Fact_Finder03/status/2121564375391879286</description>
+         <guid isPermaLink="false">51.250.112.153</guid>
+         <pubDate>Sat, 14 Nov 2026 11:22:18 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>65.21.208.193</title>
+         <link>https://x.com/Fact_Finder03/status/2121564375391879286</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 65.21.208.193
+Tweet: https://x.com/Fact_Finder03/status/2121564375391879286</description>
+         <guid isPermaLink="false">65.21.208.193</guid>
+         <pubDate>Sat, 14 Nov 2026 11:22:18 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>146.103.126.75</title>
+         <link>https://x.com/Fact_Finder03/status/2121564375391879286</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 146.103.126.75
+Tweet: https://x.com/Fact_Finder03/status/2121564375391879286</description>
+         <guid isPermaLink="false">146.103.126.75</guid>
+         <pubDate>Sat, 14 Nov 2026 11:22:18 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>178.128.147.5</title>
+         <link>https://x.com/Fact_Finder03/status/2121564375391879286</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 178.128.147.5
+Tweet: https://x.com/Fact_Finder03/status/2121564375391879286</description>
+         <guid isPermaLink="false">178.128.147.5</guid>
+         <pubDate>Sat, 14 Nov 2026 11:22:18 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>2.27.71.134</title>
+         <link>https://x.com/Fact_Finder03/status/2121560409014751442</link>
+         <description>@Fact_Finder03 | ip | #C2
+Value: 2.27.71.134
+Tweet: https://x.com/Fact_Finder03/status/2121560409014751442</description>
+         <guid isPermaLink="false">2.27.71.134</guid>
+         <pubDate>Sat, 14 Nov 2026 11:06:32 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+      <item>
+         <title>35.200.59.251</title>
+         <link>https://x.com/Fact_Finder03/status/2121559228846641181</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 35.200.59.251
+Tweet: https://x.com/Fact_Finder03/status/2121559228846641181</description>
+         <guid isPermaLink="false">35.200.59.251</guid>
+         <pubDate>Sat, 14 Nov 2026 11:01:51 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>191.217.250.102</title>
+         <link>https://x.com/Fact_Finder03/status/2121559228846641181</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 191.217.250.102
+Tweet: https://x.com/Fact_Finder03/status/2121559228846641181</description>
+         <guid isPermaLink="false">191.217.250.102</guid>
+         <pubDate>Sat, 14 Nov 2026 11:01:51 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>45.61.182.56</title>
+         <link>https://x.com/sicehice/status/2121431668791579085</link>
+         <description>@sicehice | ip | 
+Value: 45.61.182.56
+Tweet: https://x.com/sicehice/status/2121431668791579085</description>
+         <guid isPermaLink="false">45.61.182.56</guid>
+         <pubDate>Sat, 14 Nov 2026 02:34:58 +0000</pubDate>
          <category>ip</category>
       </item>
       <item>
-         <title>77.220.212.113</title>
-         <link>https://x.com/smica83/status/2113348751532118078</link>
-         <description>@smica83 | ip | 
-Value: 77.220.212.113
-Tweet: https://x.com/smica83/status/2113348751532118078</description>
-         <guid isPermaLink="false">77.220.212.113</guid>
-         <pubDate>Thu, 22 Oct 2026 19:16:21 +0000</pubDate>
-         <category>ip</category>
-      </item>
-      <item>
-         <title>172.82.64.48</title>
-         <link>https://x.com/malwrhunterteam/status/2113341322392133833</link>
-         <description>@malwrhunterteam | ip | 
-Value: 172.82.64.48
-Tweet: https://x.com/malwrhunterteam/status/2113341322392133833</description>
-         <guid isPermaLink="false">172.82.64.48</guid>
-         <pubDate>Thu, 22 Oct 2026 18:53:12 +0000</pubDate>
+         <title>185.241.211.197</title>
+         <link>https://x.com/HuntressLabs/status/2121375722363301973</link>
+         <description>@HuntressLabs | ip | 
+Value: 185.241.211.197
+Tweet: https://x.com/HuntressLabs/status/2121375722363301973</description>
+         <guid isPermaLink="false">185.241.211.197</guid>
+         <pubDate>Fri, 13 Nov 2026 22:52:40 +0000</pubDate>
          <category>ip</category>
       </item>
    </channel>
